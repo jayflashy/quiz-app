@@ -1,0 +1,602 @@
+[
+    {
+      "id": 1,
+      "topic": "Perfect Competition - Characteristics and Basics",
+      "question": "Which of the following is NOT a characteristic of a perfectly competitive market?",
+      "options": {
+        "A": "Large number of buyers and sellers",
+        "B": "Homogeneous products",
+        "C": "Barriers to entry and exit",
+        "D": "Perfect information"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 2,
+      "topic": "Perfect Competition - Characteristics and Basics",
+      "question": "In perfect competition, individual firms are referred to as:",
+      "options": {
+        "A": "Price makers",
+        "B": "Price takers",
+        "C": "Price setters",
+        "D": "Market leaders"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 3,
+      "topic": "Perfect Competition - Characteristics and Basics",
+      "question": "The concept of \"homogeneous products\" in perfect competition means that:",
+      "options": {
+        "A": "Goods are heavily branded and differentiated.",
+        "B": "Goods offered by different sellers are identical in quality, features, and functions.",
+        "C": "Products are unique and have no close substitutes.",
+        "D": "Goods are sold at different prices by different sellers."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 4,
+      "topic": "Perfect Competition - Characteristics and Basics",
+      "question": "What does \"perfect information\" entail in a perfectly competitive market?",
+      "options": {
+        "A": "Only producers know the market conditions.",
+        "B": "Only consumers have access to pricing data.",
+        "C": "Both buyers and sellers have complete knowledge about prices and market conditions.",
+        "D": "The government regulates all market data."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 5,
+      "topic": "Perfect Competition - Characteristics and Basics",
+      "question": "In perfect competition, the firm's demand curve is:",
+      "options": {
+        "A": "Downward-sloping",
+        "B": "Upward-sloping",
+        "C": "Perfectly elastic (horizontal)",
+        "D": "Perfectly inelastic (vertical)"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 6,
+      "topic": "Perfect Competition - Characteristics and Basics",
+      "question": "Why does an individual firm in perfect competition face a perfectly elastic demand curve?",
+      "options": {
+        "A": "Because it is a monopoly.",
+        "B": "Because its product is a perfect substitute for others, meaning it cannot influence the market price.",
+        "C": "Because consumers have imperfect information.",
+        "D": "Because the firm can dictate the quantity demanded."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 7,
+      "topic": "Revenue, Cost, and Equilibrium in Perfect Competition",
+      "question": "In a perfectly competitive market, Average Revenue (AR) is always equal to:",
+      "options": {
+        "A": "Marginal Cost (MC)",
+        "B": "Total Cost (TC)",
+        "C": "Price (P)",
+        "D": "Total Revenue (TR)"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 8,
+      "topic": "Revenue, Cost, and Equilibrium in Perfect Competition",
+      "question": "Marginal Revenue (MR) for a perfectly competitive firm is equal to:",
+      "options": {
+        "A": "The change in Average Cost.",
+        "B": "Total Revenue divided by Quantity.",
+        "C": "Price, since price is constant.",
+        "D": "The change in Quantity over the change in Total Revenue."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 9,
+      "topic": "Revenue, Cost, and Equilibrium in Perfect Competition",
+      "question": "Market equilibrium in a perfectly competitive market is achieved when:",
+      "options": {
+        "A": "The quantity supplied equals the quantity demanded.",
+        "B": "Supply exceeds demand.",
+        "C": "Demand exceeds supply.",
+        "D": "Total revenue is maximized."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 10,
+      "topic": "Revenue, Cost, and Equilibrium in Perfect Competition",
+      "question": "How is Marginal Cost (MC) defined in the text?",
+      "options": {
+        "A": "The sum of all costs incurred in production.",
+        "B": "The total cost divided by output.",
+        "C": "The fixed cost of producing goods.",
+        "D": "The increase in total cost resulting from the production of one additional unit."
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 11,
+      "topic": "Revenue, Cost, and Equilibrium in Perfect Competition",
+      "question": "If a bakery produces five loaves at a total cost of $10 and six loaves at $12, what is the marginal cost of the sixth loaf?",
+      "options": {
+        "A": "$10",
+        "B": "$12",
+        "C": "$2",
+        "D": "$22"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 12,
+      "topic": "Revenue, Cost, and Equilibrium in Perfect Competition",
+      "question": "Total Revenue (TR) is calculated using which formula?",
+      "options": {
+        "A": "TR = Price (P) + Quantity (Q)",
+        "B": "TR = Price (P) × Quantity (Q)",
+        "C": "TR = Marginal Revenue (MR) × Quantity (Q)",
+        "D": "TR = Average Revenue (AR) / Quantity (Q)"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 13,
+      "topic": "Profit Maximization and Short-Run/Long-Run Dynamics",
+      "question": "The profit-maximizing rule for a firm states that it should produce at the optimal output level where:",
+      "options": {
+        "A": "MR = MC, subject to the condition that MC is falling.",
+        "B": "MR = MC, subject to the condition that MC is rising.",
+        "C": "AR = AC.",
+        "D": "TR = TC."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 14,
+      "topic": "Profit Maximization and Short-Run/Long-Run Dynamics",
+      "question": "If a firm is operating at an output level where MR > MC, it should:",
+      "options": {
+        "A": "Reduce output to increase profit.",
+        "B": "Shut down immediately.",
+        "C": "Keep output constant.",
+        "D": "Produce more to increase profit."
+      },
+      "correctAnswer": "D"
+    },
+    {
+      "id": 15,
+      "topic": "Profit Maximization and Short-Run/Long-Run Dynamics",
+      "question": "In the short run, a firm experiences \"Supernormal Profit\" when:",
+      "options": {
+        "A": "AR = AC",
+        "B": "AR < AC",
+        "C": "AR > AC",
+        "D": "AR < AVC"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 16,
+      "topic": "Profit Maximization and Short-Run/Long-Run Dynamics",
+      "question": "A firm in perfect competition will experience losses but continue to operate in the short run if:",
+      "options": {
+        "A": "AR > AC",
+        "B": "AR < AC but AR > AVC (Average Variable Cost)",
+        "C": "AR < AVC",
+        "D": "MR > MC"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 17,
+      "topic": "Profit Maximization and Short-Run/Long-Run Dynamics",
+      "question": "What represents the shutdown point for a firm in the short run?",
+      "options": {
+        "A": "When AR = AC",
+        "B": "When AR < AVC",
+        "C": "When MR = 0",
+        "D": "When TR = TC"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 18,
+      "topic": "Profit Maximization and Short-Run/Long-Run Dynamics",
+      "question": "In the long run, firms in a perfectly competitive market earn:",
+      "options": {
+        "A": "Supernormal profits",
+        "B": "Economic losses",
+        "C": "Normal profits (where AR = AC)",
+        "D": "Monopoly rents"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 19,
+      "topic": "Profit Maximization and Short-Run/Long-Run Dynamics",
+      "question": "What ensures that supernormal profits and losses are eliminated in the long run under perfect competition?",
+      "options": {
+        "A": "High barriers to entry",
+        "B": "Government intervention",
+        "C": "Free entry and exit of firms",
+        "D": "Product differentiation"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 20,
+      "topic": "Efficiency and Limitations of Perfect Competition",
+      "question": "Allocative efficiency is achieved in perfect competition because:",
+      "options": {
+        "A": "Firms produce at the lowest point on their AC curve.",
+        "B": "Price equals Marginal Cost (P = MC).",
+        "C": "Total revenue is maximized.",
+        "D": "Marginal revenue is zero."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 21,
+      "topic": "Efficiency and Limitations of Perfect Competition",
+      "question": "Productive efficiency in perfect competition means that firms:",
+      "options": {
+        "A": "Allocate resources to produce goods most desired by society.",
+        "B": "Produce at the lowest point on their long-run average cost (LRAC) curve.",
+        "C": "Maximize their marginal revenue.",
+        "D": "Set prices above marginal cost."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 22,
+      "topic": "Efficiency and Limitations of Perfect Competition",
+      "question": "Which of the following is listed as a limitation of the perfect competition model?",
+      "options": {
+        "A": "It perfectly predicts all real-world market behaviors.",
+        "B": "Perfect competition rarely exists in real-world markets due to barriers to entry and product differentiation.",
+        "C": "Consumers never benefit from lower prices.",
+        "D": "It assumes buyers have no knowledge of prices."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 23,
+      "topic": "Efficiency and Limitations of Perfect Competition",
+      "question": "\"Imperfect information\" in real-world markets leads to:",
+      "options": {
+        "A": "Perfect allocative efficiency.",
+        "B": "Suboptimal decision-making by consumers and producers.",
+        "C": "A completely horizontal demand curve.",
+        "D": "Lower average variable costs."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 24,
+      "topic": "Monopoly - Characteristics and Demand/Revenue",
+      "question": "A monopoly is defined as a market structure in which:",
+      "options": {
+        "A": "Multiple firms sell differentiated products.",
+        "B": "Two large firms dominate the market.",
+        "C": "There is a single producer or seller that has control over the entire market.",
+        "D": "Firms are price takers."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 25,
+      "topic": "Monopoly - Characteristics and Demand/Revenue",
+      "question": "In a monopoly, the demand curve of the organization constitutes the demand curve of the entire industry because:",
+      "options": {
+        "A": "The monopolist produces a homogeneous product.",
+        "B": "There is no distinction between an organization and the whole industry.",
+        "C": "There are no barriers to entry.",
+        "D": "Marginal cost is zero."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 26,
+      "topic": "Monopoly - Characteristics and Demand/Revenue",
+      "question": "The Average Revenue (AR) curve of a monopolist:",
+      "options": {
+        "A": "Slopes downward",
+        "B": "Slopes upward",
+        "C": "Is perfectly horizontal",
+        "D": "Is perfectly vertical"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 27,
+      "topic": "Monopoly - Characteristics and Demand/Revenue",
+      "question": "How does the Marginal Revenue (MR) curve relate to the Average Revenue (AR) curve in a monopoly?",
+      "options": {
+        "A": "MR is greater than AR.",
+        "B": "MR is equal to AR at all levels of output.",
+        "C": "MR is less than AR and falls below it.",
+        "D": "MR is positive only when AR is negative."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 28,
+      "topic": "Monopoly - Characteristics and Demand/Revenue",
+      "question": "If MR is greater than AR, what happens to the AR curve?",
+      "options": {
+        "A": "AR remains constant.",
+        "B": "AR rises.",
+        "C": "AR falls.",
+        "D": "AR drops to zero."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 29,
+      "topic": "Monopoly - Characteristics and Demand/Revenue",
+      "question": "According to Table-1 in the text, Marginal Revenue (MR) falls at what rate compared to Average Revenue (AR)?",
+      "options": {
+        "A": "Half the rate of AR",
+        "B": "The same rate as AR",
+        "C": "Twice the rate of AR",
+        "D": "Three times the rate of AR"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 30,
+      "topic": "Monopoly - Characteristics and Demand/Revenue",
+      "question": "Under a monopoly, if the monopolist wants to sell more quantity, he/she must:",
+      "options": {
+        "A": "Increase the price.",
+        "B": "Reduce the price.",
+        "C": "Keep the price constant.",
+        "D": "Increase the marginal cost."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 31,
+      "topic": "Monopoly Equilibrium and Profit Maximization",
+      "question": "The main aim of a monopolist is to:",
+      "options": {
+        "A": "Earn maximum profit.",
+        "B": "Produce where price equals marginal cost.",
+        "C": "Maximize social welfare.",
+        "D": "Achieve productive efficiency."
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 32,
+      "topic": "Monopoly Equilibrium and Profit Maximization",
+      "question": "Monopoly equilibrium (profit maximization) is achieved at the point where:",
+      "options": {
+        "A": "MR = AR",
+        "B": "MR = MC",
+        "C": "P = MC",
+        "D": "TR = TC"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 33,
+      "topic": "Monopoly Equilibrium and Profit Maximization",
+      "question": "In Figure-3, if a monopolist produces output beyond the equilibrium point OQ:",
+      "options": {
+        "A": "Additional units will generate a profit.",
+        "B": "MR will be greater than MC.",
+        "C": "The organization will incur a loss on those additional units because MR < MC.",
+        "D": "Total revenue will decrease to zero immediately."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 34,
+      "topic": "Monopoly Equilibrium and Profit Maximization",
+      "question": "In the long run, how does a monopolist adjust to demand?",
+      "options": {
+        "A": "By allowing free entry of new competitors.",
+        "B": "By becoming a price taker.",
+        "C": "By expanding the size of its plants while entry of new organizations remains restricted.",
+        "D": "By producing at the minimum of the short-run average cost curve."
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 35,
+      "topic": "Monopoly Equilibrium and Profit Maximization",
+      "question": "If a monopolist incurs long-run losses despite holding patents, the most likely outcome is that:",
+      "options": {
+        "A": "New competitors will enter the market.",
+        "B": "The monopolist may exit the business.",
+        "C": "The government will subsidize the market.",
+        "D": "The marginal revenue will turn positive."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 36,
+      "topic": "Monopoly - Mathematical Examples and Elasticity",
+      "question": "The mathematical relationship between price (AR), Marginal Revenue (MR), and price elasticity of demand (e) is given by:",
+      "options": {
+        "A": "MR = AR × e",
+        "B": "MR = AR / (e-1)",
+        "C": "MR = AR [(e-1)/e]",
+        "D": "MR = AR [e/(e-1)]"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 37,
+      "topic": "Monopoly - Mathematical Examples and Elasticity",
+      "question": "At monopoly equilibrium, Marginal Cost (MC) is equal to:",
+      "options": {
+        "A": "AR [(e-1)/e]",
+        "B": "AR / e",
+        "C": "MR × e",
+        "D": "TR - TC"
+      },
+      "correctAnswer": "A"
+    },
+    {
+      "id": 38,
+      "topic": "Monopoly - Mathematical Examples and Elasticity",
+      "question": "In Example-1, the demand function for a monopoly is given as Q = 200 - 0.4Q. What is the corresponding Price function (P)?",
+      "options": {
+        "A": "P = 100 - 4Q",
+        "B": "P = 1000 - 10Q",
+        "C": "P = 200 - 4Q",
+        "D": "P = 1000 - 0.4Q"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 39,
+      "topic": "Monopoly - Mathematical Examples and Elasticity",
+      "question": "Given TR = 1000Q - 10Q², what is the Marginal Revenue (MR) equation?",
+      "options": {
+        "A": "MR = 1000 - 10Q",
+        "B": "MR = 1000 - 20Q",
+        "C": "MR = 100 - 20Q",
+        "D": "MR = 20Q"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 40,
+      "topic": "Monopoly - Mathematical Examples and Elasticity",
+      "question": "Given the Total Cost function TC = 100 + 40Q + Q², what is the Marginal Cost (MC) equation?",
+      "options": {
+        "A": "MC = 40 + Q",
+        "B": "MC = 100 + 2Q",
+        "C": "MC = 40 + 2Q",
+        "D": "MC = 40Q + 2"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 41,
+      "topic": "Monopoly - Mathematical Examples and Elasticity",
+      "question": "Setting MR = MC (1000 - 20Q = 40 + 2Q) yields an approximate profit-maximizing output (Q) of:",
+      "options": {
+        "A": "20 units",
+        "B": "35 units",
+        "C": "44 units (approx. 43.63)",
+        "D": "50 units"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 42,
+      "topic": "Monopoly - Mathematical Examples and Elasticity",
+      "question": "In a situation where the Marginal Cost (MC) of production is zero (e.g., spring water), equilibrium is achieved where:",
+      "options": {
+        "A": "MR is maximized.",
+        "B": "MR equals zero.",
+        "C": "AR equals zero.",
+        "D": "Price equals zero."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 43,
+      "topic": "Monopoly - Mathematical Examples and Elasticity",
+      "question": "When MC = 0, the equilibrium position is located at the mid-point of the AR curve. At this point, the elasticity of demand is:",
+      "options": {
+        "A": "Greater than 1 (elastic)",
+        "B": "Less than 1 (inelastic)",
+        "C": "Unity (equal to 1)",
+        "D": "Zero (perfectly inelastic)"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 44,
+      "topic": "Monopoly vs. Perfect Competition - Deadweight Loss and Efficiency",
+      "question": "According to the document, a monopoly violates the basic condition for economic efficiency because:",
+      "options": {
+        "A": "It operates where MR = 0.",
+        "B": "It charges a price that exceeds marginal cost (P > MC).",
+        "C": "It cannot calculate marginal revenue.",
+        "D": "It always operates at a loss in the short run."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 45,
+      "topic": "Monopoly vs. Perfect Competition - Deadweight Loss and Efficiency",
+      "question": "What economic term describes the loss to society caused by a monopoly reducing output from the competitive level?",
+      "options": {
+        "A": "Consumer surplus",
+        "B": "Producer surplus",
+        "C": "Deadweight loss",
+        "D": "Normal profit"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 46,
+      "topic": "Monopoly vs. Perfect Competition - Deadweight Loss and Efficiency",
+      "question": "In the hand-drawn graph analyzing monopoly efficiency, the shaded area represents:",
+      "options": {
+        "A": "Total variable costs",
+        "B": "Supernormal profits for the monopolist",
+        "C": "The deadweight loss to society",
+        "D": "The competitive equilibrium price"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 47,
+      "topic": "Monopoly vs. Perfect Competition - Deadweight Loss and Efficiency",
+      "question": "Economic efficiency requires that consumers confront prices that are equal to:",
+      "options": {
+        "A": "Average fixed cost",
+        "B": "Marginal revenue",
+        "C": "Marginal cost",
+        "D": "Total cost"
+      },
+      "correctAnswer": "C"
+    },
+    {
+      "id": 48,
+      "topic": "Monopoly vs. Perfect Competition - Deadweight Loss and Efficiency",
+      "question": "Because a monopoly restricts output to increase price, consumers will:",
+      "options": {
+        "A": "Consume more of the monopoly goods.",
+        "B": "Consume less of the monopoly goods.",
+        "C": "Substitute perfectly for homogeneous products.",
+        "D": "Experience an increase in consumer surplus."
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 49,
+      "topic": "Monopoly vs. Perfect Competition - Deadweight Loss and Efficiency",
+      "question": "In Figure-3, the total profits earned by the monopoly are represented by which shaded area?",
+      "options": {
+        "A": "Area OQ",
+        "B": "Area ABEC",
+        "C": "Area under the MC curve",
+        "D": "Area above the AR curve"
+      },
+      "correctAnswer": "B"
+    },
+    {
+      "id": 50,
+      "topic": "Monopoly vs. Perfect Competition - Deadweight Loss and Efficiency",
+      "question": "What is the fundamental difference between perfect competition and monopoly regarding barriers to entry?",
+      "options": {
+        "A": "Both have high barriers to entry.",
+        "B": "Both have free entry and exit.",
+        "C": "Perfect competition has strict barriers, while monopolies have none.",
+        "D": "Perfect competition has free entry and exit, whereas a monopoly has obstacles that restrict entry of new competitors."
+      },
+      "correctAnswer": "D"
+    }
+  ]
