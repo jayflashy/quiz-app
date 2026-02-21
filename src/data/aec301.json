@@ -1,0 +1,2162 @@
+[
+    {
+        "id": 1,
+        "topic": "Introduction to Statistics",
+        "question": "According to the provided material, statistics is best described as:",
+        "options": {
+            "A": "A branch of physics focused on quantum mechanics",
+            "B": "The science of collecting data and analysing them to infer proportions that are representative of the population",
+            "C": "The study of constants and non-varying elements in a controlled environment",
+            "D": "The manual calculation of agricultural outputs without predictive modeling"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 2,
+        "topic": "Introduction to Statistics",
+        "question": "Why is statistics deemed particularly necessary in agricultural research?",
+        "options": {
+            "A": "Because agricultural researchers do not use modern data processing equipment.",
+            "B": "Because agriculture relies solely on fractional and isolated approaches.",
+            "C": "Because the quantitative agricultural researches are largely based on statistical data to solve multidisciplinary problems.",
+            "D": "Because statistics eliminates the need for any field experiments."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 3,
+        "topic": "Variables and Constants",
+        "question": "In behavioral sciences, variables that are believed to exist and explain behavior but are not directly observable (like memory) are called:",
+        "options": {
+            "A": "True independent variables",
+            "B": "Hypothetical constructs",
+            "C": "Operational constants",
+            "D": "Extraneous variables"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 4,
+        "topic": "Variables and Constants",
+        "question": "Which of the following best defines an operational definition?",
+        "options": {
+            "A": "A description of anything that remains stable and does not change across time.",
+            "B": "A clear and concise description of the procedures used to manipulate or measure a hypothetical construct.",
+            "C": "A variable that is allowed to randomly vary without limits.",
+            "D": "The boundaries located exactly half-way between adjacent categories."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 5,
+        "topic": "Variables and Constants",
+        "question": "In an experiment, variables that are directly manipulated across groups or situations are often called:",
+        "options": {
+            "A": "Dependent variables",
+            "B": "True independent variables",
+            "C": "Confounding variables",
+            "D": "Control variables"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 6,
+        "topic": "Variables and Constants",
+        "question": "An extraneous variable that is made into a constant across all levels of the independent variable is known as a:",
+        "options": {
+            "A": "Dependent variable",
+            "B": "Confounding variable",
+            "C": "Control variable",
+            "D": "Continuous variable"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 7,
+        "topic": "Variables and Constants",
+        "question": "Extraneous variables become a problem in a study ONLY when they:",
+        "options": {
+            "A": "Are clearly defined and measured.",
+            "B": "Remain constant across the levels of the independent variable.",
+            "C": "Become confounding variables that change as the levels of the independent variable change.",
+            "D": "Are strictly controlled by the researcher."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 8,
+        "topic": "Variables and Constants",
+        "question": "Variables that consist of indivisible categories, such as class size, are classified as:",
+        "options": {
+            "A": "Continuous variables",
+            "B": "Extraneous variables",
+            "C": "Discrete variables",
+            "D": "Confounding variables"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 9,
+        "topic": "Variables and Constants",
+        "question": "To define the units for a continuous variable, a researcher must use boundaries located exactly half-way between adjacent categories. These boundaries are known as:",
+        "options": {
+            "A": "Real limits",
+            "B": "Discrete limits",
+            "C": "Operational boundaries",
+            "D": "Nominal ranges"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 10,
+        "topic": "Scales of Measurement",
+        "question": "Which scale of measurement is an unordered set of categories identified only by name, permitting only the determination of whether two individuals are the same or different?",
+        "options": {
+            "A": "Ordinal scale",
+            "B": "Interval scale",
+            "C": "Ratio scale",
+            "D": "Nominal scale"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 11,
+        "topic": "Scales of Measurement",
+        "question": "An interval scale is distinguished from an ordinal scale because an interval scale has:",
+        "options": {
+            "A": "An absolute zero point that indicates none of the variable.",
+            "B": "An ordered series of equal-sized categories with an arbitrarily located zero point.",
+            "C": "Unordered categories identified only by name.",
+            "D": "Categories that only tell the direction of difference, not the magnitude."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 12,
+        "topic": "Scales of Measurement",
+        "question": "Which scale of measurement allows for ratio comparisons of measurements because it possesses an absolute zero point?",
+        "options": {
+            "A": "Ratio scale",
+            "B": "Interval scale",
+            "C": "Ordinal scale",
+            "D": "Nominal scale"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 13,
+        "topic": "Research Design",
+        "question": "The goal of this type of study is simply to determine whether there is a relationship between two variables as they exist naturally, without demonstrating cause-and-effect. This is a:",
+        "options": {
+            "A": "True experiment",
+            "B": "Correlational study",
+            "C": "Laboratory experiment",
+            "D": "Double-blind trial"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 14,
+        "topic": "Research Design",
+        "question": "Non-experimental or quasi-experimental studies are similar to correlational research because:",
+        "options": {
+            "A": "They use a manipulated variable to differentiate the groups.",
+            "B": "They can easily demonstrate absolute cause-and-effect relationships.",
+            "C": "They simply demonstrate and describe relationships without the manipulation and control of true experiments.",
+            "D": "They strictly occur in laboratory settings."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 15,
+        "topic": "Populations and Samples",
+        "question": "A descriptive value for a population is called a _________, while a descriptive value for a sample is called a _________.",
+        "options": {
+            "A": "Statistic, Parameter",
+            "B": "Variable, Constant",
+            "C": "Parameter, Statistic",
+            "D": "Sample, Universe"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 16,
+        "topic": "Populations and Samples",
+        "question": "The discrepancy or difference between a sample statistic and its corresponding population parameter is referred to as:",
+        "options": {
+            "A": "Standard deviation",
+            "B": "Sampling error",
+            "C": "Measurement error",
+            "D": "Operational error"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 17,
+        "topic": "Descriptive Statistics",
+        "question": "Which branch of statistics involves methods for organizing and summarizing data (e.g., using tables, graphs, or calculating the average score)?",
+        "options": {
+            "A": "Inferential statistics",
+            "B": "Non-parametric statistics",
+            "C": "Descriptive statistics",
+            "D": "Probability statistics"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 18,
+        "topic": "Descriptive Statistics",
+        "question": "Descriptive statistics comprises three main categories. Which of the following is NOT one of them?",
+        "options": {
+            "A": "Measures of Frequency",
+            "B": "Measures of Central Tendency",
+            "C": "Measures of Hypothesis Testing",
+            "D": "Measures of Variability (Dispersion)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 19,
+        "topic": "Measures of Central Tendency",
+        "question": "If the number of observations in a dataset is even, how is the median determined?",
+        "options": {
+            "A": "It is the observation that occurs the maximum number of times.",
+            "B": "It is the mean of the two middle observations in the sorted data.",
+            "C": "It is simply the highest value minus the lowest value.",
+            "D": "It is the exact middle observation of the unsorted data."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 20,
+        "topic": "Measures of Central Tendency",
+        "question": "Which of the following statements about the properties of the mean, median, and mode is correct?",
+        "options": {
+            "A": "Mean is highly robust and not affected by outliers.",
+            "B": "Median and Mode are significantly shifted by the presence of large outliers.",
+            "C": "Mean shifts towards the outlier because it considers all data points.",
+            "D": "In a symmetrical distribution, the Mean is always greater than the Median."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 21,
+        "topic": "Measures of Central Tendency",
+        "question": "If a distribution is perfectly symmetrical (like a normal distribution), the relationship between the mean, median, and mode is:",
+        "options": {
+            "A": "Mean > Median > Mode",
+            "B": "Mean < Median < Mode",
+            "C": "Mean = Median = Mode",
+            "D": "Mean = Median, but Mode is undefined"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 22,
+        "topic": "Measures of Dispersion",
+        "question": "Which measure of dispersion is calculated by taking the square root of the variance?",
+        "options": {
+            "A": "Mean Absolute Deviation",
+            "B": "Standard Deviation",
+            "C": "Range",
+            "D": "Interquartile Range"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 23,
+        "topic": "Measures of Dispersion",
+        "question": "In quartile analysis, what percentage of the data points lie below Q3?",
+        "options": {
+            "A": "25%",
+            "B": "50%",
+            "C": "75%",
+            "D": "100%"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 24,
+        "topic": "Skewness and Kurtosis",
+        "question": "When a distribution has a larger tail on the right side and the mean is greater than the mode, the distribution exhibits:",
+        "options": {
+            "A": "Negative Skew",
+            "B": "Positive Skew",
+            "C": "Mesokurtosis",
+            "D": "Zero Skew"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 25,
+        "topic": "Skewness and Kurtosis",
+        "question": "If a distribution's tail is light (indicating no outliers) and its kurtosis is lesser than that of a normal distribution, it is described as:",
+        "options": {
+            "A": "Mesokurtic",
+            "B": "Leptokurtic",
+            "C": "Platykurtic",
+            "D": "Symmetrical"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 26,
+        "topic": "Skewness and Kurtosis",
+        "question": "A distribution that is heavy-tailed, indicating the presence of outliers and a kurtosis higher than that of a normal distribution, is called:",
+        "options": {
+            "A": "Leptokurtic",
+            "B": "Platykurtic",
+            "C": "Mesokurtic",
+            "D": "Positively Skewed"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 27,
+        "topic": "Descriptive Statistics",
+        "question": "In a dataset of returns, which statistic counts the total number of observations that fall in the current return range AND all previous return ranges?",
+        "options": {
+            "A": "Relative Frequency",
+            "B": "Cumulative Frequency",
+            "C": "Relative Frequency Percentage",
+            "D": "Geometric Mean"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 28,
+        "topic": "Descriptive Statistics",
+        "question": "Which of the following calculates the average return on an investment portfolio by multiplying the returns (plus one) and taking the nth root?",
+        "options": {
+            "A": "Arithmetic Mean",
+            "B": "Weighted Average",
+            "C": "Geometric Mean",
+            "D": "Mean Absolute Deviation"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 29,
+        "topic": "Descriptive Statistics",
+        "question": "Based on the empirical rule for normal distributions, approximately what percentage of the scores in a sample fall within two standard deviations of the mean?",
+        "options": {
+            "A": "68%",
+            "B": "95%",
+            "C": "99%",
+            "D": "100%"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 30,
+        "topic": "Descriptive Statistics",
+        "question": "The Absolute Deviation from Mean (also called Mean Absolute Deviation) describes:",
+        "options": {
+            "A": "The square root of the variance in the dataset.",
+            "B": "The difference between the maximum and minimum values.",
+            "C": "The average absolute distance of each data point from the mean.",
+            "D": "The asymmetry of the probability distribution."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 31,
+        "topic": "Descriptive Statistics",
+        "question": "To calculate the variance of a sample, the sum of the squared deviations from the mean is divided by:",
+        "options": {
+            "A": "The number of observations (n)",
+            "B": "The number of observations minus one (n - 1)",
+            "C": "The mean of the observations",
+            "D": "The standard deviation"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 32,
+        "topic": "Data Collection Methods",
+        "question": "Data collected afresh and for the first time directly from respondents for an original purpose are known as:",
+        "options": {
+            "A": "Secondary data",
+            "B": "Qualitative secondary data",
+            "C": "Primary data",
+            "D": "Historical data"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 33,
+        "topic": "Data Collection Methods",
+        "question": "When a researcher surveys every single member of a target population, such as all the maize farms in a district, this process is known as a:",
+        "options": {
+            "A": "Sample survey",
+            "B": "Census",
+            "C": "Focus group",
+            "D": "Panel study"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 34,
+        "topic": "Data Collection Methods",
+        "question": "Which of the following is NOT a characteristic to be cautiously checked when deciding to use secondary data?",
+        "options": {
+            "A": "Reliability of the data",
+            "B": "Suitability of the data",
+            "C": "Adequacy of the data",
+            "D": "Ensuring the data was never published before"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 35,
+        "topic": "Data Collection Methods",
+        "question": "An interaction where an investigator contacts third parties or witnesses who are closely associated with the persons under study (e.g., mothers answering for babies) is an example of:",
+        "options": {
+            "A": "Direct personal interview",
+            "B": "Indirect personal interview",
+            "C": "Self-administered questionnaire",
+            "D": "Laboratory experiment"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 36,
+        "topic": "Data Collection Methods",
+        "question": "A major merit of the Mail Interview method is that:",
+        "options": {
+            "A": "It is the fastest method for gathering quickly needed information.",
+            "B": "It yields the highest possible response rate among all interview types.",
+            "C": "It is useful where interviewees are spread over a vast geographical area.",
+            "D": "Probes are easy to handle and questions can be continually modified."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 37,
+        "topic": "Data Collection Methods",
+        "question": "What is the recommended size for a Focus Group Interview?",
+        "options": {
+            "A": "2 - 5 people",
+            "B": "6 - 15 people",
+            "C": "20 - 30 people",
+            "D": "More than 50 people"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 38,
+        "topic": "Data Collection Methods",
+        "question": "In which interviewing technique does the respondent sit at a computer terminal and complete a questionnaire unaided, without an interviewer present?",
+        "options": {
+            "A": "Computer Assisted Personal Interviewing (CAPI)",
+            "B": "Computer Assisted Telephone Interview (CATI)",
+            "C": "Computer Assisted Self Interviewing (CASI)",
+            "D": "Panel Interview"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 39,
+        "topic": "Data Collection Methods",
+        "question": "A longitudinal study design in which data are collected from the same sample of representative individuals repeatedly at different points in time is known as a:",
+        "options": {
+            "A": "Focus group interview",
+            "B": "Cross-sectional survey",
+            "C": "Panel Interview/Survey",
+            "D": "Census"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 40,
+        "topic": "Data Collection Methods",
+        "question": "Which of the following is a key characteristic of Unstructured Interviews?",
+        "options": {
+            "A": "The interviewer uses a tightly structured schedule.",
+            "B": "Questions are asked in a rigid, predetermined order.",
+            "C": "They are characterized by flexibility, often allowing spontaneous and colloquial questions.",
+            "D": "Forms are filled out by respondents themselves without interaction."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 41,
+        "topic": "Data Collection Methods",
+        "question": "The method of collecting data by directly monitoring behavior or an event without asking specific questions or sometimes without the knowledge of the respondents is:",
+        "options": {
+            "A": "Experimentation",
+            "B": "Observation method",
+            "C": "Panel Survey",
+            "D": "Opinionnaire"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 42,
+        "topic": "Data Collection Methods",
+        "question": "When a researcher joins in the daily life of informants or organizations to observe how they behave without altering their behavior, this is known as:",
+        "options": {
+            "A": "Laboratory experiment",
+            "B": "Non-participatory observation",
+            "C": "Participant (participatory) observation",
+            "D": "Structured interview"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 43,
+        "topic": "Data Collection Methods",
+        "question": "In which data collection method is one variable deliberately manipulated while all other variables are kept constant in a highly controlled setting?",
+        "options": {
+            "A": "Laboratory Experiment",
+            "B": "Field Experiment",
+            "C": "Participant Observation",
+            "D": "Unstructured Interview"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 44,
+        "topic": "Data Collection Methods",
+        "question": "Unlike a laboratory experiment, a field experiment:",
+        "options": {
+            "A": "Is conducted in a specially created, artificial setting.",
+            "B": "Maintains direct control over all extraneous variables.",
+            "C": "Is conducted in a natural setting where subjects are normally found.",
+            "D": "Does not involve the manipulation of any independent variable."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 45,
+        "topic": "Research Instruments",
+        "question": "Questions that require a 'Yes' or 'No', 'True' or 'False' response are termed:",
+        "options": {
+            "A": "Cafeteria questions",
+            "B": "Open-ended questions",
+            "C": "Dichotomous questions",
+            "D": "Rating questions"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 46,
+        "topic": "Research Instruments",
+        "question": "Which type of question asks respondents to judge something along an ordered dimension, typically using a scale from strongly disagree to strongly agree?",
+        "options": {
+            "A": "Dichotomous questions",
+            "B": "Checklist",
+            "C": "Rating questions",
+            "D": "Cafeteria questions"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 47,
+        "topic": "Research Instruments",
+        "question": "Pre-testing a questionnaire means administering it to a random sample before actual data collection. What is the primary purpose of this?",
+        "options": {
+            "A": "To include the results in the final data analysis immediately.",
+            "B": "To sanitize the instrument, identify confusing questions, and reduce response errors.",
+            "C": "To train the respondents on the research topic.",
+            "D": "To force a conclusion before conducting the main survey."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 48,
+        "topic": "Research Instruments",
+        "question": "A special form of inquiry used to collect and gauge the attitudes or beliefs of a sample of population on certain facts is called:",
+        "options": {
+            "A": "A census",
+            "B": "An opinionnaire",
+            "C": "An observation checklist",
+            "D": "A proficiency test"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 49,
+        "topic": "Research Instruments",
+        "question": "When an instrument appears to measure what it is supposed to measure, as verified by experts evaluating its intent, it possesses:",
+        "options": {
+            "A": "Predictive validity",
+            "B": "Face validity",
+            "C": "Construct validity",
+            "D": "Concurrent validity"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 50,
+        "topic": "Research Instruments",
+        "question": "The extent to which an experiment, test, or measuring procedure yields consistent results on repeated trials is referred to as:",
+        "options": {
+            "A": "Validity",
+            "B": "Precision",
+            "C": "Reliability",
+            "D": "Accuracy"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 51,
+        "topic": "Data Collection Errors",
+        "question": "Which of the following errors occurs when some of the elements in the population do not want or cannot answer a certain question?",
+        "options": {
+            "A": "Selection error",
+            "B": "Non-answer (Non-response) error",
+            "C": "Measurement Process Error",
+            "D": "Processing Error"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 52,
+        "topic": "Data Collection Errors",
+        "question": "Error due to survey instrument design, badly worded questions, or an interviewer influencing the subject's responses is known as:",
+        "options": {
+            "A": "Measurement Process Error",
+            "B": "Processing and Analysis Error",
+            "C": "Sampling Error",
+            "D": "Conceptual Error"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 53,
+        "topic": "Sampling Techniques",
+        "question": "What is the term for the list of sampling units from which a sample is drawn?",
+        "options": {
+            "A": "Sample size",
+            "B": "Sampling fraction",
+            "C": "Observational unit",
+            "D": "Sampling frame"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 54,
+        "topic": "Sampling Techniques",
+        "question": "Which of the following is NOT listed as a valid reason for taking a sample instead of conducting a census?",
+        "options": {
+            "A": "Reduced cost",
+            "B": "Time factor and speed",
+            "C": "Destructive nature of getting the population data",
+            "D": "Sampling eliminates all measurement errors"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 55,
+        "topic": "Sampling Techniques",
+        "question": "The difference between the number of elements in the universe and the number of elements in the sampling frame is known as the:",
+        "options": {
+            "A": "Sampling fraction",
+            "B": "Gap",
+            "C": "Precision",
+            "D": "Confidence interval"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 56,
+        "topic": "Sampling Techniques",
+        "question": "A sampling method that ensures each element in the population has a calculable, non-zero probability of being randomly selected is called:",
+        "options": {
+            "A": "Purposive sampling",
+            "B": "Probability sampling",
+            "C": "Quota sampling",
+            "D": "Snowball sampling"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 57,
+        "topic": "Sampling Techniques",
+        "question": "In which probability sampling method is the population divided into homogeneous groups, and then a sample is drawn proportionally from each group?",
+        "options": {
+            "A": "Cluster Sampling",
+            "B": "Systematic Sampling",
+            "C": "Stratified Sampling",
+            "D": "Simple Random Sampling"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 58,
+        "topic": "Sampling Techniques",
+        "question": "In cluster sampling, the members of each divided group or section are typically:",
+        "options": {
+            "A": "Homogeneous within the group and heterogeneous between groups.",
+            "B": "Heterogeneous within the group and homogeneous between groups.",
+            "C": "Determined randomly without any geographical consideration.",
+            "D": "Self-selected volunteers."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 59,
+        "topic": "Sampling Techniques",
+        "question": "Which sampling technique selects members of the population at a regular and consistent interval (e.g., selecting every 10th person)?",
+        "options": {
+            "A": "Systematic Sampling",
+            "B": "Stratified Sampling",
+            "C": "Snowball Sampling",
+            "D": "Purposive Sampling"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 60,
+        "topic": "Sampling Techniques",
+        "question": "A researcher divides a university into faculties, randomly selects 5 faculties, then randomly selects 2 departments from those faculties, and finally randomly selects students within those departments. This method is:",
+        "options": {
+            "A": "Double sampling",
+            "B": "Multistage sampling",
+            "C": "Quota sampling",
+            "D": "Convenience sampling"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 61,
+        "topic": "Sampling Techniques",
+        "question": "Non-probability sampling techniques are characterized by the fact that:",
+        "options": {
+            "A": "They rely on the subjectivity or judgment of the researcher.",
+            "B": "They ensure a completely unbiased representation of the population.",
+            "C": "Every member has an equal chance of selection.",
+            "D": "They are more expensive and difficult to execute than probability sampling."
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 62,
+        "topic": "Sampling Techniques",
+        "question": "Selecting sample members simply because they are easy to reach (e.g., first come, first served) is known as:",
+        "options": {
+            "A": "Purposive sampling",
+            "B": "Snowball sampling",
+            "C": "Convenience (Accidental) sampling",
+            "D": "Systematic sampling"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 63,
+        "topic": "Sampling Techniques",
+        "question": "A sampling method in which the selection of elements is based strictly on the opinion, wisdom, and experience of the researcher is:",
+        "options": {
+            "A": "Purposive / Judgmental sampling",
+            "B": "Quota sampling",
+            "C": "Sequential sampling",
+            "D": "Simple Random sampling"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 64,
+        "topic": "Sampling Techniques",
+        "question": "In which non-probability method is the sample selected non-randomly according to a specific required proportion of characteristics (e.g., ensuring exactly 40% women and 60% men are surveyed)?",
+        "options": {
+            "A": "Stratified sampling",
+            "B": "Quota sampling",
+            "C": "Snowball sampling",
+            "D": "Cluster sampling"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 65,
+        "topic": "Sampling Techniques",
+        "question": "A researcher studying a hard-to-reach population (e.g., homeless people) starts by identifying one subject, who then recommends others. This technique is called:",
+        "options": {
+            "A": "Double sampling",
+            "B": "Sequential sampling",
+            "C": "Snowball sampling",
+            "D": "Key informant sampling"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 66,
+        "topic": "Sampling Techniques",
+        "question": "Which sampling technique starts with a small sample size, checks if statistical precision is achieved, and then increases the sample size progressively until the desired precision is met?",
+        "options": {
+            "A": "Double sampling",
+            "B": "Sequential sampling",
+            "C": "Representation sampling",
+            "D": "Key informant sampling"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 67,
+        "topic": "Sampling Techniques",
+        "question": "If a significant non-respondent group exists, a researcher might draw another sample from the non-respondents to improve representation. This describes:",
+        "options": {
+            "A": "Multistage sampling",
+            "B": "Double sampling",
+            "C": "Purposive sampling",
+            "D": "Systematic sampling"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 68,
+        "topic": "Sample Size Determination",
+        "question": "The Central Limit Theorem (CLT) states that the distribution of sample means approximates a normal distribution as sample size gets larger. A sample size is often considered sufficient for the CLT to hold if it is equal to or greater than:",
+        "options": {
+            "A": "15",
+            "B": "30",
+            "C": "100",
+            "D": "150"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 69,
+        "topic": "Sample Size Determination",
+        "question": "Which formula is provided by Yamane (1967) for calculating the optimal sample size given the population size (N) and level of precision (e)?",
+        "options": {
+            "A": "n = N / (1 - N(e)^2)",
+            "B": "n = N / (1 + N(e)^2)",
+            "C": "n = (z^2 * p(1-p)) / e^2",
+            "D": "n = N / (e + N^2)"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 70,
+        "topic": "Sample Size Determination",
+        "question": "Using Yamane's formula, if the population size (N) is 2000 and the level of precision (e) is 0.05, what is the calculated sample size (n)?",
+        "options": {
+            "A": "400",
+            "B": "333",
+            "C": "200",
+            "D": "100"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 71,
+        "topic": "Sample Size Determination",
+        "question": "When dealing with a very large or unknown population, the secondary formula for sample size is n = [z^2 * p(1-p)] / e^2. In this formula, 'z' represents:",
+        "options": {
+            "A": "Margin of error",
+            "B": "Standard deviation",
+            "C": "z-score for the confidence level",
+            "D": "Total population size"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 72,
+        "topic": "Sample Size Determination",
+        "question": "What does the 'Margin of Error' (Confidence Interval) reflect in sample size determination?",
+        "options": {
+            "A": "The expected percentage of times the actual value falls outside the precision limit.",
+            "B": "How much higher or lower than the population parameter the sample estimate is allowed to be.",
+            "C": "The percentage of respondents who refuse to participate.",
+            "D": "The degree to which the sample is completely free of any error."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 73,
+        "topic": "Scales of Measurement",
+        "question": "Which of the following is an example of a nominal variable?",
+        "options": {
+            "A": "Temperature in Celsius",
+            "B": "Time measured in seconds",
+            "C": "Biological sex (male vs. female)",
+            "D": "Class rankings (1st, 2nd, 3rd)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 74,
+        "topic": "Descriptive Statistics",
+        "question": "In a dataset of test scores, a single value of 95 heavily skews a set where all other values are around 40. Which measure of central tendency would be most inflated by this outlier?",
+        "options": {
+            "A": "Mode",
+            "B": "Median",
+            "C": "Mean",
+            "D": "Range"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 75,
+        "topic": "Research Design",
+        "question": "A researcher simply observes and records the hours of sunlight and the height of plants in a wild field without manipulating the light. This is best described as a:",
+        "options": {
+            "A": "Correlational study",
+            "B": "True experiment",
+            "C": "Quasi-experiment",
+            "D": "Laboratory experiment"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 76,
+        "topic": "Data Collection Methods",
+        "question": "Information extracted from published censuses, organizational records, or journal articles collected by other researchers is termed:",
+        "options": {
+            "A": "Primary data",
+            "B": "Tertiary data",
+            "C": "Secondary data",
+            "D": "Raw data"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 77,
+        "topic": "Data Collection Errors",
+        "question": "When the target population is not clearly defined, causing the sample to not be representative of the true population of interest, this results in:",
+        "options": {
+            "A": "Measurement Error",
+            "B": "Processing Error",
+            "C": "Conceptual Error",
+            "D": "Non-response Error"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 78,
+        "topic": "Descriptive Statistics",
+        "question": "Consider the dataset: 11, 15, 16, 17, 17, 18, 19, 21, 21, 23. This dataset has two modes (17 and 21). Therefore, it is described as:",
+        "options": {
+            "A": "Uni-modal",
+            "B": "Bi-modal",
+            "C": "Multi-modal",
+            "D": "Symmetrical"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 79,
+        "topic": "Descriptive Statistics",
+        "question": "Which of the following statistics tells us whether a data distribution is symmetric or asymmetrical?",
+        "options": {
+            "A": "Kurtosis",
+            "B": "Standard Deviation",
+            "C": "Variance",
+            "D": "Skewness"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 80,
+        "topic": "Descriptive Statistics",
+        "question": "When calculating the standard deviation of a sample, you first calculate the deviations of each score from the mean. The sum of these unsquared discrepancies is always:",
+        "options": {
+            "A": "Equal to the variance",
+            "B": "Equal to zero",
+            "C": "Equal to the standard deviation",
+            "D": "Equal to the mean"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 81,
+        "topic": "Descriptive Statistics",
+        "question": "What is the formula for calculating the range of a distribution?",
+        "options": {
+            "A": "Maximum value + Minimum value",
+            "B": "Maximum value / Minimum value",
+            "C": "Maximum value - Minimum value",
+            "D": "(Maximum value - Minimum value) / 2"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 82,
+        "topic": "Sampling Techniques",
+        "question": "Which of the following is considered a major disadvantage of Simple Random Sampling?",
+        "options": {
+            "A": "It is highly unrepresentative even if all subjects participate.",
+            "B": "It requires a complete list of population members, which may be uneconomical or impossible.",
+            "C": "It is a highly subjective non-probability method.",
+            "D": "It guarantees that essential subgroups will not be represented."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 83,
+        "topic": "Sampling Techniques",
+        "question": "A key difference between Quota sampling and Stratified sampling is that:",
+        "options": {
+            "A": "Quota sampling uses random selection within groups, while stratified does not.",
+            "B": "Stratified sampling uses random selection within groups, while quota sampling uses non-random selection to fill quotas.",
+            "C": "Quota sampling only applies to continuous variables.",
+            "D": "Stratified sampling is a non-probability method."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 84,
+        "topic": "Research Instruments",
+        "question": "A type of research question that allows respondents to supply answers in their own words is known as:",
+        "options": {
+            "A": "Close-ended question",
+            "B": "Open-ended question",
+            "C": "Dichotomous question",
+            "D": "Cafeteria question"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 85,
+        "topic": "Research Instruments",
+        "question": "A special type of multiple-choice question where the respondent is asked to select a response according to their own point of view from a set of differing opinions (e.g., 'Fertilizer usage is necessary...' vs 'Fertilizer usage is harmful...') is called a:",
+        "options": {
+            "A": "Dichotomous question",
+            "B": "Cafeteria question",
+            "C": "Checklist",
+            "D": "Rating question"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 86,
+        "topic": "Research Instruments",
+        "question": "Testing the validity of a research instrument by comparing the results with some future occurrences is a method of establishing:",
+        "options": {
+            "A": "Face validity",
+            "B": "Content validity",
+            "C": "Concurrent validity",
+            "D": "Predictive validity"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 87,
+        "topic": "Data Collection Methods",
+        "question": "A clear benefit of using secondary data is that:",
+        "options": {
+            "A": "It always fits the exact operational definitions of the current study.",
+            "B": "Much of the background work has already been carried out, saving time and resources.",
+            "C": "It is completely immune to interviewer bias.",
+            "D": "It completely replaces the need for a literature review."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 88,
+        "topic": "Data Collection Methods",
+        "question": "An interviewer uses a predetermined set of questions in a specific order and records responses on a standardized form. This defines a:",
+        "options": {
+            "A": "Unstructured interview",
+            "B": "Focus group",
+            "C": "Structured interview",
+            "D": "Participant observation"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 89,
+        "topic": "Variables and Constants",
+        "question": "In a study investigating the effect of different teaching methods on student performance, the teaching method is the:",
+        "options": {
+            "A": "Dependent variable",
+            "B": "Independent variable",
+            "C": "Confounding variable",
+            "D": "Extraneous variable"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 90,
+        "topic": "Sampling Techniques",
+        "question": "An adequate sample size is one that is:",
+        "options": {
+            "A": "Exactly 10% of the population.",
+            "B": "Chosen strictly out of convenience without regard to population size.",
+            "C": "Sufficient in size to allow confidence in the stability of its characteristics.",
+            "D": "Always exactly 200 respondents, regardless of the population size."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 91,
+        "topic": "Non-parametric Statistics",
+        "question": "Why are non-parametric statistics often referred to as 'distribution-free' tests?",
+        "options": {
+            "A": "They are distributed freely without any cost to the researcher.",
+            "B": "They suit populations without the feature of a normal distribution.",
+            "C": "They are only used when the sample size is equal to the population size.",
+            "D": "They distribute error evenly across all variables."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 92,
+        "topic": "Non-parametric Statistics",
+        "question": "Compared to parametric tests, non-parametric tests are generally considered to be:",
+        "options": {
+            "A": "More efficient with a stronger power-efficiency ratio.",
+            "B": "Less efficient with a weaker power-efficiency ratio and a greater risk of Type II error.",
+            "C": "Exactly equal in efficiency as long as the sample size is large.",
+            "D": "Capable of estimating more population parameters."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 93,
+        "topic": "Non-parametric Statistics",
+        "question": "Which of the following is the parametric counterpart for the Kruskal-Wallis test?",
+        "options": {
+            "A": "Unpaired t-test",
+            "B": "Paired t-test",
+            "C": "One-way ANOVA",
+            "D": "Pearson correlation coefficient"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 94,
+        "topic": "Non-parametric Statistics",
+        "question": "Which of the following is a stated advantage of using non-parametric tests?",
+        "options": {
+            "A": "They require strong assumptions of homogeneity of variance.",
+            "B": "They produce accurate results even with a relatively small sample size.",
+            "C": "They are highly suitable for estimating multiple population parameters simultaneously.",
+            "D": "They are more readily accessible in a single statistical table than parametric tests."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 95,
+        "topic": "Chi-Square Test",
+        "question": "The Chi-square test is used to compare:",
+        "options": {
+            "A": "The means of two independent continuous variables.",
+            "B": "The variances of two large populations.",
+            "C": "Actual or observed distributions with expected or theoretical distributions.",
+            "D": "The standard deviation of a sample with a population."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 96,
+        "topic": "Chi-Square Test",
+        "question": "What is the formula for calculating the Chi-square statistic?",
+        "options": {
+            "A": "Σ(O - E) / E",
+            "B": "Σ(O - E)² / E",
+            "C": "Σ(E - O)² / O",
+            "D": "Σ(O + E)² / E"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 97,
+        "topic": "Chi-Square Test",
+        "question": "How are the degrees of freedom (ν) determined in a contingency table for a Chi-square test?",
+        "options": {
+            "A": "(Number of Columns - 1) * (Number of Rows - 1)",
+            "B": "Number of Columns + Number of Rows",
+            "C": "(Number of Columns * Number of Rows) - 1",
+            "D": "Total sample size - 1"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 98,
+        "topic": "Chi-Square Test",
+        "question": "In a Chi-square calculation, what should be done if the expected frequency for a cell is less than 5?",
+        "options": {
+            "A": "The test should be abandoned entirely.",
+            "B": "The cell should be deleted from the calculation.",
+            "C": "Merge the cell with an adjoining cell so that the expected frequency is greater than or equal to 5.",
+            "D": "Apply the Pearson correlation correction factor."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 99,
+        "topic": "Chi-Square Test",
+        "question": "When continuous distributions are applied to discrete data in a 2x2 table, what correction is made to the Chi-square formula by subtracting 0.5 from the absolute value of the numerator?",
+        "options": {
+            "A": "Pearson's Correction",
+            "B": "Fisher's Exact Correction",
+            "C": "Kruskal's Correction",
+            "D": "Yates' Correction for Continuity"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 100,
+        "topic": "Chi-Square Test",
+        "question": "Like variance, the Chi-square statistic possesses the property of being:",
+        "options": {
+            "A": "Multiplicative",
+            "B": "Additive",
+            "C": "Subtractive",
+            "D": "Constant"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 101,
+        "topic": "Chi-Square Test",
+        "question": "Using the Chi-square test to check how empirical observations fit expected data from theoretical distributions (like Binomial or Poisson) is known as:",
+        "options": {
+            "A": "Goodness of fit test",
+            "B": "Test of homogeneity",
+            "C": "Test of independence",
+            "D": "Analysis of variance"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 102,
+        "topic": "Hypothesis Testing",
+        "question": "In hypothesis testing, the Null Hypothesis (H0) is always expressed in a way that reflects:",
+        "options": {
+            "A": "A condition of extreme departure from the basic situation.",
+            "B": "A condition of no departure from the basic situation (e.g., equality or no difference).",
+            "C": "The exact findings of the alternative hypothesis.",
+            "D": "The absolute certainty of the sample statistic."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 103,
+        "topic": "Hypothesis Testing",
+        "question": "Which of the following is an example of an Alternative Hypothesis (Ha)?",
+        "options": {
+            "A": "μ1 = μ2",
+            "B": "μ = 50kg",
+            "C": "There is no relationship between variables.",
+            "D": "μ1 ≠ μ2"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 104,
+        "topic": "Hypothesis Testing",
+        "question": "What is the decision rule if the calculated absolute value of the test statistic is GREATER than the critical value from the distribution table?",
+        "options": {
+            "A": "Accept H0",
+            "B": "Reject H0",
+            "C": "Accept both H0 and Ha",
+            "D": "Increase the sample size and retest"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 105,
+        "topic": "Hypothesis Testing",
+        "question": "Type I error is defined as the decision to:",
+        "options": {
+            "A": "Accept a true Null Hypothesis.",
+            "B": "Accept a false Null Hypothesis.",
+            "C": "Reject a true Null Hypothesis.",
+            "D": "Reject a false Null Hypothesis."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 106,
+        "topic": "Hypothesis Testing",
+        "question": "The probability of committing a Type I error is denoted by:",
+        "options": {
+            "A": "β (Beta)",
+            "B": "α (Alpha, or level of significance)",
+            "C": "μ (Mu)",
+            "D": "σ (Sigma)"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 107,
+        "topic": "Hypothesis Testing",
+        "question": "Type II error occurs when a researcher:",
+        "options": {
+            "A": "Rejects a true statement.",
+            "B": "Accepts an assumption/statement when it is actually wrong.",
+            "C": "Sets the level of significance too high.",
+            "D": "Uses an incorrect sampling method."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 108,
+        "topic": "Hypothesis Testing",
+        "question": "If the alternative hypothesis is expressed as Ha: μ > x (population mean is greater than the sample mean), this requires a:",
+        "options": {
+            "A": "Two-tailed test",
+            "B": "One-tailed test (left side)",
+            "C": "One-tailed test (right side)",
+            "D": "Non-directional test"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 109,
+        "topic": "Hypothesis Testing",
+        "question": "In a two-tailed hypothesis test, the risk of committing a Type I error (α) is:",
+        "options": {
+            "A": "Placed entirely on the right side of the distribution.",
+            "B": "Placed entirely on the left side of the distribution.",
+            "C": "Divided into two halves (α/2) on both the right and left sides.",
+            "D": "Ignored because the test is bidirectional."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 110,
+        "topic": "Z-Test",
+        "question": "The Z-test is typically selected when dealing with continuous data and a sample size that is:",
+        "options": {
+            "A": "Small (n < 30)",
+            "B": "Large (n ≥ 30)",
+            "C": "Exactly 15",
+            "D": "Unknown"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 111,
+        "topic": "Z-Test",
+        "question": "What is the critical Z value for a two-tailed test at a 5% level of significance?",
+        "options": {
+            "A": "±1.65",
+            "B": "±2.33",
+            "C": "±1.96",
+            "D": "±2.58"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 112,
+        "topic": "Z-Test",
+        "question": "What is the critical Z value for a two-tailed test at a 1% level of significance?",
+        "options": {
+            "A": "±1.65",
+            "B": "±1.96",
+            "C": "±2.33",
+            "D": "±2.58"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 113,
+        "topic": "Z-Test",
+        "question": "When testing the difference between two sample proportions (pA and pB), the best estimate of the standard error involves first finding the:",
+        "options": {
+            "A": "Median proportion",
+            "B": "Mode proportion",
+            "C": "Pooled proportion (p)",
+            "D": "Geometric mean of the proportions"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 114,
+        "topic": "T-Test",
+        "question": "When testing a hypothesis with a small sample (n < 30), which probability distribution is used instead of the Normal (Z) distribution?",
+        "options": {
+            "A": "F-distribution",
+            "B": "Student’s t-distribution",
+            "C": "Chi-square distribution",
+            "D": "Poisson distribution"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 115,
+        "topic": "T-Test",
+        "question": "The degrees of freedom (ν) for a Student’s t-test comparing the difference between TWO independent samples of sizes n1 and n2 is:",
+        "options": {
+            "A": "n1 - 1",
+            "B": "n1 + n2 - 1",
+            "C": "n1 + n2 - 2",
+            "D": "(n1 - 1) * (n2 - 1)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 116,
+        "topic": "T-Test",
+        "question": "A key assumption when using the t-distribution to test the difference between two small sample means is that:",
+        "options": {
+            "A": "The populations are highly skewed.",
+            "B": "The two standard deviations are equal or not significantly different, allowing them to be pooled.",
+            "C": "The sample sizes must be exactly equal.",
+            "D": "The data must be qualitative."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 117,
+        "topic": "F-Test and ANOVA",
+        "question": "The Fisher F Distribution is commonly used for comparing variability in samples and for testing:",
+        "options": {
+            "A": "If an observed frequency fits an expected frequency.",
+            "B": "Whether the means of more than two populations are equal (ANOVA).",
+            "C": "The difference between two sample proportions.",
+            "D": "The mode of a single small sample."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 118,
+        "topic": "F-Test and ANOVA",
+        "question": "In a One-Way ANOVA, the total variation of all observations about the overall mean is broken down into:",
+        "options": {
+            "A": "Row effects and column effects.",
+            "B": "Interaction effects and residual effects.",
+            "C": "Within-group variations and Between-group variations.",
+            "D": "Standard deviation and variance."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 119,
+        "topic": "F-Test and ANOVA",
+        "question": "How is the F-ratio calculated in an Analysis of Variance (ANOVA)?",
+        "options": {
+            "A": "Estimate of variance within groups / Estimate of variance between groups",
+            "B": "Estimate of variance between groups / Estimate of variance within groups",
+            "C": "Total sum of squares / Degrees of freedom",
+            "D": "Mean square error * Total observations"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 120,
+        "topic": "F-Test and ANOVA",
+        "question": "In a Two-Way ANOVA, which of the following is a source of variation that is NOT present in a One-Way ANOVA?",
+        "options": {
+            "A": "Within-group variation",
+            "B": "Interaction effects",
+            "C": "Total variation",
+            "D": "Residual effects"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 121,
+        "topic": "Descriptive Statistics",
+        "question": "Which descriptive statistic provides a single summary number describing the general performance of a student (e.g., GPA), despite the risk of losing important detail?",
+        "options": {
+            "A": "Standard Deviation",
+            "B": "Measure of Dispersion",
+            "C": "Measure of Central Tendency",
+            "D": "Measure of Frequency"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 122,
+        "topic": "Descriptive Statistics",
+        "question": "If an investment portfolio achieves returns of 10%, -3%, 8%, 12%, and -7% over 5 quarters, what is the arithmetic mean return?",
+        "options": {
+            "A": "2%",
+            "B": "3.72%",
+            "C": "4%",
+            "D": "8%"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 123,
+        "topic": "Descriptive Statistics",
+        "question": "The alternative method of calculating an average return on an investment portfolio that multiplies the factors (1+R) and takes the nth root is the:",
+        "options": {
+            "A": "Weighted Average",
+            "B": "Geometric Mean",
+            "C": "Arithmetic Mean",
+            "D": "Median"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 124,
+        "topic": "Descriptive Statistics",
+        "question": "To calculate the Weighted Average Return of a portfolio, you must account for:",
+        "options": {
+            "A": "The highest and lowest returns only.",
+            "B": "How much of the given portfolio is invested in each particular asset (percentage weight).",
+            "C": "The geometric progression of the timeline.",
+            "D": "The absolute deviations from the mean."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 125,
+        "topic": "Descriptive Statistics",
+        "question": "In descriptive statistics, Skewness tells us:",
+        "options": {
+            "A": "Whether the data is light-tailed or heavy-tailed.",
+            "B": "Whether the distribution of values is symmetric or asymmetrical.",
+            "C": "The difference between the maximum and minimum values.",
+            "D": "The square root of the variance."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 126,
+        "topic": "Descriptive Statistics",
+        "question": "When calculating Pearson's measure of Skewness, the formula is: 3 * (Mean - Median) / ?",
+        "options": {
+            "A": "Variance",
+            "B": "Standard Deviation",
+            "C": "Range",
+            "D": "Interquartile Range"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 127,
+        "topic": "Descriptive Statistics",
+        "question": "Kurtosis describes whether the data distribution is light-tailed or heavy-tailed compared to a normal distribution. A distribution that is strictly equivalent to the normal distribution (kurtosis = 0) is called:",
+        "options": {
+            "A": "Leptokurtic",
+            "B": "Platykurtic",
+            "C": "Mesokurtic",
+            "D": "Positively Skewed"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 128,
+        "topic": "Descriptive Statistics",
+        "question": "If a data distribution is Platykurtic, it means that:",
+        "options": {
+            "A": "The tail is heavy and outliers are present.",
+            "B": "The tail is light, there are fewer outliers, and kurtosis is less than that of a normal distribution.",
+            "C": "The curve is perfectly normal.",
+            "D": "The distribution has two distinct modes."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 129,
+        "topic": "Descriptive Statistics",
+        "question": "In a dataset of 8 test scores: 15, 20, 21, 20, 36, 15, 25, 15. The value 36 represents an extreme value that drastically affects the range and mean. This value is known as a(n):",
+        "options": {
+            "A": "Mode",
+            "B": "Parameter",
+            "C": "Outlier",
+            "D": "Constant"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 130,
+        "topic": "Descriptive Statistics",
+        "question": "Which of the following percentiles strictly corresponds to the Median (Q2)?",
+        "options": {
+            "A": "25th percentile",
+            "B": "50th percentile",
+            "C": "75th percentile",
+            "D": "100th percentile"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 131,
+        "topic": "Research Instruments",
+        "question": "The extent to which an instrument can accurately identify subjects that differ with respect to a given characteristic, often verified using a second already-validated instrument, is called:",
+        "options": {
+            "A": "Construct validity",
+            "B": "Content validity",
+            "C": "Concurrent validity",
+            "D": "Face validity"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 132,
+        "topic": "Research Instruments",
+        "question": "Reliability of a research instrument is mainly concerned with its:",
+        "options": {
+            "A": "Ability to measure the exact concept intended.",
+            "B": "Consistency and yielding the same result on repeated trials.",
+            "C": "Grammatical correctness and spelling.",
+            "D": "Length and time consumed during the survey."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 133,
+        "topic": "Research Instruments",
+        "question": "Test/Retest and Repeated observations are categories for testing the reliability of an instrument based on its:",
+        "options": {
+            "A": "Internal consistency",
+            "B": "Equivalence",
+            "C": "Stability",
+            "D": "Validity"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 134,
+        "topic": "Data Collection Methods",
+        "question": "Which form of data collection is highly effective in behavioral surveys (e.g., observing the attitude of workers on the job) without asking specific questions?",
+        "options": {
+            "A": "Laboratory experiment",
+            "B": "Mail interview",
+            "C": "Observation method",
+            "D": "Telephone interview"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 135,
+        "topic": "Data Collection Methods",
+        "question": "A limitation of the observation method is:",
+        "options": {
+            "A": "It views the operations of a strategy as they actually happen.",
+            "B": "Participants may alter their behavior if they are aware of the researcher's presence.",
+            "C": "It is cheaper than a mail questionnaire.",
+            "D": "It strictly forces participants into predefined conversational groups."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 136,
+        "topic": "Data Collection Methods",
+        "question": "What kind of observation takes place when an observer uses a pre-determined guide or codes behaviors carefully by recording when or how often they occur?",
+        "options": {
+            "A": "Unstructured observation",
+            "B": "Participant observation",
+            "C": "Structured observation",
+            "D": "Casual observation"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 137,
+        "topic": "Research Instruments",
+        "question": "Norm-referenced tests provide information on:",
+        "options": {
+            "A": "Whether a student has attained mastery of a specific skill.",
+            "B": "How the target performs against a normative reference group or population.",
+            "C": "The physical fitness of the respondent.",
+            "D": "The predictive validity of the questionnaire."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 138,
+        "topic": "Research Instruments",
+        "question": "Criterion-referenced assessments are designed to provide data on:",
+        "options": {
+            "A": "A subject's standing relative to his/her peers.",
+            "B": "Whether important skills or a level of mastery have been reached by the target.",
+            "C": "The standard error of the sample.",
+            "D": "The internal consistency of a checklist."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 139,
+        "topic": "Sampling Techniques",
+        "question": "The entity or unit on which the same measurement is taken during a study is defined as the:",
+        "options": {
+            "A": "Target population",
+            "B": "Observational unit",
+            "C": "Sampling frame",
+            "D": "Statistic"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 140,
+        "topic": "Sampling Techniques",
+        "question": "Which concept defines the proportion of the sampling frame that is included in the sample?",
+        "options": {
+            "A": "Gap",
+            "B": "Precision",
+            "C": "Sampling fraction",
+            "D": "Confidence Level"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 141,
+        "topic": "Data Collection Errors",
+        "question": "Which of the following best describes 'Selection Error' in sampling?",
+        "options": {
+            "A": "Error due to poorly worded questionnaire items.",
+            "B": "Error occurring when some elements in the population have a higher probability of being chosen than the rest.",
+            "C": "Error caused by computation mistakes.",
+            "D": "Error arising when respondents refuse to answer questions."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 142,
+        "topic": "Sampling Techniques",
+        "question": "Sampling error is defined mathematically as the combination of:",
+        "options": {
+            "A": "Frame error + Chance error + Response error",
+            "B": "Measurement error + Processing error + Conceptual error",
+            "C": "Bias + Variance",
+            "D": "Type I error + Type II error"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 143,
+        "topic": "Sampling Techniques",
+        "question": "The magnitude of the sampling error generally decreases when:",
+        "options": {
+            "A": "The population becomes more heterogeneous.",
+            "B": "The sample size is decreased.",
+            "C": "The sample size is increased.",
+            "D": "A non-probability sampling method is chosen."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 144,
+        "topic": "Sample Size Determination",
+        "question": "When calculating sample size, what factor represents the expected percentage of times that the actual value will fall within the stated precision limits?",
+        "options": {
+            "A": "Margin of Error",
+            "B": "Standard Deviation",
+            "C": "Confidence Level",
+            "D": "Population Size"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 145,
+        "topic": "Sample Size Determination",
+        "question": "In standard sample size calculations, if previous variance data is completely unknown before a survey, what is considered the safest and most forgiving standard deviation (p) to use in the formula?",
+        "options": {
+            "A": "0.01 (1%)",
+            "B": "0.05 (5%)",
+            "C": "0.5 (50%)",
+            "D": "1.0 (100%)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 146,
+        "topic": "Variables and Constants",
+        "question": "If biological sex is treated as a property that differs naturally between groups in an experiment, but it cannot be directly manipulated by the researcher, it is often treated as a(n):",
+        "options": {
+            "A": "True independent variable",
+            "B": "Hypothetical construct",
+            "C": "Quasi-independent variable",
+            "D": "Extraneous constant"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 147,
+        "topic": "Research Design",
+        "question": "In a quasi-experimental study examining depression scores before and after therapy, the 'Time' (before vs. after) serves as the:",
+        "options": {
+            "A": "True independent variable",
+            "B": "Dependent variable",
+            "C": "Quasi-independent variable",
+            "D": "Extraneous variable"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 148,
+        "topic": "Sampling Techniques",
+        "question": "Using the balloting process (lottery or Fish Bowl technique) is a practical way of executing:",
+        "options": {
+            "A": "Systematic sampling",
+            "B": "Simple random sampling",
+            "C": "Purposive sampling",
+            "D": "Quota sampling"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 149,
+        "topic": "Sampling Techniques",
+        "question": "Which sampling technique would require a researcher to choose individuals strictly as they happen to come by, until a predetermined proportion of certain characteristics is filled?",
+        "options": {
+            "A": "Stratified Sampling",
+            "B": "Systematic Sampling",
+            "C": "Quota Sampling",
+            "D": "Cluster Sampling"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 150,
+        "topic": "Sampling Techniques",
+        "question": "If an investigator wants to survey key experts well informed about a specific variable under study, the appropriate non-probability method is:",
+        "options": {
+            "A": "Snowball sampling",
+            "B": "Key informant sampling",
+            "C": "Double sampling",
+            "D": "Convenience sampling"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 151,
+        "topic": "Data Collection Methods",
+        "question": "A researcher interviews the principal, the school prefects, and a few senior students to ascertain the overall 'tone' of the university. This is an example of:",
+        "options": {
+            "A": "Representation sampling",
+            "B": "Census survey",
+            "C": "Double sampling",
+            "D": "Random sample"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 152,
+        "topic": "Research Instruments",
+        "question": "Which section of a formal questionnaire is designed to assure respondents of the anonymity/confidentiality of the information they volunteer?",
+        "options": {
+            "A": "Title",
+            "B": "General introduction",
+            "C": "Specific instructions",
+            "D": "Additional information"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 153,
+        "topic": "Hypothesis Testing",
+        "question": "If the p-value computed from a statistical test is less than the significance level (α), what conclusion must the researcher draw?",
+        "options": {
+            "A": "Accept H0",
+            "B": "Reject H0",
+            "C": "Increase α and recalculate",
+            "D": "There is no significant difference"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 154,
+        "topic": "Hypothesis Testing",
+        "question": "Which theorem assumes that means and standard deviations will approach a normal distribution and get closer to population parameters as the sample size increases?",
+        "options": {
+            "A": "Pythagorean Theorem",
+            "B": "Law of Large Numbers",
+            "C": "Central Limit Theorem",
+            "D": "Bayes' Theorem"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 155,
+        "topic": "Hypothesis Testing",
+        "question": "For a one-tailed test where Ha: μ < x̄, the critical region for rejecting the null hypothesis lies on:",
+        "options": {
+            "A": "The right side of the distribution",
+            "B": "The left side of the distribution",
+            "C": "Both sides of the distribution",
+            "D": "The exact center of the distribution"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 156,
+        "topic": "F-Test and ANOVA",
+        "question": "In the summary table for a Two-Way ANOVA, the F-ratio for 'Rows' is determined by dividing the Mean Square of Rows by the:",
+        "options": {
+            "A": "Mean Square of Columns",
+            "B": "Mean Square of Interactions",
+            "C": "Residual (Within-group) Mean Square",
+            "D": "Total Mean Square"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 157,
+        "topic": "F-Test and ANOVA",
+        "question": "When testing if the variances of two independent samples are equal, the calculated F-statistic is the ratio of their:",
+        "options": {
+            "A": "Means",
+            "B": "Standard deviations",
+            "C": "Variances (s1² / s2²)",
+            "D": "Sample sizes"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 158,
+        "topic": "Descriptive Statistics",
+        "question": "If a data set has three or more numbers that appear the maximum number of times, it is referred to as:",
+        "options": {
+            "A": "Non-modal",
+            "B": "Uni-modal",
+            "C": "Bi-modal",
+            "D": "Multi-modal"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 159,
+        "topic": "Descriptive Statistics",
+        "question": "A measure of central tendency that is robust to outliers and represents the point dividing the entire data into two equal halves is the:",
+        "options": {
+            "A": "Mean",
+            "B": "Mode",
+            "C": "Median",
+            "D": "Variance"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 160,
+        "topic": "Data Collection Methods",
+        "question": "The process of extracting valuable secondary data from existing large databases, often utilizing software algorithms, is referred to as:",
+        "options": {
+            "A": "Data Entry",
+            "B": "Data Mining",
+            "C": "Primary Harvesting",
+            "D": "Participant Observation"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 161,
+        "topic": "Research Instruments",
+        "question": "In developing a good questionnaire, 'One-to-one correspondence' implies that:",
+        "options": {
+            "A": "Every question must have only one answer.",
+            "B": "The interviewer must correspond exclusively with one respondent at a time.",
+            "C": "The questionnaire as a whole must correspond with the objectives of the study.",
+            "D": "The number of questions must equal the number of respondents."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 162,
+        "topic": "Data Collection Methods",
+        "question": "Which of the following is an advantage of telephone interviews over personal face-to-face interviews?",
+        "options": {
+            "A": "It yields the highest response rate.",
+            "B": "It allows the interviewer to easily observe the respondent's non-verbal cues.",
+            "C": "It is less time consuming, less expensive, and offers higher geographical coverage.",
+            "D": "It avoids sample bias completely since everyone has a telephone."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 163,
+        "topic": "Sampling Techniques",
+        "question": "Which sampling technique ensures that specific identifiable sub-groups in the population are represented proportionally in the final sample?",
+        "options": {
+            "A": "Simple random sampling",
+            "B": "Convenience sampling",
+            "C": "Stratified random sampling",
+            "D": "Systematic sampling"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 164,
+        "topic": "Data Collection Methods",
+        "question": "If an investigator intends to collect data on the spending habits of university lecturers by physically visiting them to ask predefined questions, they are using:",
+        "options": {
+            "A": "Indirect personal interview",
+            "B": "Direct personal interview",
+            "C": "Mail questionnaire",
+            "D": "Focus group discussion"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 165,
+        "topic": "Variables and Constants",
+        "question": "In a study of human behavior, numbers like 5 are considered _________, because they possess the same value in any situation.",
+        "options": {
+            "A": "Variables",
+            "B": "Constructs",
+            "C": "Constants",
+            "D": "Scales"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 166,
+        "topic": "Scales of Measurement",
+        "question": "A scale where measurements tell you the direction of the difference between individuals (e.g., small, medium, large), but not the exact magnitude, is a(n):",
+        "options": {
+            "A": "Nominal scale",
+            "B": "Ordinal scale",
+            "C": "Interval scale",
+            "D": "Ratio scale"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 167,
+        "topic": "Populations and Samples",
+        "question": "Inferential statistics are specifically methods used for:",
+        "options": {
+            "A": "Organizing raw data into charts and tables.",
+            "B": "Making general conclusions (inferences) about populations based on sample data.",
+            "C": "Directly manipulating independent variables.",
+            "D": "Eliminating all sampling errors in a study."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 168,
+        "topic": "Z-Test",
+        "question": "When calculating the Z-statistic for a single sample mean to test against a population mean (μ), the denominator of the formula is:",
+        "options": {
+            "A": "The sample variance (s²)",
+            "B": "The sample size (n)",
+            "C": "The standard error of the mean (s / √n)",
+            "D": "The population standard deviation (σ)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 169,
+        "topic": "T-Test",
+        "question": "A researcher evaluates the mean weight of 10 fertilizer bags against a standard 70kg weight. Because the sample size is only 10, the appropriate statistical test is:",
+        "options": {
+            "A": "Z-test",
+            "B": "Chi-square test",
+            "C": "F-test",
+            "D": "Student's t-test"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 170,
+        "topic": "Chi-Square Test",
+        "question": "If you are testing whether cracked eggs fit a Binomial distribution, you are performing a Chi-square:",
+        "options": {
+            "A": "Test of Independence",
+            "B": "Goodness of fit test",
+            "C": "Analysis of Variance",
+            "D": "Test of Correlation"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 171,
+        "topic": "Descriptive Statistics",
+        "question": "Which of the following calculates the 'spread' of a dataset by finding the difference between the Maximum value and the Minimum value?",
+        "options": {
+            "A": "Variance",
+            "B": "Standard Deviation",
+            "C": "Range",
+            "D": "Kurtosis"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 172,
+        "topic": "Descriptive Statistics",
+        "question": "Percentile ranks and Quartile ranks belong to which category of descriptive statistics?",
+        "options": {
+            "A": "Measures of Frequency",
+            "B": "Measures of Central Tendency",
+            "C": "Measures of Dispersion",
+            "D": "Measures of Position"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 173,
+        "topic": "Descriptive Statistics",
+        "question": "If 75% of the data points lie below a specific value in a dataset, that value corresponds to:",
+        "options": {
+            "A": "Q1 (First Quartile)",
+            "B": "Q2 (Median)",
+            "C": "Q3 (Third Quartile)",
+            "D": "The Range"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 174,
+        "topic": "Descriptive Statistics",
+        "question": "In the standard order of mathematical operations used in statistics calculations, which is performed FIRST?",
+        "options": {
+            "A": "Summation with the Σ notation",
+            "B": "Squaring or raising to exponents",
+            "C": "Calculations within parentheses",
+            "D": "Multiplying and dividing"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 175,
+        "topic": "Descriptive Statistics",
+        "question": "What Greek letter is conventionally used in statistics to stand for 'the sum of'?",
+        "options": {
+            "A": "α (Alpha)",
+            "B": "μ (Mu)",
+            "C": "Σ (Sigma)",
+            "D": "β (Beta)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 176,
+        "topic": "Data Collection Methods",
+        "question": "A major disadvantage of the 'Focus Group Interview' is:",
+        "options": {
+            "A": "It gathers information slower than personal face-to-face interviews.",
+            "B": "It strictly forces a consensus among participants.",
+            "C": "Group dynamics such as power struggles and reluctance to state views publicly can affect results.",
+            "D": "It can only be conducted via telephone."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 177,
+        "topic": "Hypothesis Testing",
+        "question": "The value that delimits the area under the probability distribution between the acceptance region and the rejection region is known as the:",
+        "options": {
+            "A": "P-value",
+            "B": "Critical value",
+            "C": "Variance",
+            "D": "Standard error"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 178,
+        "topic": "Hypothesis Testing",
+        "question": "In hypothesis testing, if accepting to commit a Type I error is equivalent to rejecting to commit a Type II error, this shows that:",
+        "options": {
+            "A": "The two errors are independent of one another.",
+            "B": "The two errors are opposite and complementary.",
+            "C": "Type II errors are more important to avoid.",
+            "D": "Sample size has no effect on error rates."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 179,
+        "topic": "Research Instruments",
+        "question": "Content validity of a research instrument is usually verified by:",
+        "options": {
+            "A": "Conducting a literature review to ensure adequate coverage of the known field and asking experts to evaluate it.",
+            "B": "Correlating the instrument's scores with future occurrences.",
+            "C": "Administering the test twice to the same group of people over time.",
+            "D": "Comparing it directly with an already validated second instrument."
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 180,
+        "topic": "Descriptive Statistics",
+        "question": "What is the relationship between the Variance and the Standard Deviation of a dataset?",
+        "options": {
+            "A": "Variance is the square root of the Standard Deviation.",
+            "B": "Standard Deviation is the square root of the Variance.",
+            "C": "Variance is calculated by dividing Standard Deviation by the sample size.",
+            "D": "They are unrelated measures of central tendency."
+        },
+        "correctAnswer": "B"
+    }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "topic": "Introduction to Entomology",
+    "question": "Which of the following is NOT listed as a reason why biologists frequently use insects for experimental research?",
+    "options": {
+      "A": "Ease of culturing in a laboratory",
+      "B": "Rapid population turnover",
+      "C": "Lack of an exoskeleton",
+      "D": "Minimal ethical concerns compared with vertebrates"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "topic": "Ecological Roles of Insects",
+    "question": "Insects contribute to the maintenance of plant community composition and structure primarily via:",
+    "options": {
+      "A": "Phytophagy, including seed feeding",
+      "B": "Parasitism of smaller vertebrates",
+      "C": "Transmission of mammalian diseases",
+      "D": "Dispersal of carrion and dung"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 3,
+    "topic": "Insect Morphology",
+    "question": "The insect body is divided into an embryologically detectable six-segmented head, a three-segmented thorax, and an 11-segmented abdomen through a process known as:",
+    "options": {
+      "A": "Ecdysis",
+      "B": "Tagmosis",
+      "C": "Anamorphosis",
+      "D": "Sclerotization"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "topic": "Insect Exoskeleton",
+    "question": "Each segment of the insect body primitively has a dorsal sclerite joined to a ventral sclerite by lateral membranous areas. The dorsal sclerite is called the:",
+    "options": {
+      "A": "Sternum",
+      "B": "Pleuron",
+      "C": "Tergum",
+      "D": "Tentorium"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "topic": "Insect Head",
+    "question": "Which orientation describes an insect head that is positioned horizontally with the mouthparts pointing forward?",
+    "options": {
+      "A": "Prognathous",
+      "B": "Hypognathous",
+      "C": "Opisthognathous",
+      "D": "Endognathous"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "topic": "Insect Head",
+    "question": "The internal skeleton of the insect head formed by the fusion of deep cuticular inflexions is known as the:",
+    "options": {
+      "A": "Cervix",
+      "B": "Tentorium",
+      "C": "Epicranial suture",
+      "D": "Clypeus"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 7,
+    "topic": "Antennae Structure",
+    "question": "An insect antenna is generally divided into three main segments. The basal segment that articulates with the head is the:",
+    "options": {
+      "A": "Pedicel",
+      "B": "Flagellum",
+      "C": "Scape",
+      "D": "Arista"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 8,
+    "topic": "Antennae Types",
+    "question": "Which type of insect antenna is described as elbow-shaped, with a long pedicel from which the flagellum arises at nearly a right angle?",
+    "options": {
+      "A": "Clavate",
+      "B": "Plumose",
+      "C": "Geniculate",
+      "D": "Moniliform"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "topic": "Antennae Types",
+    "question": "An antenna that resembles a string of spherical beads with clear constrictions between segments is termed:",
+    "options": {
+      "A": "Filiform",
+      "B": "Setaceous",
+      "C": "Pectinate",
+      "D": "Moniliform"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 10,
+    "topic": "Mouthparts",
+    "question": "Which component of the mandibulate mouthparts is considered the 'upper lip'?",
+    "options": {
+      "A": "Labium",
+      "B": "Labrum",
+      "C": "Maxilla",
+      "D": "Hypopharynx"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 11,
+    "topic": "Mouthparts",
+    "question": "In the basal structure of the maxilla, which part connects proximally to the head capsule?",
+    "options": {
+      "A": "Stipes",
+      "B": "Galea",
+      "C": "Cardo",
+      "D": "Lacinia"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 12,
+    "topic": "Mouthparts",
+    "question": "The piercing and sucking mouthparts of true bugs (Hemiptera) consist of extremely long, thin stylets modified from the:",
+    "options": {
+      "A": "Labrum and Hypopharynx",
+      "B": "Mandibles and Maxillae",
+      "C": "Labium and Glossae",
+      "D": "Epipharynx and Palps"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 13,
+    "topic": "Insect Thorax",
+    "question": "The mesothorax and metathorax, which bear the wings in most flying insects, are collectively known as the:",
+    "options": {
+      "A": "Pterothorax",
+      "B": "Synthorax",
+      "C": "Prothorax",
+      "D": "Alinotum"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 14,
+    "topic": "Insect Legs",
+    "question": "From proximal to distal, what is the correct sequence of segments in an insect leg?",
+    "options": {
+      "A": "Coxa, Femur, Trochanter, Tibia, Tarsus, Pretarsus",
+      "B": "Coxa, Trochanter, Femur, Tibia, Tarsus, Pretarsus",
+      "C": "Trochanter, Coxa, Tibia, Femur, Tarsus, Pretarsus",
+      "D": "Femur, Coxa, Trochanter, Tarsus, Tibia, Pretarsus"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "topic": "Leg Modifications",
+    "question": "The fore legs of praying mantids (Mantodea) are highly specialized for seizing prey. What is this leg modification called?",
+    "options": {
+      "A": "Fossorial",
+      "B": "Saltatorial",
+      "C": "Raptorial",
+      "D": "Natatorial"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 16,
+    "topic": "Leg Modifications",
+    "question": "Mole crickets possess enlarged fore legs modified for digging in the soil. This type of leg adaptation is termed:",
+    "options": {
+      "A": "Cursorial",
+      "B": "Fossorial",
+      "C": "Gressorial",
+      "D": "Saltatorial"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 17,
+    "topic": "Insect Wings",
+    "question": "In the basic wing venation plan, the area of the wing posterior to the remigium is often divided into an anterior anal area and a posterior:",
+    "options": {
+      "A": "Jugal area",
+      "B": "Costal area",
+      "C": "Cubital area",
+      "D": "Apical area"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "topic": "Insect Wings",
+    "question": "The thickened, leathery forewings found in cockroaches (Blattodea) and grasshoppers (Orthoptera) are called:",
+    "options": {
+      "A": "Elytra",
+      "B": "Hemelytra",
+      "C": "Tegmina",
+      "D": "Halteres"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "topic": "Insect Wings",
+    "question": "In the order Diptera, the hind wings are modified into club-like stabilizers known as:",
+    "options": {
+      "A": "Hamuli",
+      "B": "Frenula",
+      "C": "Halteres",
+      "D": "Tegula"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 20,
+    "topic": "Reproductive System",
+    "question": "In female insects, the sperm from the male is stored after copulation for continuous egg fertilization in a structure called the:",
+    "options": {
+      "A": "Bursa copulatrix",
+      "B": "Spermatheca",
+      "C": "Colleterial gland",
+      "D": "Vitellarium"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 21,
+    "topic": "Reproductive System",
+    "question": "Ovarioles that consist of eggs without any accompanying nurse cells (trophocytes) are classified as:",
+    "options": {
+      "A": "Meroistic",
+      "B": "Telotrophic",
+      "C": "Panoistic",
+      "D": "Polytrophic"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 22,
+    "topic": "Modes of Reproduction",
+    "question": "A primitive method of sperm transfer in insects like Collembola involves the male depositing a gelatinous capsule enclosing sperm on the ground. This capsule is called a:",
+    "options": {
+      "A": "Spermatheca",
+      "B": "Spermatophore",
+      "C": "Paramere",
+      "D": "Ootheca"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "topic": "Modes of Reproduction",
+    "question": "Which type of viviparity is observed in tsetse flies, where a larva hatches and feeds from 'milk' glands within the mother's reproductive system until fully grown?",
+    "options": {
+      "A": "Ovoviviparity",
+      "B": "Pseudoplacental viviparity",
+      "C": "Hemocoelous viviparity",
+      "D": "Adenotrophic viviparity"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 24,
+    "topic": "Modes of Reproduction",
+    "question": "The development of offspring from unfertilized eggs, a regular feature in some aphid species, is known as:",
+    "options": {
+      "A": "Polyembryony",
+      "B": "Paedogenesis",
+      "C": "Parthenogenesis",
+      "D": "Hermaphroditism"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 25,
+    "topic": "Digestive System",
+    "question": "Which part of the insect alimentary canal is endodermal in origin and actively involved in secreting digestive enzymes and nutrient absorption?",
+    "options": {
+      "A": "Foregut (Stomodeum)",
+      "B": "Midgut (Mesenteron)",
+      "C": "Hindgut (Proctodeum)",
+      "D": "Pharynx"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 26,
+    "topic": "Digestive System",
+    "question": "In fluid-feeding insects like Hemiptera, which modification links the 1st and 3rd ventriculus to remove excess water from ingested sap?",
+    "options": {
+      "A": "Crop",
+      "B": "Proventriculus",
+      "C": "Filter chamber",
+      "D": "Malpighian tubules"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "topic": "Nervous System",
+    "question": "In the insect nervous system, the brain is composed of three pairs of fused ganglia. Which part innervates the antennae?",
+    "options": {
+      "A": "Protocerebrum",
+      "B": "Deutocerebrum",
+      "C": "Tritocerebrum",
+      "D": "Suboesophageal ganglion"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "topic": "Respiratory System",
+    "question": "The spiral ridges or thickenings of the cuticular lining that keep insect tracheae flexible and resist compression are called:",
+    "options": {
+      "A": "Spiracles",
+      "B": "Taenidia",
+      "C": "Tracheoles",
+      "D": "Atria"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 29,
+    "topic": "Excretory System",
+    "question": "The primary organs of excretion in insects, which produce primary urine by unselective removal of substances from the haemolymph, are the:",
+    "options": {
+      "A": "Alary muscles",
+      "B": "Malpighian tubules",
+      "C": "Rectal pads",
+      "D": "Salivary glands"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 30,
+    "topic": "Circulatory System",
+    "question": "Blood is circulated in insects primarily by the peristaltic contractions of a longitudinal dorsal vessel. The fan-like muscles that support this vessel are called:",
+    "options": {
+      "A": "Direct wing muscles",
+      "B": "Intersegmental muscles",
+      "C": "Alary muscles",
+      "D": "Tergal muscles"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 31,
+    "topic": "Body Wall",
+    "question": "The inextensible, unsupportive outer layer of the insect cuticle that lacks chitin but contains waterproofing waxes and lipids is the:",
+    "options": {
+      "A": "Endocuticle",
+      "B": "Exocuticle",
+      "C": "Procuticle",
+      "D": "Epicuticle"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 32,
+    "topic": "Body Wall",
+    "question": "Chitin is an unbranched polymer of high molecular weight predominantly composed of:",
+    "options": {
+      "A": "D-glucose units",
+      "B": "N-acetyl-d-glucosamine units",
+      "C": "Glycosaminoglycans",
+      "D": "Phenolic bridges"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "topic": "Moulting",
+    "question": "The process where the old cuticle separates from the epidermal cells, creating an exuvial space, is known as:",
+    "options": {
+      "A": "Ecdysis",
+      "B": "Sclerotization",
+      "C": "Apolysis",
+      "D": "Tanning"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 34,
+    "topic": "Moulting Hormones",
+    "question": "Which hormone acts to suppress adult characters during an insect moult, determining whether the insect moults into another larva or a pupa?",
+    "options": {
+      "A": "Ecdysone",
+      "B": "Prothoracicotropic hormone (PTTH)",
+      "C": "Juvenile hormone (JH)",
+      "D": "Bursicon"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 35,
+    "topic": "Moulting Hormones",
+    "question": "Following ecdysis, the hormone responsible for controlling wing expansion and the sclerotization (tanning) of the new exocuticle is:",
+    "options": {
+      "A": "Eclosion hormone",
+      "B": "Bursicon",
+      "C": "Juvenile hormone",
+      "D": "PTTH"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 36,
+    "topic": "Development and Metamorphosis",
+    "question": "The form of an insect between successive moults is referred to as an:",
+    "options": {
+      "A": "Instar",
+      "B": "Stadium",
+      "C": "Imago",
+      "D": "Pupa"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 37,
+    "topic": "Development and Metamorphosis",
+    "question": "Insects such as true bugs and grasshoppers exhibit incomplete metamorphosis where the nymphs resemble the adults but lack fully developed wings and genitalia. This type of development is termed:",
+    "options": {
+      "A": "Ametabolous",
+      "B": "Hemimetabolous",
+      "C": "Holometabolous",
+      "D": "Paurometabolous"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 38,
+    "topic": "Larval Forms",
+    "question": "A caterpillar-like larva with a cylindrical body, a well-developed head, and both thoracic and abdominal prolegs (e.g., Lepidoptera) is classified as:",
+    "options": {
+      "A": "Campodeiform",
+      "B": "Scarabaeiform",
+      "C": "Eruciform",
+      "D": "Vermiform"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 39,
+    "topic": "Larval Forms",
+    "question": "Which larval form is characterized as being maggot-like, elongate, lacking legs, and typically found in Diptera (e.g., housefly)?",
+    "options": {
+      "A": "Vermiform",
+      "B": "Elateriform",
+      "C": "Campodeiform",
+      "D": "Scarabaeiform"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 40,
+    "topic": "Pupal Forms",
+    "question": "A pupa in which the legs and wings are fused firmly to the body wall, such as those seen in butterflies, is known as:",
+    "options": {
+      "A": "Exarate",
+      "B": "Obtect",
+      "C": "Coarctate",
+      "D": "Vermiform"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 41,
+    "topic": "Insect Pest Control",
+    "question": "The physical elimination of a pest using environmental factors like extreme cold temperature or mechanical traps is an example of:",
+    "options": {
+      "A": "Cultural Control",
+      "B": "Biological Control",
+      "C": "Physical/Mechanical Control",
+      "D": "Genetic Control"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 42,
+    "topic": "Insect Pest Control",
+    "question": "Which of the following methods of applied control utilizes agricultural practices like crop rotation, sanitation, and adjusting sowing dates?",
+    "options": {
+      "A": "Mechanical Control",
+      "B": "Cultural Control",
+      "C": "Biological Control",
+      "D": "Legislative Control"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 43,
+    "topic": "Insect Pest Control",
+    "question": "The introduction of the beetle *Rodolia cardinalis* to control the Cottony cushion scale in citrus orchards is a classical example of:",
+    "options": {
+      "A": "Genetic Control",
+      "B": "Biological Control",
+      "C": "Host Plant Resistance",
+      "D": "Cultural Control"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "topic": "Host Plant Resistance",
+    "question": "A mechanism of host plant resistance where the plant possesses characteristics that make it unattractive to the insect for oviposition or feeding is termed:",
+    "options": {
+      "A": "Tolerance",
+      "B": "Antibiosis",
+      "C": "Antixenosis",
+      "D": "Allelopathy"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 45,
+    "topic": "Insect Pest Control",
+    "question": "The Sterile Male Technique, involving the mass release of laboratory-reared infertile pests to reduce natural population reproduction, falls under:",
+    "options": {
+      "A": "Biological control",
+      "B": "Legislative control",
+      "C": "Genetic control",
+      "D": "Chemical control"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 46,
+    "topic": "Insecticide Formulations",
+    "question": "Which liquid insecticide formulation involves dissolving the active ingredient in an appropriate solvent and adding an emulsifier, allowing it to mix with water?",
+    "options": {
+      "A": "Wettable Powder (WP)",
+      "B": "Aerosol",
+      "C": "Fumigant",
+      "D": "Emulsifiable Concentrate (EC)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 47,
+    "topic": "Classification of Insecticides",
+    "question": "DDT, Lindane, and Aldrin are examples of which class of synthetic insecticides that are highly persistent and do not biodegrade easily?",
+    "options": {
+      "A": "Organophosphates",
+      "B": "Carbamates",
+      "C": "Organochlorines",
+      "D": "Microbials"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 48,
+    "topic": "Classification of Insecticides",
+    "question": "Organophosphates and Carbamates share a similar mode of action which involves killing insects by:",
+    "options": {
+      "A": "Causing rapid dehydration of the epicuticle.",
+      "B": "Inhibiting the enzyme cholinesterase, causing acetylcholine accumulation.",
+      "C": "Inhibiting respiratory enzymes between NAD+ and co-enzyme Q.",
+      "D": "Acting as a physical narcotic and suffocating the insect."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 49,
+    "topic": "Classification of Insecticides",
+    "question": "Which botanical insecticide derived from the derris plant acts by inhibiting respiratory enzymes and is extremely toxic to fish?",
+    "options": {
+      "A": "Nicotine",
+      "B": "Pyrethrum",
+      "C": "Azadirachtin",
+      "D": "Rotenone"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 50,
+    "topic": "Integrated Pest Management",
+    "question": "The primary goal of Integrated Pest Management (IPM) is to:",
+    "options": {
+      "A": "Completely eradicate all insect species from a crop field.",
+      "B": "Rely exclusively on chemical control for maximum yield.",
+      "C": "Maintain pest populations at levels below those causing economic injury using compatible methods.",
+      "D": "Use only natural predators regardless of crop damage."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 51,
+    "topic": "Nigerian Crop Pests",
+    "question": "Which of the following insects is a major borer of maize that lays eggs in batches between the leaf sheath and the stem?",
+    "options": {
+      "A": "Cicadulina mbila",
+      "B": "Sitophilus zeamais",
+      "C": "Busseola fusca",
+      "D": "Megalurothrips sjostedti"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 52,
+    "topic": "Nigerian Crop Pests",
+    "question": "Cicadulina spp. is an important field pest of maize primarily because it:",
+    "options": {
+      "A": "Bores into the cobs causing physical rot.",
+      "B": "Is the vector of maize streak disease.",
+      "C": "Defoliates the plant entirely overnight.",
+      "D": "Attacks the seeds during post-harvest storage."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 53,
+    "topic": "Nigerian Crop Pests",
+    "question": "Which insect is a significant post-harvest storage pest of maize and rice, turning grains to powder?",
+    "options": {
+      "A": "Prostephanus truncatus",
+      "B": "Sitophilus zeamais",
+      "C": "Eldana saccharina",
+      "D": "Rhyzopertha dominica"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 54,
+    "topic": "Nigerian Crop Pests",
+    "question": "The flower thrips *Megalurothrips sjostedti* causes distortion, drying up, and shedding of flowers in which major grain legume?",
+    "options": {
+      "A": "Groundnut",
+      "B": "Soybean",
+      "C": "Cowpea",
+      "D": "Bambara nut"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 55,
+    "topic": "Nigerian Crop Pests",
+    "question": "Signs of damage including the webbing of flowers, leaves, and pods, along with frass on shoot tips of cowpeas, are characteristic of:",
+    "options": {
+      "A": "Pod suckers (Anoplocnemis curvipes)",
+      "B": "Pod borers (Maruca testulalis)",
+      "C": "Storage beetles (Callosobruchus maculatus)",
+      "D": "Leaf beetles (Ootheca mutabilis)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 56,
+    "topic": "Nigerian Crop Pests",
+    "question": "Which major storage insect pest of cowpea lays whitish eggs on pods and seeds, with larvae completely consuming the seed contents?",
+    "options": {
+      "A": "Helicoverpa armigera",
+      "B": "Callosobruchus maculatus",
+      "C": "Mussidia nigrivenella",
+      "D": "Sitophilus oryzae"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 57,
+    "topic": "Nigerian Crop Pests",
+    "question": "The brown cocoa mirid (*Sahlbergella singularis*) and the black cocoa mirid (*Distantiella theobroma*) cause damage to cocoa by:",
+    "options": {
+      "A": "Defoliating the entire canopy within days.",
+      "B": "Feeding on pods and shoots, causing pod deformation and terminal shoot death.",
+      "C": "Acting solely as vectors for the swollen shoot virus.",
+      "D": "Boring deep into the main trunk and killing the root system."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 58,
+    "topic": "Nigerian Crop Pests",
+    "question": "Which insect transmits the African cassava mosaic virus, leading to 20-60% yield losses in Nigeria?",
+    "options": {
+      "A": "Bemisia tabaci (Whiteflies)",
+      "B": "Planococcus citri (Mealy bugs)",
+      "C": "Mononychellus tanajoa (Green spider mite)",
+      "D": "Zonocerus variegatus (Grasshopper)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 59,
+    "topic": "Nigerian Crop Pests",
+    "question": "Adult grater yam beetles (*Heteroligus meles*) attack yam setts just after planting, producing 1-2 cm holes. They belong to which order?",
+    "options": {
+      "A": "Hemiptera",
+      "B": "Coleoptera",
+      "C": "Lepidoptera",
+      "D": "Orthoptera"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "topic": "Nigerian Crop Pests",
+    "question": "Which pest causes significant damage to tomatoes by boring into fruits, allowing the entry of fungal pathogens and causing fruit drop?",
+    "options": {
+      "A": "Podagrica uniformis",
+      "B": "Bemisia tabaci",
+      "C": "Helicoverpa armigera",
+      "D": "Aphis gossypii"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 61,
+    "topic": "Classification and Nomenclature",
+    "question": "In zoological nomenclature, the standard word ending for a superfamily taxon (e.g., Acridoidea) is:",
+    "options": {
+      "A": "-idae",
+      "B": "-inae",
+      "C": "-oidea",
+      "D": "-ini"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 62,
+    "topic": "Classification and Nomenclature",
+    "question": "The scientific name of an insect species consists of two parts. The first part, which is capitalized, represents the:",
+    "options": {
+      "A": "Family",
+      "B": "Order",
+      "C": "Genus",
+      "D": "Subspecies"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 63,
+    "topic": "Classification and Nomenclature",
+    "question": "When an author's name follows a scientific species name in parentheses (e.g., Caunus calabarensis (Stal)), it indicates that:",
+    "options": {
+      "A": "The author is currently proposing a new name.",
+      "B": "The species has been transferred to another genus since its original description.",
+      "C": "The species is extinct.",
+      "D": "The specific epithet is no longer valid."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 64,
+    "topic": "Classification and Nomenclature",
+    "question": "According to nomenclatural rules, if an insect belongs to the order Diptera (true flies), how should its common name be written?",
+    "options": {
+      "A": "As a single combined word (e.g., Housefly)",
+      "B": "As two separate words (e.g., House fly)",
+      "C": "Always italicized (e.g., *House fly*)",
+      "D": "Capitalized and hyphenated (e.g., House-Fly)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 65,
+    "topic": "Class Insecta",
+    "question": "Which distinct characteristic separates the Class Insecta from other groups within the Phylum Arthropoda?",
+    "options": {
+      "A": "The presence of a hard exoskeleton",
+      "B": "Jointed appendages",
+      "C": "Having 3 pairs of legs distributed on the thorax",
+      "D": "The presence of compound eyes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 66,
+    "topic": "Class Insecta",
+    "question": "The superordinal group 'Apterygota' represents insects that:",
+    "options": {
+      "A": "Are secondarily wingless due to parasitism.",
+      "B": "Have never evolved wings at any point in their evolutionary history.",
+      "C": "Fold their wings over their abdomen while at rest.",
+      "D": "Have wings that develop internally."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "topic": "Class Insecta",
+    "question": "Within the Pterygota, insects capable of folding their wings backward over their abdomen while at rest belong to the group:",
+    "options": {
+      "A": "Paleoptera",
+      "B": "Neoptera",
+      "C": "Entognatha",
+      "D": "Exopterygota"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 68,
+    "topic": "Order Protura",
+    "question": "A unique developmental feature of the order Protura, where immatures add one abdominal segment during each of three moults, is known as:",
+    "options": {
+      "A": "Parthenogenesis",
+      "B": "Paurometabolism",
+      "C": "Anamorphosis",
+      "D": "Polyembryony"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 69,
+    "topic": "Order Diplura",
+    "question": "Members of the order Diplura are named for possessing two caudal filaments (cerci). In the family Japygidae, these cerci are uniquely modified to be:",
+    "options": {
+      "A": "Multi-segmented and filiform-like",
+      "B": "Forceps-like, 1-segmented structures",
+      "C": "Fused into a single springing organ",
+      "D": "Absent entirely"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 70,
+    "topic": "Order Collembola",
+    "question": "Springtails (Collembola) possess a unique forked springing organ on the fourth abdominal segment called the:",
+    "options": {
+      "A": "Collophore",
+      "B": "Tenaculum",
+      "C": "Furcula",
+      "D": "Styli"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 71,
+    "topic": "Order Microcoryphia",
+    "question": "The bristletails (Microcoryphia) are characterized by having three tail-like appendages. The middle appendage is the:",
+    "options": {
+      "A": "Forceps-like cercus",
+      "B": "Median terminal caudal filament",
+      "C": "Furcula",
+      "D": "Tenaculum"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 72,
+    "topic": "Order Thysanura",
+    "question": "Silverfishes belong to the order Thysanura. Unlike the Microcoryphians, silverfishes have bodies that are typically:",
+    "options": {
+      "A": "Sub-cylindrical",
+      "B": "Dorsoventrally flattened",
+      "C": "Laterally compressed",
+      "D": "Globular"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 73,
+    "topic": "Order Ephemeroptera",
+    "question": "Mayflies (Ephemeroptera) exhibit a unique life cycle stage. They are the only insects known to moult AFTER their instars have acquired full wings. This pre-adult winged stage is called the:",
+    "options": {
+      "A": "Naiad",
+      "B": "Imago",
+      "C": "Subimago",
+      "D": "Pupa"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 74,
+    "topic": "Order Odonata",
+    "question": "In the naiads (nymphs) of dragonflies and damselflies (Odonata), which mouthpart is highly modified into an extendable organ used to catch prey like a toad's tongue?",
+    "options": {
+      "A": "Mandible",
+      "B": "Labrum",
+      "C": "Maxilla",
+      "D": "Labium"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 75,
+    "topic": "Order Blattodea",
+    "question": "Cockroaches belong to the order Blattodea. Their eggs are typically laid enclosed in a hardened, dark brown capsule called an:",
+    "options": {
+      "A": "Ootheca",
+      "B": "Spermatophore",
+      "C": "Puparium",
+      "D": "Egg pod"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 76,
+    "topic": "Order Mantodea",
+    "question": "The praying mantis belongs to the order Mantodea. Its highly mobile, hypognathous head is an adaptation primarily for:",
+    "options": {
+      "A": "Burrowing into soil",
+      "B": "Scanning a wider view to locate prey",
+      "C": "Feeding on hard wood",
+      "D": "Mating displays"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 77,
+    "topic": "Order Phasmida",
+    "question": "The leaf and stick insects (Phasmida) exhibit extreme camouflage. In terms of their feeding habits, they are universally:",
+    "options": {
+      "A": "Predaceous",
+      "B": "Omnivorous",
+      "C": "Phytophagous (vegetarian)",
+      "D": "Saprophagous"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 78,
+    "topic": "Order Orthoptera",
+    "question": "Grasshoppers and locusts are placed in the suborder Caelifera within the order Orthoptera based primarily on what characteristic?",
+    "options": {
+      "A": "Their antennae have fewer than 30 segments (short-horned).",
+      "B": "They lack an ovipositor.",
+      "C": "Their hind legs are not modified for jumping.",
+      "D": "They have more than 30 antennal segments (long-horned)."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 79,
+    "topic": "Order Orthoptera",
+    "question": "Some Orthopterans exhibit 'phase polymorphism', changing from a solitary to a gregarious form in response to population density. These specific insects are known as:",
+    "options": {
+      "A": "Crickets",
+      "B": "Locusts",
+      "C": "Katydids",
+      "D": "Mantids"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 80,
+    "topic": "Order Isoptera",
+    "question": "Termites (Isoptera) digest cellulose from wood by utilizing:",
+    "options": {
+      "A": "Only highly acidic salivary secretions",
+      "B": "The action of bacteria and protozoans living in their guts, alongside their own enzymes",
+      "C": "Fungal gardens exclusively, bypassing internal digestion",
+      "D": "Mechanical grinding via the proventriculus alone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 81,
+    "topic": "Order Isoptera",
+    "question": "Within a termite colony, the 'Neotenics' function as:",
+    "options": {
+      "A": "Primary reproductives with fully developed wings",
+      "B": "Secondary reproductives that retain immature features and have reduced or no wings",
+      "C": "Soldiers with highly developed mandibles",
+      "D": "Workers that forage for food"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 82,
+    "topic": "Order Dermaptera",
+    "question": "Earwigs (Dermaptera) are easily identifiable by the presence of a pair of forcep-like cerci and which unique wing feature?",
+    "options": {
+      "A": "Four identically sized membranous wings",
+      "B": "Thickened forewings (tegmina) and large semi-circular hindwings with radiating anal veins",
+      "C": "Only a single pair of functional wings",
+      "D": "Fringed wings with long bristles"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 83,
+    "topic": "Order Plecoptera",
+    "question": "Stoneflies (Plecoptera) are aquatic as nymphs and develop tracheal gills for respiration. Because they undergo incomplete metamorphosis, their lifecycle is described as:",
+    "options": {
+      "A": "Ametabolous",
+      "B": "Hemimetabolous",
+      "C": "Holometabolous",
+      "D": "Hypermetabolous"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 84,
+    "topic": "Order Embioptera",
+    "question": "Members of the order Embioptera are unique for living in silken galleries. They produce this silk using glands located in their:",
+    "options": {
+      "A": "Modified mandibles",
+      "B": "Swollen foreleg basitarsus",
+      "C": "Abdominal cerci",
+      "D": "Maxillary palps"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 85,
+    "topic": "Hemipteroid Group",
+    "question": "In the suborder Heteroptera (true bugs), the forewing is partitioned into a proximal leathery portion and a distal membranous portion. This type of wing is called a:",
+    "options": {
+      "A": "Tegmen",
+      "B": "Elytron",
+      "C": "Hemelytron",
+      "D": "Haltere"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 86,
+    "topic": "Hemipteroid Group",
+    "question": "Unlike Heteroptera, bugs in the suborder Homoptera (e.g., aphids, leafhoppers) have:",
+    "options": {
+      "A": "A distinct gula",
+      "B": "Forewings that are uniform in texture (either completely membranous or entirely leathery)",
+      "C": "Prognathous heads",
+      "D": "Mandibulate chewing mouthparts"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 87,
+    "topic": "Order Psocoptera",
+    "question": "Booklice belong to the order Psocoptera (Corrodentia). A defining characteristic of their head morphology is the:",
+    "options": {
+      "A": "Total absence of a clypeus",
+      "B": "Bulbous post-clypeus and specialized chisel-like lacinia",
+      "C": "Elongated rostrum identical to Hemiptera",
+      "D": "Prognathous orientation without epicranial sutures"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 88,
+    "topic": "Order Phthiraptera",
+    "question": "The sucking lice, which have mouthparts completely adapted for piercing and sucking blood from mammalian hosts, belong to which suborder of Phthiraptera?",
+    "options": {
+      "A": "Mallophaga",
+      "B": "Phyncophthirina",
+      "C": "Anoplura",
+      "D": "Ischnocera"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 89,
+    "topic": "Order Thysanoptera",
+    "question": "Thrips (Thysanoptera) exhibit an asymmetrical mouthpart condition. This is due to the vestigial nature or complete absence of the:",
+    "options": {
+      "A": "Left mandible",
+      "B": "Right mandible",
+      "C": "Maxillary palps",
+      "D": "Labrum"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 90,
+    "topic": "Neuropteroid Group",
+    "question": "The Neuropteroid group of insects are synonymous with the Endopterygota. Their defining feature is:",
+    "options": {
+      "A": "A life cycle that lacks a pupal stage.",
+      "B": "External development of wing buds.",
+      "C": "The evolution of a pupal instar and complete (holometabolous) metamorphosis.",
+      "D": "Strictly suctorial mouthparts in all stages."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 91,
+    "topic": "Moulting",
+    "question": "During the moulting process, the apolysial (exuvial) space is initially filled with an inactive molting fluid. The enzymes within this fluid become active only after:",
+    "options": {
+      "A": "The insect swallows air to expand its body.",
+      "B": "The new epicuticle has been laid down by the epidermal cells to protect the new cuticle.",
+      "C": "The old exocuticle is completely shed.",
+      "D": "The bursicon hormone is secreted."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 92,
+    "topic": "Pest Control",
+    "question": "Which legal method is established by governments to prevent the introduction or spread of foreign pests across borders by requiring a Phytosanitary Certificate?",
+    "options": {
+      "A": "Biological Control",
+      "B": "Legislative Control (Quarantine)",
+      "C": "Cultural Control",
+      "D": "Physical Control"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 93,
+    "topic": "Crop Pests",
+    "question": "The insect *Bemisia tabaci* (Whitefly) belongs to the suborder Homoptera. It is a major pest primarily because it:",
+    "options": {
+      "A": "Acts as a mechanical vector for fungal spores in cocoa.",
+      "B": "Transmits viral diseases like the African cassava mosaic virus.",
+      "C": "Defoliates large acres of maize fields.",
+      "D": "Bores into the roots of yam tubers."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 94,
+    "topic": "Insect Morphology",
+    "question": "The part of the insect's digestive system responsible for grinding up food, acting as a sieve before the midgut, is the:",
+    "options": {
+      "A": "Crop",
+      "B": "Proventriculus",
+      "C": "Pharynx",
+      "D": "Rectum"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 95,
+    "topic": "Class Insecta Characters",
+    "question": "Which group of insects exhibits a unique biological life cycle with an intermediate metamorphosis characterized by 4-5 larval stages, including a resting 'pre-pupal' and 'pupal' stage, despite being exopterygotes?",
+    "options": {
+      "A": "Thysanoptera (Thrips)",
+      "B": "Blattodea (Cockroaches)",
+      "C": "Orthoptera (Grasshoppers)",
+      "D": "Odonata (Dragonflies)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 96,
+    "topic": "Neuropteroid Group",
+    "question": "Which of the following insect orders is NOT a member of the Neuropteroid (Endopterygota) group?",
+    "options": {
+      "A": "Coleoptera (Beetles)",
+      "B": "Lepidoptera (Moths & Butterflies)",
+      "C": "Diptera (True Flies)",
+      "D": "Hemiptera (True Bugs)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 97,
+    "topic": "Leg Modifications",
+    "question": "Many aquatic beetles and bugs have legs modified with fringes of long, slender hairs to facilitate swimming. These legs are described as:",
+    "options": {
+      "A": "Gressorial",
+      "B": "Cursorial",
+      "C": "Natatorial",
+      "D": "Saltatorial"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 98,
+    "topic": "Insect Anatomy",
+    "question": "In the female reproductive system, the paired ovaries consist of tubular structures called:",
+    "options": {
+      "A": "Vasa deferentia",
+      "B": "Ovarioles",
+      "C": "Seminal vesicles",
+      "D": "Parameres"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 99,
+    "topic": "Crop Pests",
+    "question": "A recommended non-chemical control method for the cowpea seed beetle (*Callosobruchus maculatus*) in storage involves admixing the seeds with:",
+    "options": {
+      "A": "DDT dust",
+      "B": "Water and soap",
+      "C": "Dried powder of hot brown pepper (*Piper guineense*) or neem kernel powder",
+      "D": "Fresh cassava leaves"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 100,
+    "topic": "Insecticide Formulations",
+    "question": "Which type of dry insecticide formulation consists of the insecticide mixed with filled materials to form large particles ranging from 0.01 to 3 mm in diameter?",
+    "options": {
+      "A": "Dusts",
+      "B": "Wettable Powders (WP)",
+      "C": "Granules",
+      "D": "Fumigants"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 101,
+    "topic": "Insect Wings",
+    "question": "In insects like Hymenoptera, the fore and hind wings are coupled together to improve flight efficiency using a row of small hooks along the anterior margin of the hind wing. What are these hooks called?",
+    "options": {
+      "A": "Retinacula",
+      "B": "Hamuli",
+      "C": "Frenula",
+      "D": "Tegulae"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 102,
+    "topic": "Insect Wings",
+    "question": "An opaque or pigmented spot located anteriorly near the apex of the wing, commonly used in identification (such as in Odonata), is known as the:",
+    "options": {
+      "A": "Pterostigma",
+      "B": "Jugal fold",
+      "C": "Alinotum",
+      "D": "Corium"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 103,
+    "topic": "Insect Wings",
+    "question": "In wing venation, 'cells' are areas of the wing bounded by veins. A cell that extends all the way to the wing margin without being completely surrounded by veins is termed:",
+    "options": {
+      "A": "A discal cell",
+      "B": "A closed cell",
+      "C": "An open cell",
+      "D": "A terminal cell"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 104,
+    "topic": "Insect Head",
+    "question": "In some prognathous insects, the labium attaches to the ventral surface of the head via a ventromedial sclerotized plate known as the:",
+    "options": {
+      "A": "Tentorium",
+      "B": "Clypeus",
+      "C": "Gula",
+      "D": "Frons"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 105,
+    "topic": "Nervous System",
+    "question": "The insect brain is composed of three pairs of fused ganglia. Which part is primarily concerned with handling the signals that arrive from the body?",
+    "options": {
+      "A": "Protocerebrum",
+      "B": "Deutocerebrum",
+      "C": "Tritocerebrum",
+      "D": "Suboesophageal ganglion"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 106,
+    "topic": "Nervous System",
+    "question": "Which specific section of the insect brain is associated with the eyes and thus bears the optic lobes?",
+    "options": {
+      "A": "Tritocerebrum",
+      "B": "Protocerebrum",
+      "C": "Deutocerebrum",
+      "D": "Ventral nerve cord"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 107,
+    "topic": "Reproductive System",
+    "question": "In male insects, the claspers and the aedeagus (consisting of the penis and parameres) are derived from the coxites and gonapophyses of which abdominal segment?",
+    "options": {
+      "A": "7th segment",
+      "B": "8th segment",
+      "C": "9th segment",
+      "D": "11th segment"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 108,
+    "topic": "Reproductive System",
+    "question": "Most female Lepidoptera are unusual because they possess two separate reproductive openings. The opening on segment 9, used specifically for the discharge of eggs, is called the:",
+    "options": {
+      "A": "Bursa copulatrix",
+      "B": "Oviporus",
+      "C": "Vulva",
+      "D": "Spermatheca"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 109,
+    "topic": "Nervous System",
+    "question": "The coalesced ganglia of the three mouthpart-bearing segments form which structure that sends emerging nerves to innervate the mouthparts?",
+    "options": {
+      "A": "Deutocerebrum",
+      "B": "Frontal ganglion",
+      "C": "Thoracic ganglia",
+      "D": "Suboesophageal ganglion"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 110,
+    "topic": "Body Wall",
+    "question": "Which specialized cells occurring in the insect epidermis are specifically involved in the synthesis of cuticle lipids (hydrocarbons) to prevent dehydration?",
+    "options": {
+      "A": "Plasmatocytes",
+      "B": "Hemocytes",
+      "C": "Oenocytes",
+      "D": "Trophocytes"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 111,
+    "topic": "Moulting",
+    "question": "During apolysis, the separation of the epidermis and cuticle creates an apolysial (exuvial) space. This space is initially filled with a secreted but inactive molting fluid called:",
+    "options": {
+      "A": "Bursicon",
+      "B": "Haemolymph",
+      "C": "Ecdysone",
+      "D": "Juvenile hormone"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 112,
+    "topic": "Larval Forms",
+    "question": "The larvae of the Yam beetle (*Heteroligus* spp.) are described as being grub-like, sluggish, often curved, and having a well-developed head with thoracic legs but no abdominal prolegs. This form is called:",
+    "options": {
+      "A": "Campodeiform",
+      "B": "Eruciform",
+      "C": "Scarabaeiform",
+      "D": "Vermiform"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 113,
+    "topic": "Larval Forms",
+    "question": "A larva characterized by a slender, cylindrical body with a hard skin covering, short legs, and greatly reduced body bristles (found in click beetles, Elateridae) is termed:",
+    "options": {
+      "A": "Elateriform",
+      "B": "Campodeiform",
+      "C": "Vermiform",
+      "D": "Scarabaeiform"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 114,
+    "topic": "Pupal Forms",
+    "question": "In the house fly, the last larval skin is retained as a hardened, protective casing for the pupa. This type of pupal form is known as:",
+    "options": {
+      "A": "Exarate",
+      "B": "Obtect",
+      "C": "Chrysalis",
+      "D": "Coarctate (Puparium)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 115,
+    "topic": "Classification of Insecticides",
+    "question": "Which botanical insecticide works by inhibiting the respiratory enzyme between NAD+ and co-enzyme Q, resulting in respiratory failure, and is notoriously toxic to fish?",
+    "options": {
+      "A": "Nicotine",
+      "B": "Pyrethrum",
+      "C": "Azadirachtin",
+      "D": "Rotenone"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 116,
+    "topic": "Integrated Pest Management (IPM)",
+    "question": "The public alarm regarding the intensive, ecologically reckless use of chemical insecticides like DDT after World War II was notably sparked by the publication of 'Silent Spring', authored by:",
+    "options": {
+      "A": "Jenkins and Hinton",
+      "B": "Racheal Carson",
+      "C": "E.H. Glass",
+      "D": "V.V. Dokuchaev"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 117,
+    "topic": "Major Pests of Nigerian Crops",
+    "question": "To effectively control cocoa mirids on young cocoa trees, spraying with recommended insecticides should begin in which month and continue at monthly intervals until February?",
+    "options": {
+      "A": "March",
+      "B": "June",
+      "C": "September",
+      "D": "December"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 118,
+    "topic": "Major Pests of Nigerian Crops",
+    "question": "Which of the following insect pests is specifically identified as the vector of the maize streak virus disease?",
+    "options": {
+      "A": "Busseola fusca",
+      "B": "Cicadulina spp.",
+      "C": "Sitophilus zeamais",
+      "D": "Eldana saccharina"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 119,
+    "topic": "Major Pests of Nigerian Crops",
+    "question": "Which of the following pests is a major 'Pod borer' of cowpea that causes webbing of flowers and leaves, and leaves frass on shoot tips?",
+    "options": {
+      "A": "Anoplocnemis curvipes",
+      "B": "Maruca testulalis",
+      "C": "Megalurothrips sjostedti",
+      "D": "Callosobruchus maculatus"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 120,
+    "topic": "Major Pests of Nigerian Crops",
+    "question": "The insect *Papilio demodocus*, whose larvae attack young leaves and can cause complete defoliation, is commonly known as the:",
+    "options": {
+      "A": "Fruit piercing moth",
+      "B": "Spiny bollworm",
+      "C": "Citrus swallow tail butterfly",
+      "D": "Coffee leaf roller"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 121,
+    "topic": "Modes of Reproduction",
+    "question": "A specialized form of viviparity where embryos develop free in the female's hemolymph, taking up nutrients by osmosis (e.g., seen in Strepsiptera), is called:",
+    "options": {
+      "A": "Ovoviviparity",
+      "B": "Pseudoplacental viviparity",
+      "C": "Hemocoelous viviparity",
+      "D": "Adenotrophic viviparity"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 122,
+    "topic": "Modes of Reproduction",
+    "question": "When a yolk-deficient egg develops in the genital tract and the mother provides a special placenta-like tissue to transfer nutrients to the developing embryos (seen in many aphids), it is termed:",
+    "options": {
+      "A": "Hemocoelous viviparity",
+      "B": "Pseudoplacental viviparity",
+      "C": "Adenotrophic viviparity",
+      "D": "Ovoviviparity"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 123,
+    "topic": "Major Pests of Nigerian Crops",
+    "question": "The insect pest *Helicoverpa armigera* is notoriously known as a destructive borer of which horticultural crop?",
+    "options": {
+      "A": "Okra",
+      "B": "Yam",
+      "C": "Tomato",
+      "D": "Cassava"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 124,
+    "topic": "Major Pests of Nigerian Crops",
+    "question": "Adults of *Podagrica uniformis* and *Podagrica sjostedti* feed on leaves causing numerous small holes, while their larvae feed on roots. They are major pests of:",
+    "options": {
+      "A": "Cocoa",
+      "B": "Okra",
+      "C": "Coffee",
+      "D": "Maize"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "topic": "Major Pests of Nigerian Crops",
+    "question": "The female moth *Epicampoptera glauca* lays eggs in a long chain on leaf surfaces, and its young larvae feed on the underside of the leaves, reducing plant productivity. This pest is a major problem for:",
+    "options": {
+      "A": "Coffee",
+      "B": "Citrus",
+      "C": "Cowpea",
+      "D": "Yam"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 126,
+    "topic": "Order Grylloblattodea",
+    "question": "Members of the order Grylloblattodea are unique cryptozoic insects that possess an eversible sac located ventrally on which abdominal segment?",
+    "options": {
+      "A": "First abdominal segment",
+      "B": "Third abdominal segment",
+      "C": "Seventh abdominal segment",
+      "D": "Ninth abdominal segment"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 127,
+    "topic": "Suborder Homoptera",
+    "question": "Within the suborder Homoptera, members of the superfamily Alleyroidoidea (Whiteflies) have a distinct feature associated with honey dew secretion located at the last abdominal segment. This is called the:",
+    "options": {
+      "A": "Cornicle",
+      "B": "Vasiform orifice",
+      "C": "Gulamentum",
+      "D": "Plica oralis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 128,
+    "topic": "Suborder Homoptera",
+    "question": "Which aphid species is an economically important vector of the groundnut rosette virus?",
+    "options": {
+      "A": "Toxoptera aurantii",
+      "B": "Aphis sacchari",
+      "C": "Aphis craccivora",
+      "D": "Bemisia tabaci"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 129,
+    "topic": "Suborder Heteroptera",
+    "question": "The cotton stainer, which is of significant agricultural importance, is scientifically known as:",
+    "options": {
+      "A": "Bathycoelia thalassina",
+      "B": "Cimex hemipterus",
+      "C": "Dysdercus superstitiosus",
+      "D": "Salbergella singularis"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 130,
+    "topic": "Suborder Heteroptera",
+    "question": "A distinguishing morphological feature of members of the suborder Heteroptera is the presence of distinct scent glands located on the thorax known as:",
+    "options": {
+      "A": "Prothoracic glands",
+      "B": "Colleterial glands",
+      "C": "Metapleural scent glands",
+      "D": "Accessory glands"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 131,
+    "topic": "Suborder Homoptera",
+    "question": "The series Coleorrhyncha, which shows a mixture of heteropteran and homopteran attributes, consists of just one family. What is the name of this family?",
+    "options": {
+      "A": "Peloridiidae",
+      "B": "Cicadellidae",
+      "C": "Aphididae",
+      "D": "Coccoidea"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 132,
+    "topic": "Order Embioptera",
+    "question": "In the order Embioptera, which specific leg segment is modified into a globular glandular structure containing a series of silk glands used for spinning tunnels?",
+    "options": {
+      "A": "Hindleg femur",
+      "B": "Midleg tibia",
+      "C": "Foreleg basitarsus",
+      "D": "Foreleg trochanter"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 133,
+    "topic": "Order Odonata",
+    "question": "Which of the following is NOT a recognized suborder of the order Odonata?",
+    "options": {
+      "A": "Zygoptera",
+      "B": "Anisoptera",
+      "C": "Anisozygoptera",
+      "D": "Parnopoidea"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 134,
+    "topic": "Order Phthiraptera",
+    "question": "The order Phthiraptera represents specialized vertebrate ectoparasites. Which of its suborders is considered the most primitive, featuring mandibulate mouthparts?",
+    "options": {
+      "A": "Anoplura",
+      "B": "Mallophaga",
+      "C": "Phyncophthirina",
+      "D": "Siphonaptera"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 135,
+    "topic": "Order Phthiraptera",
+    "question": "Which suborder of Phthiraptera contains the 'sucking lice', which have mouthparts modified into an unsegmented beak and eversible haustellum for blood feeding?",
+    "options": {
+      "A": "Anoplura",
+      "B": "Mallophaga",
+      "C": "Terebrantia",
+      "D": "Tubulifera"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 136,
+    "topic": "Order Thysanoptera",
+    "question": "The order name 'Thysanoptera' is derived from two Greek words that literally mean:",
+    "options": {
+      "A": "Straight wings",
+      "B": "Equal wings",
+      "C": "Fringe wings",
+      "D": "Scale wings"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 137,
+    "topic": "Order Thysanoptera",
+    "question": "Within the Thysanoptera, the suborder Terebrantia is biologically distinct from the Tubulifera because the female Terebrantia possess:",
+    "options": {
+      "A": "Completely absent wings",
+      "B": "A distinct saw-like ovipositor",
+      "C": "A fully developed right mandible",
+      "D": "Only three larval stages"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 138,
+    "topic": "Classification - Apterygota",
+    "question": "The apterygote orders Protura, Diplura, and Collembola are collectively classified as 'Entognatha' because they share which unique feature?",
+    "options": {
+      "A": "They completely lack an abdomen.",
+      "B": "Their mouthparts are enclosed by a pouch-like structure (plica oralis) and withdrawn into the head.",
+      "C": "They undergo anamorphosis during moulting.",
+      "D": "They possess fully developed wings internally."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 139,
+    "topic": "Classification - Apterygota",
+    "question": "Unlike the Entognatha, the order Thysanura (wide sense) and all winged insects (Pterygota) are classified together as:",
+    "options": {
+      "A": "Neoptera",
+      "B": "Paleoptera",
+      "C": "Ectognatha",
+      "D": "Endopterygota"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 140,
+    "topic": "Parthenogenesis",
+    "question": "A type of parthenogenesis where the unfertilized female produces exclusively female eggs is specifically termed:",
+    "options": {
+      "A": "Arrhenotokous parthenogenesis",
+      "B": "Thelytokous parthenogenesis",
+      "C": "Amphitokous parthenogenesis",
+      "D": "Deuterotokous parthenogenesis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 141,
+    "topic": "Modes of Reproduction",
+    "question": "In certain parasitic insects like Hymenoptera and Strepsiptera, a single egg can divide to produce two or many embryos. This phenomenon is called:",
+    "options": {
+      "A": "Paedogenesis",
+      "B": "Polyembryony",
+      "C": "Parthenogenesis",
+      "D": "Hermaphroditism"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 142,
+    "topic": "Respiratory System",
+    "question": "In some aquatic and many endoparasitic insect larvae, spiracles are completely absent and the tracheae form a network over the body or gills. This setup is called:",
+    "options": {
+      "A": "An open tracheal system",
+      "B": "A closed tracheal system",
+      "C": "A plastron respiratory system",
+      "D": "A pneumostome system"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 143,
+    "topic": "Circulatory System",
+    "question": "At the posterior region of each heart chamber in the insect's dorsal vessel, there is an opening that allows hemolymph to enter. This opening is called the:",
+    "options": {
+      "A": "Aorta",
+      "B": "Taenidium",
+      "C": "Ostium",
+      "D": "Spiracle"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 144,
+    "topic": "Digestive System",
+    "question": "In the digestive system of fluid-feeding insects, the structure created to ensure the adequate removal of excess water from ingested materials before it dilutes the hemolymph is the:",
+    "options": {
+      "A": "Crop",
+      "B": "Filter chamber",
+      "C": "Proventriculus",
+      "D": "Gastric caecum"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 145,
+    "topic": "Body Wall",
+    "question": "The insect epidermal cells are securely anchored to the underlying basement membrane by specialized structures called:",
+    "options": {
+      "A": "Hemidesmosomes",
+      "B": "Plasmatodesmata",
+      "C": "Microvilli",
+      "D": "Pore canals"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 146,
+    "topic": "Hormones and Moulting",
+    "question": "Which hormone directly stimulates the prothoracic gland to secrete ecdysteroids, thereby initiating the moulting process?",
+    "options": {
+      "A": "Juvenile Hormone (JH)",
+      "B": "Prothoracicotropic hormone (PTTH)",
+      "C": "Eclosion hormone (EH)",
+      "D": "Bursicon"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 147,
+    "topic": "Hormones and Moulting",
+    "question": "Once a newly eclosed insect emerges from its old cuticle, which hormone is primarily responsible for coordinating the expansion of the wings and the sclerotization (tanning) of the new cuticle?",
+    "options": {
+      "A": "Ecdysone",
+      "B": "Bursicon",
+      "C": "Ecdysis Triggering Hormone (ETH)",
+      "D": "Prothoracicotropic hormone (PTTH)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 148,
+    "topic": "Moulting",
+    "question": "The cast-off old skin or cuticle that is shed by an insect during ecdysis, consisting mainly of indigestible protein, lipid, and chitin from the old epicuticle and exocuticle, is called the:",
+    "options": {
+      "A": "Instar",
+      "B": "Exuvium",
+      "C": "Telson",
+      "D": "Chrysalis"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "topic": "Host Plant Resistance",
+    "question": "In the mechanisms of host plant resistance, the ability of a plant to sustain injury from an insect attack or recover and produce a crop in spite of the attack is defined as:",
+    "options": {
+      "A": "Antibiosis",
+      "B": "Antixenosis",
+      "C": "Tolerance",
+      "D": "Allelopathy"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "topic": "Order Ephemeroptera",
+    "question": "The life cycle sequence of mayflies (Ephemeroptera) is unique because it includes a brief, fully winged pre-adult stage. This specific developmental sequence is:",
+    "options": {
+      "A": "Eggs -> Larva -> Pupa -> Imago",
+      "B": "Eggs -> Naiad -> Subimago -> Imago",
+      "C": "Eggs -> Nymph -> Imago",
+      "D": "Eggs -> Maggot -> Puparium -> Imago"
+    },
+    "correctAnswer": "B"
+  }
+]

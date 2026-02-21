@@ -1,0 +1,1922 @@
+[
+  {
+    "id": 1,
+    "topic": "Concept of Extension",
+    "question": "Extension education is often described as an applied science. From which of the following does it primarily derive its contents?",
+    "options": {
+      "A": "Pure mathematical modeling and theories",
+      "B": "Research, field experiences, and behavioural science",
+      "C": "Strictly formal classroom curricula",
+      "D": "Industrial manufacturing processes"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "topic": "Concept of Extension",
+    "question": "Which of the following best defines Extension as a science according to Farinde (2008)?",
+    "options": {
+      "A": "A strict, formal school system focusing solely on agricultural economics.",
+      "B": "A voluntary, non-formal, out-of-school system of adult education using teaching and learning principles.",
+      "C": "A mandatory government program dictating agricultural practices to rural communities.",
+      "D": "An entirely theoretical discipline aimed at researchers rather than farmers."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "topic": "Philosophy of Extension",
+    "question": "According to Mildred Horton (1952), which of the following is a core principle of the philosophy of extension?",
+    "options": {
+      "A": "The state is supreme in a democracy.",
+      "B": "The foundation of permanent civilization rests on the separation of man and nature.",
+      "C": "The home is the fundamental unit in a civilization.",
+      "D": "Formal education is superior to non-formal education."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 4,
+    "topic": "Philosophy of Extension",
+    "question": "Ensminger (1961) emphasized that extension philosophy should focus on:",
+    "options": {
+      "A": "Changing the climate and topography of rural areas.",
+      "B": "Changing attitudes, knowledge, and skills of the people to help them help themselves.",
+      "C": "Forcing farmers to adopt government-mandated crops.",
+      "D": "Providing free inputs continuously without educational efforts."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 5,
+    "topic": "Objectives of Extension",
+    "question": "What is the fundamental objective of agricultural extension?",
+    "options": {
+      "A": "To maximize government aid and completely subsidize farming.",
+      "B": "To stimulate desirable local and national development.",
+      "C": "To replace local leaders with extension agents.",
+      "D": "To focus solely on physical achievements rather than human development."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "topic": "Objectives of Extension",
+    "question": "A usable educational objective in an extension programme should answer which four questions?",
+    "options": {
+      "A": "How, Who, When, and What",
+      "B": "Why, Where, Which, and How",
+      "C": "Who, Why, Where, and What",
+      "D": "When, Where, Why, and Which"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 7,
+    "topic": "Components of Extension",
+    "question": "Extension efforts can be reduced to three broad components. Which of the following is NOT one of them?",
+    "options": {
+      "A": "Extension Education",
+      "B": "Extension Services",
+      "C": "Extension Work",
+      "D": "Extension Enforcement"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 8,
+    "topic": "Components of Extension",
+    "question": "Which extension component is described as the mission and mandate of development, acting as a link between researchers, development workers, and the people?",
+    "options": {
+      "A": "Extension Education",
+      "B": "Extension Work",
+      "C": "Extension Services",
+      "D": "Extension Evaluation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "topic": "Extension Scope",
+    "question": "The scope of extension addresses three major parts. Which of the following accurately represents these parts?",
+    "options": {
+      "A": "Funding, Administration, and Logistics",
+      "B": "People to be taught, Subject matter areas, and Methods of teaching",
+      "C": "Government, Non-Governmental Organizations, and Farmers",
+      "D": "Research, Development, and Marketing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "topic": "Process of Extension",
+    "question": "The first essential phase or step in any development programme in extension is:",
+    "options": {
+      "A": "Setting the objectives",
+      "B": "Evaluating the teaching",
+      "C": "Teaching",
+      "D": "Analysing the situation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 11,
+    "topic": "Process of Extension",
+    "question": "In the extension process, what does 'Reconsidering' primarily involve?",
+    "options": {
+      "A": "Punishing farmers who fail to adopt new technologies.",
+      "B": "Reviewing previous efforts and results to reveal a new situation for further work.",
+      "C": "Canceling the extension programme due to lack of funds.",
+      "D": "Focusing solely on the original objectives without adjustments."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "topic": "Principles of Agricultural Extension",
+    "question": "The principle that states extension works must be compatible with the customs, traditions, and beliefs of the people is the:",
+    "options": {
+      "A": "Principle of cultural difference",
+      "B": "Principle of adaptability",
+      "C": "Grassroots principle of organization",
+      "D": "Principle of democratic approach"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 13,
+    "topic": "Principles of Agricultural Extension",
+    "question": "Which extension principle emphasizes that 'actual participation and the experience of involvement create self-confidence in the people and they learn more by doing'?",
+    "options": {
+      "A": "Principle of satisfaction",
+      "B": "Principle of participation",
+      "C": "Principle of adaptability",
+      "D": "Whole-family principle"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "topic": "Principles of Agricultural Extension",
+    "question": "The 'Leadership Principle' in extension advocates for:",
+    "options": {
+      "A": "Extension agents acting as the sole dictators of the community.",
+      "B": "Full utilization and training of local leaders to legitimize new programmes.",
+      "C": "Replacing local leaders with government officials.",
+      "D": "Ignoring local politics to maintain neutrality."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "topic": "Principles of Agricultural Extension",
+    "question": "Which principle suggests that teachings should begin with where the people currently are in terms of knowledge and practices?",
+    "options": {
+      "A": "Target audience centredness",
+      "B": "Working with people and groups",
+      "C": "Starting from the known to the unknown",
+      "D": "Monitoring and evaluation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 16,
+    "topic": "Formal vs Extension Education",
+    "question": "Which of the following is a characteristic of Extension Education when compared to Formal Education?",
+    "options": {
+      "A": "It is heavily theoretical and rarely practical.",
+      "B": "The curriculum is rigid and pre-decided.",
+      "C": "Attendance is strictly compulsory.",
+      "D": "Teaching is mainly horizontal rather than vertical."
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 17,
+    "topic": "Formal vs Extension Education",
+    "question": "In Formal Education, authority rests with the teacher. In Extension Education, authority rests with the:",
+    "options": {
+      "A": "Government",
+      "B": "People",
+      "C": "Extension Director",
+      "D": "Research Scientist"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "topic": "Extension System Parameters",
+    "question": "When assessing a country's extension system, the 'Extension-Farmer Ratio' refers to:",
+    "options": {
+      "A": "The percentage of farmers who adopt new technology.",
+      "B": "The financial budget allocated per farmer.",
+      "C": "The number of farmers or farm families assigned per Extension Agent.",
+      "D": "The proportion of research scientists to local farmers."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 19,
+    "topic": "Major Concepts in Extension",
+    "question": "Which of the following describes 'Administration' in the context of extension?",
+    "options": {
+      "A": "The process of planning, organizing, leading, and controlling resources.",
+      "B": "The guidance, leadership, and control of the efforts of groups to achieve commonly agreed goals.",
+      "C": "Arousing the tendency to act in order to achieve results.",
+      "D": "An expanded definition of sustainable development."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "topic": "Major Concepts in Extension",
+    "question": "The use of various incentives to get people to willingly and timely accomplish necessary tasks is termed:",
+    "options": {
+      "A": "Administration",
+      "B": "Leadership",
+      "C": "Motivation",
+      "D": "Sustainability"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 21,
+    "topic": "Motivation Theories",
+    "question": "According to Maslow's theory (1934) used in extension management, which need is situated at the highest level of the hierarchy?",
+    "options": {
+      "A": "Safety needs",
+      "B": "Social needs",
+      "C": "Self-expression (esteem) needs",
+      "D": "Self-realization (growth/accomplishment) needs"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 22,
+    "topic": "Sustainability",
+    "question": "The three dimensions or 'pillars' of sustainability in sustainable development are:",
+    "options": {
+      "A": "Political, Technological, and Educational",
+      "B": "Social, Economic, and Environmental/Ecological",
+      "C": "Local, National, and International",
+      "D": "Planning, Implementation, and Evaluation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "topic": "History of Agricultural Extension",
+    "question": "The first practical step designated as 'university extension' took place in 1867 through discussions by which two ancient universities?",
+    "options": {
+      "A": "Harvard and Yale",
+      "B": "Oxford and Cambridge",
+      "C": "Ibadan and Ife",
+      "D": "Stanford and MIT"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 24,
+    "topic": "History of Agricultural Extension (USA)",
+    "question": "Which U.S. Act passed in 1914 established the Cooperative Extension Service?",
+    "options": {
+      "A": "Morrill Act",
+      "B": "Smith-Lever Act",
+      "C": "Hatch Act",
+      "D": "Land-Grant Act"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 25,
+    "topic": "History of Extension in Nigeria",
+    "question": "During the pre-colonial period in Nigeria, agricultural extension can best be described as:",
+    "options": {
+      "A": "Driven by formalized, government-paid extension agents.",
+      "B": "Strictly focused on export cash crops to Europe.",
+      "C": "Farmer-to-farmer experience sharing and trans-Saharan merchant exchanges.",
+      "D": "Regulated by the Unified Department of Agriculture."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 26,
+    "topic": "History of Extension in Nigeria",
+    "question": "The Department of Botanical Research, marking an early colonial agricultural effort, was established in 1893 with its headquarters at:",
+    "options": {
+      "A": "Moor Plantation, Ibadan",
+      "B": "Olokemeji in Western Nigeria",
+      "C": "Mokwa, Niger State",
+      "D": "Samaru, Zaria"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 27,
+    "topic": "History of Extension in Nigeria",
+    "question": "In 1905, the British Cotton Growers Association acquired land for cotton growing at a site that later became the headquarters of the Department of Agriculture in 1912. This site is:",
+    "options": {
+      "A": "Olokemeji",
+      "B": "Moor Plantation, Ibadan",
+      "C": "Kwara Irrigation Project",
+      "D": "Mokwa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "topic": "History of Extension in Nigeria",
+    "question": "A major criticism of the colonial agricultural extension system in Nigeria was that it:",
+    "options": {
+      "A": "Focused exclusively on local food crops for peasant farmers.",
+      "B": "Ignored the use of progressive farmers.",
+      "C": "Acted as enforcers of colonial rules, leaving a legacy of distrust.",
+      "D": "Adopted a bottom-up approach entirely."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "topic": "History of Extension in Nigeria",
+    "question": "Which agricultural programme was established in 1972 to boost food crop production in post-independence Nigeria?",
+    "options": {
+      "A": "Operation Feed the Nation (OFN)",
+      "B": "Agricultural Development Projects (ADP)",
+      "C": "National Accelerated Food Production Project (NAFPP)",
+      "D": "Green Revolution Programme"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 30,
+    "topic": "History of Extension in Nigeria",
+    "question": "The Agricultural Development Projects (ADP), a major milestone in Nigerian extension, were initiated in which year?",
+    "options": {
+      "A": "1972",
+      "B": "1975",
+      "C": "1980",
+      "D": "1986"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 31,
+    "topic": "Programme Planning",
+    "question": "Programme planning in extension involves scheduling in advance what activities are to be carried out. What question does 'Who/Whom' address in this process?",
+    "options": {
+      "A": "The place of the activity",
+      "B": "The respective stakeholders performing each activity",
+      "C": "The time the activity will happen",
+      "D": "The strategies and methods used"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 32,
+    "topic": "Programme Planning",
+    "question": "Which of the following is NOT a reason for programme planning in extension?",
+    "options": {
+      "A": "To maximise the use of time, funds, and human efforts.",
+      "B": "To completely eliminate the need for local farmer participation.",
+      "C": "To argue for budgetary support from sponsoring institutions.",
+      "D": "To facilitate smooth implementation through sequential steps."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "topic": "Principles of Programme Planning",
+    "question": "A key principle of programme planning asserts that planning should involve:",
+    "options": {
+      "A": "Only top-level government officials",
+      "B": "Local leaders, meaning it should be done with the people, not for them",
+      "C": "External foreign consultants exclusively",
+      "D": "Immediate periods only, ignoring long-term goals"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 34,
+    "topic": "Programme Planning Framework",
+    "question": "The programme planning framework separates the extension process into how many phases?",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Four",
+      "D": "Five"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "topic": "Programme Planning Phases",
+    "question": "What is the first step in the 'Planning Phase' of the programme planning framework?",
+    "options": {
+      "A": "Identification of problems",
+      "B": "Execution of plan of work",
+      "C": "Collection of facts",
+      "D": "Decisions on objectives"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 36,
+    "topic": "Programme Planning Data",
+    "question": "During situation analysis, data on population trends, age groups, and leadership patterns are classified as:",
+    "options": {
+      "A": "Economic data",
+      "B": "Physical data",
+      "C": "Technological data",
+      "D": "Social data"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 37,
+    "topic": "Programme Implementation",
+    "question": "An annual 'Plan of Work' is developed during which phase of the extension programme framework?",
+    "options": {
+      "A": "Evaluation Phase",
+      "B": "Implementation Phase",
+      "C": "Planning Phase",
+      "D": "Reconsideration Phase"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 38,
+    "topic": "Plan of Work vs Calendar of Work",
+    "question": "Which statement best describes a 'Calendar of Work' in contrast to a 'Plan of Work'?",
+    "options": {
+      "A": "A calendar of work broadly covers a decade, while a plan of work covers one week.",
+      "B": "A calendar of work is the fragmentation of the annual plan into a detailed, chronological time sequence.",
+      "C": "They are exactly the same document with different names.",
+      "D": "A plan of work deals only with budgets, while a calendar deals with geography."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 39,
+    "topic": "Evaluation of Extension Programmes",
+    "question": "Which type of evaluation is carried out at the design or planning stage to make necessary changes prior to implementation?",
+    "options": {
+      "A": "Implementation Evaluation",
+      "B": "Formative Evaluation",
+      "C": "Summative Evaluation",
+      "D": "Terminal Evaluation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 40,
+    "topic": "Evaluation of Extension Programmes",
+    "question": "The determination of accomplishment at the very end of an extension programme is known as:",
+    "options": {
+      "A": "Formative evaluation",
+      "B": "Implementation evaluation",
+      "C": "Summative evaluation",
+      "D": "Diagnostic evaluation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 41,
+    "topic": "Communication in Extension",
+    "question": "Which of the following is NOT an element of the communication process?",
+    "options": {
+      "A": "Encoding",
+      "B": "Decoding",
+      "C": "Feedback",
+      "D": "Administration"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 42,
+    "topic": "Elements of Communication",
+    "question": "The step in the communication process that entails the interpretation of symbols by the audience's brain to make them meaningful is:",
+    "options": {
+      "A": "Encoding",
+      "B": "Channeling",
+      "C": "Decoding",
+      "D": "Feedback"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 43,
+    "topic": "Elements of Communication",
+    "question": "Information relevant to a particular audience constitutes the message. If the information is irrelevant, it is considered ________ to the audience.",
+    "options": {
+      "A": "Feedback",
+      "B": "Noise",
+      "C": "Encoding",
+      "D": "Medium"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "topic": "Principles of Communication",
+    "question": "Which communication principle involves considering things from the angle of the audience and understanding their feelings?",
+    "options": {
+      "A": "Conciseness",
+      "B": "Correctness",
+      "C": "Empathy",
+      "D": "Politeness"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 45,
+    "topic": "Principles of Communication",
+    "question": "Which principle ensures that messages are completely accurate in terms of thoughts, figures, words, and grammar to maintain reliability?",
+    "options": {
+      "A": "Correctness",
+      "B": "Clarity",
+      "C": "Specificness",
+      "D": "Conciseness"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 46,
+    "topic": "Theories of Learning",
+    "question": "Which educational theorist developed the theory that learning occurs in a hierarchical order and depends on the mastery of prerequisite concepts?",
+    "options": {
+      "A": "Jerome Bruner",
+      "B": "Robert Gagne",
+      "C": "David Ausubel",
+      "D": "Abraham Maslow"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 47,
+    "topic": "Theories of Learning",
+    "question": "Jerome S. Bruner is most associated with which concept of learning?",
+    "options": {
+      "A": "Meaningful verbal learning",
+      "B": "Learning by discovery",
+      "C": "Hierarchical skill mastery",
+      "D": "Classical conditioning"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 48,
+    "topic": "Theories of Learning",
+    "question": "David P. Ausubel believed in 'meaningful verbal learning' and emphasized the use of:",
+    "options": {
+      "A": "Advanced organizers",
+      "B": "Strictly visual media",
+      "C": "Random discovery without guidance",
+      "D": "Rote memorization"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 49,
+    "topic": "Teaching and Learning Methods",
+    "question": "A teaching strategy where students are assigned roles to act out a situation to pass across a message is called the:",
+    "options": {
+      "A": "Result demonstration method",
+      "B": "Play way (dramatization) method",
+      "C": "Method demonstration",
+      "D": "Discussion method"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 50,
+    "topic": "Audio Visual Aids",
+    "question": "According to research on brain hemispheres, the right hemisphere is primarily oriented towards:",
+    "options": {
+      "A": "Speech and language",
+      "B": "Retaining written information",
+      "C": "Visual perceptions and spatial relationships",
+      "D": "Mathematical calculations"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 51,
+    "topic": "Audio Visual Aids",
+    "question": "Research shows that people accurately remember what percentage of what they learn when ONLY the sense of hearing is involved?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "50%",
+      "D": "90%"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 52,
+    "topic": "Audio Visual Aids",
+    "question": "When people see, hear, AND practice what they are taught, they remember approximately what percentage of it?",
+    "options": {
+      "A": "20%",
+      "B": "40%",
+      "C": "70%",
+      "D": "90%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 53,
+    "topic": "Classification of Audio Visual Aids",
+    "question": "According to the evolutionary classification of media, which of the following falls under 'First Generation Media'?",
+    "options": {
+      "A": "Television and computers",
+      "B": "Printed or illustrated texts and workbooks",
+      "C": "Hand-made charts, models, and exhibits",
+      "D": "Photographs, slides, and radio"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 54,
+    "topic": "Classification of Audio Visual Aids",
+    "question": "According to the classification by projection, which of the following is considered a non-projected aid?",
+    "options": {
+      "A": "Colour slides",
+      "B": "Film strips",
+      "C": "Transparencies",
+      "D": "Flip charts"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 55,
+    "topic": "Selection of Visual Aids",
+    "question": "Which of the following factors should be considered when selecting or developing visual aids?",
+    "options": {
+      "A": "Audience characteristics",
+      "B": "Budget and Time",
+      "C": "Training objective and Message nature",
+      "D": "All of the above"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 56,
+    "topic": "Preparation of Visual Aids",
+    "question": "To enhance legibility in visual aids, colour riots should be avoided. Which of the following is a recommended combination of contrasting colours for good legibility?",
+    "options": {
+      "A": "Orange and blue",
+      "B": "Red and pink",
+      "C": "Dark blue and black",
+      "D": "Yellow and white"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 57,
+    "topic": "Tips for using Visual Aids",
+    "question": "Which of the following is a poor practice during a presentation using visual aids?",
+    "options": {
+      "A": "Facing the audience and talking to them, not the aid.",
+      "B": "Standing directly in front of the visual aid, blocking the audience's view.",
+      "C": "Rehearsing the presentation beforehand.",
+      "D": "Leaving the visual aid in view for an appropriate length of time."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 58,
+    "topic": "ICT in Extension",
+    "question": "The science of processing data for storage and retrieval, which is synonymous with computer science, is called:",
+    "options": {
+      "A": "Informatics",
+      "B": "Mechatronics",
+      "C": "Cybernetics",
+      "D": "Telematics"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 59,
+    "topic": "ICT in Extension",
+    "question": "Which type of information comes from ideas, theories, hypotheses, and concepts?",
+    "options": {
+      "A": "Procedural information",
+      "B": "Conceptual information",
+      "C": "Stimulatory information",
+      "D": "Empirical information"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 60,
+    "topic": "Digital Extension",
+    "question": "The rationale for using the digital extension approach includes all the following EXCEPT:",
+    "options": {
+      "A": "The dearth of agricultural extension workers",
+      "B": "Access to real-time information",
+      "C": "Reduction in the cost of production",
+      "D": "To increase the physical isolation of farmers"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 61,
+    "topic": "Artificial Intelligence in Extension",
+    "question": "A creative tool that simulates human intelligence to perform tasks typically done by humans, such as using robots or drones in agriculture, is:",
+    "options": {
+      "A": "Augmented Reality (AR)",
+      "B": "Artificial Intelligence (AI)",
+      "C": "Blockchain",
+      "D": "3D Printing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 62,
+    "topic": "Artificial Intelligence in Extension",
+    "question": "Which of the following is considered a constraint or disadvantage of using AI and digital tools in agricultural extension?",
+    "options": {
+      "A": "It provides tailor-made extension services.",
+      "B": "It creates job opportunities for youths.",
+      "C": "High cost of procuring robots, drones, and maintenance.",
+      "D": "It promotes a better understanding of the needs of farmers on a gender basis."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 63,
+    "topic": "History of Extension in Nigeria",
+    "question": "Which specific Nigerian institution was established in 1993 to bridge the gap between researchers and extension workers?",
+    "options": {
+      "A": "National Agricultural Extension and Research Liaison Services (NAERLS)",
+      "B": "Operation Feed the Nation (OFN)",
+      "C": "Directorate of Food, Roads and Rural Infrastructure (DFRRI)",
+      "D": "Federal Department of Agricultural Extension (FDAE)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 64,
+    "topic": "History of Extension in Nigeria",
+    "question": "What does 'REFILS' stand for in the context of Nigerian agricultural extension?",
+    "options": {
+      "A": "Rural Extension Farmers Independent Local System",
+      "B": "Research-Extension-Farmer-Input-Linkage System",
+      "C": "Regional Education for Indigenous Livestock Sector",
+      "D": "Rural Evaluation of Farming Income and Livelihoods Strategy"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 65,
+    "topic": "History of Extension in Nigeria",
+    "question": "The Growth Enhancement Support Scheme (GESS) was a component of which broader agricultural policy implemented around 2011?",
+    "options": {
+      "A": "Green Revolution",
+      "B": "Agricultural Transformation Agenda (ATA)",
+      "C": "National Accelerated Food Production Project",
+      "D": "Poverty Alleviation Programme"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 66,
+    "topic": "Teaching and Learning of Extension",
+    "question": "Which method of teaching involves carrying out an experiment or practical activity at the end of a process to show its outcome (e.g., proving a new seed variety yields more)?",
+    "options": {
+      "A": "Method Demonstration",
+      "B": "Result Demonstration",
+      "C": "Group Discussion",
+      "D": "Play way method"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "topic": "Conditions that Influence Learning",
+    "question": "Which of the following is considered a 'positive condition' that influences learning?",
+    "options": {
+      "A": "Monotony",
+      "B": "Emotional problems",
+      "C": "Nutrition and sleep",
+      "D": "Use of illicit drugs"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 68,
+    "topic": "History of Extension (Global)",
+    "question": "In European countries, the process equivalent to agricultural extension is commonly referred to as:",
+    "options": {
+      "A": "Advisory services",
+      "B": "Rural dictation",
+      "C": "Agronomic compliance",
+      "D": "Farming enforcement"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 69,
+    "topic": "General / Subject Related",
+    "question": "Which sociological factor is most likely to act as a barrier to the adoption of a newly introduced agricultural technology in a rural community?",
+    "options": {
+      "A": "High level of formal education",
+      "B": "Strong adherence to traditional taboos and local customs",
+      "C": "Presence of a highly developed road network",
+      "D": "Availability of micro-credit schemes"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 70,
+    "topic": "General / Subject Related",
+    "question": "In the diffusion of innovations theory (often applied in extension), individuals who are the very first to adopt a new technology are called:",
+    "options": {
+      "A": "Laggards",
+      "B": "Early Adopters",
+      "C": "Innovators",
+      "D": "Early Majority"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 71,
+    "topic": "General / Subject Related",
+    "question": "A key advantage of using the 'Group Method' in agricultural extension over the 'Individual Method' is that it:",
+    "options": {
+      "A": "Is highly personalized for a single farmer's unique problems.",
+      "B": "Reaches more people at a lower cost per capita while fostering peer learning.",
+      "C": "Guarantees 100% adoption of the technology.",
+      "D": "Eliminates the need for any visual aids."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 72,
+    "topic": "General / Subject Related",
+    "question": "Which of the following best represents a 'Mass Media' method in agricultural extension?",
+    "options": {
+      "A": "A farm visit by an extension agent",
+      "B": "A group demonstration on a village farm",
+      "C": "An agricultural broadcast on a national radio station",
+      "D": "A one-on-one telephone call to a specific farmer"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 73,
+    "topic": "General / Subject Related",
+    "question": "What is the primary purpose of 'Participatory Rural Appraisal' (PRA) in the extension planning phase?",
+    "options": {
+      "A": "To impose a pre-designed government project on the community.",
+      "B": "To evaluate the final yield of crops at the end of the year.",
+      "C": "To enable local people to share, enhance, and analyze their knowledge of life and conditions, and to plan.",
+      "D": "To penalize farmers who are not utilizing modern inputs."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 74,
+    "topic": "General / Subject Related",
+    "question": "In extension communication, 'homophily' refers to:",
+    "options": {
+      "A": "The physical distance between the sender and receiver.",
+      "B": "The degree to which individuals who interact are similar in attributes like beliefs, education, and social status.",
+      "C": "The fear of using modern technology.",
+      "D": "The distortion of a message as it passes through multiple channels."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 75,
+    "topic": "Programme Planning",
+    "question": "A programme planning process must ensure that objectives are SMART. The 'M' in SMART stands for:",
+    "options": {
+      "A": "Motivational",
+      "B": "Measurable",
+      "C": "Meaningful",
+      "D": "Methodological"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 76,
+    "topic": "Process of Extension",
+    "question": "In the five essential phases of the extension process, which step logically follows 'Setting the objectives'?",
+    "options": {
+      "A": "Analysing the situation",
+      "B": "Reconsidering",
+      "C": "Teaching (arranging situations for learning)",
+      "D": "Evaluating"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 77,
+    "topic": "Extension System Parameters",
+    "question": "A 'Pluralistic' extension system is one where:",
+    "options": {
+      "A": "Only the Ministry of Agriculture provides extension services.",
+      "B": "Multiple service providers (public, private, NGOs) deliver agricultural extension services.",
+      "C": "Extension is strictly limited to rural plant crops and ignores livestock.",
+      "D": "There is no formal extension structure in place."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 78,
+    "topic": "History of Extension in Nigeria",
+    "question": "The establishment of the Department of Agricultural Extension and Rural Development in Nigerian Universities served primarily to:",
+    "options": {
+      "A": "Directly tax local farmers.",
+      "B": "Replace the federal Ministry of Agriculture.",
+      "C": "Expand knowledge, training, and research into agricultural extension.",
+      "D": "Enforce colonial cotton production quotas."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 79,
+    "topic": "Teaching and Learning of Extension",
+    "question": "What is a 'Method Demonstration' in extension teaching?",
+    "options": {
+      "A": "Showing the long-term results of applying a fertilizer over a whole season.",
+      "B": "A step-by-step display showing how to carry out a specific practice or skill.",
+      "C": "A mass media campaign urging farmers to buy tractors.",
+      "D": "A theoretical lecture on the chemical composition of soil."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 80,
+    "topic": "General / Subject Related",
+    "question": "Which element of the communication process acts as the ultimate check to ensure the audience correctly interpreted the message without distortion?",
+    "options": {
+      "A": "Encoding",
+      "B": "Channel",
+      "C": "Noise",
+      "D": "Feedback"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 81,
+    "topic": "Programme Planning Framework",
+    "question": "The programme planning framework separates the extension process into three distinct phases. Which of the following correctly lists these phases?",
+    "options": {
+      "A": "Initiation, Execution, and Termination",
+      "B": "Planning, Implementation, and Evaluation",
+      "C": "Data Collection, Analysis, and Dissemination",
+      "D": "Formulation, Administration, and Reconsideration"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 82,
+    "topic": "Steps in Programme Planning",
+    "question": "In the planning phase of an extension programme, which step involves subjecting collected data to critical analysis using descriptive and inferential statistics?",
+    "options": {
+      "A": "Collection of facts",
+      "B": "Analysis of the situation",
+      "C": "Identification of problems",
+      "D": "Decisions on objectives"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 83,
+    "topic": "Principles of Programme Planning",
+    "question": "An essential principle of programme planning asserts that planning should involve local leaders, meaning it must be done:",
+    "options": {
+      "A": "For the people, without their direct interference.",
+      "B": "By top-tier government officials exclusively.",
+      "C": "With the people, not for them or by them alone.",
+      "D": "Only by external foreign agricultural experts."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 84,
+    "topic": "Steps in Programme Planning",
+    "question": "After the extension agent analyzes the situation and identifies the problems, what is the mandatory next step before setting the objectives?",
+    "options": {
+      "A": "Execute the plan of work immediately.",
+      "B": "Conduct a summative evaluation.",
+      "C": "Prioritize the identified needs so the most urgent and significant ones are selected.",
+      "D": "Create the calendar of work."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 85,
+    "topic": "Programme Implementation Phase",
+    "question": "The programme implementation phase consists of three main steps. They are the Development of the plan of work, Execution of the plan of work, and:",
+    "options": {
+      "A": "Determination of progress made",
+      "B": "Collection of physical data",
+      "C": "Formative evaluation",
+      "D": "Setting fundamental objectives"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 86,
+    "topic": "Programme Planning Components",
+    "question": "In the context of programme planning, scheduling in advance addresses several questions. Which question corresponds to the 'Reason for performing each activity'?",
+    "options": {
+      "A": "What",
+      "B": "How",
+      "C": "Who",
+      "D": "Why"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 87,
+    "topic": "Data Collection for Planning",
+    "question": "During the situation analysis, data on population trends, educational facilities, housing conditions, and leadership patterns are classified as:",
+    "options": {
+      "A": "Physical data",
+      "B": "Economic data",
+      "C": "Social data",
+      "D": "Technological data"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 88,
+    "topic": "Development of Plan of Work",
+    "question": "When developing a plan of work, the 'What' refers to:",
+    "options": {
+      "A": "The venue where the programme will take place.",
+      "B": "The timing of the programme.",
+      "C": "The subject matter, such as the control of black pod disease.",
+      "D": "The methods used to carry out the programme."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 89,
+    "topic": "Decisions on Objectives",
+    "question": "To ensure that objectives set during the planning phase are realistic and actionable, there is a need to state them in terms of:",
+    "options": {
+      "A": "Broad philosophical statements",
+      "B": "Specific goals",
+      "C": "Unattainable ideals to encourage hard work",
+      "D": "Vague economic desires"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 90,
+    "topic": "Determination of Progress Made",
+    "question": "What is the main purpose of recording and monitoring progress on a regular basis during the execution of a programme?",
+    "options": {
+      "A": "To punish extension workers who are underperforming.",
+      "B": "To ensure that input deliveries, work schedules, and target outputs are proceeding as planned.",
+      "C": "To rewrite the fundamental philosophy of the national policy.",
+      "D": "To immediately terminate the programme if any flaw is found."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 91,
+    "topic": "Plan of Work vs Calendar of Work",
+    "question": "A schedule of extension work outlining different activities in a specific period, broadly indicating what is to be done, by whom, when, and where, is typically prepared for a duration of:",
+    "options": {
+      "A": "One week",
+      "B": "One month",
+      "C": "One year",
+      "D": "Ten years"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 92,
+    "topic": "Plan of Work vs Calendar of Work",
+    "question": "Which of the following documents represents the fragmentation of the annual plan of work into a detailed, chronological, and specific time sequence?",
+    "options": {
+      "A": "The National Agricultural Policy",
+      "B": "The Calendar of Work",
+      "C": "The Formative Evaluation Report",
+      "D": "The Target Audience Manifesto"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 93,
+    "topic": "Plan of Work vs Calendar of Work",
+    "question": "Which of the following statements about the relationship between the Plan of Work and the Calendar of Work is true?",
+    "options": {
+      "A": "The calendar of work is an entirely separate document that has no relation to the plan of work.",
+      "B": "The plan of work is a part of the calendar of work.",
+      "C": "The calendar of work is a fragmentation of the annual plan of work, prepared for shorter periods like months or weeks.",
+      "D": "Both are prepared exclusively at the end of the project for evaluation purposes."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 94,
+    "topic": "Execution of Plan of Work",
+    "question": "In executing the plan of work, which of the following is an essential guide that must be followed?",
+    "options": {
+      "A": "Punctuality at meetings should be ensured.",
+      "B": "Local leaders should be ignored to maintain professionalism.",
+      "C": "Administrative support should be bypassed to speed up the process.",
+      "D": "All activities must be conducted strictly indoors."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 95,
+    "topic": "Evaluation of Extension Programmes",
+    "question": "Evaluation is the determination of the worth and values of a project. It takes place at the end or mid-term of the project to find out:",
+    "options": {
+      "A": "Only the positive outcomes of the project.",
+      "B": "Who to blame for project failures.",
+      "C": "The weaknesses and the results (positive outcomes) of the project.",
+      "D": "How to increase the extension agent's salary."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 96,
+    "topic": "Evaluation of Extension Programmes",
+    "question": "Which stage of evaluation is carried out during the design or planning stage to make necessary changes prior to implementation?",
+    "options": {
+      "A": "Summative evaluation",
+      "B": "Implementation evaluation",
+      "C": "Formative evaluation",
+      "D": "Ex-post evaluation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 97,
+    "topic": "Evaluation of Extension Programmes",
+    "question": "The major advantage of Implementation Evaluation is to:",
+    "options": {
+      "A": "Determine the final accomplishment of the programme.",
+      "B": "Detect needed modifications which may arise due to unanticipated changes while the programme is still in progress.",
+      "C": "Secure initial funding from sponsors.",
+      "D": "Collect baseline data before the programme begins."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 98,
+    "topic": "Evaluation of Extension Programmes",
+    "question": "The determination of overall accomplishment at the very end of the extension programme is referred to as:",
+    "options": {
+      "A": "Formative evaluation",
+      "B": "Implementation evaluation",
+      "C": "Summative evaluation",
+      "D": "Diagnostic evaluation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 99,
+    "topic": "Major Concepts in Extension",
+    "question": "Which concept is defined as a process of planning, decision making, organizing, leading, motivating, and controlling human, financial, physical, and information resources?",
+    "options": {
+      "A": "Administration",
+      "B": "Management",
+      "C": "Leadership",
+      "D": "Sustainability"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 100,
+    "topic": "Major Concepts in Extension",
+    "question": "Extension Administration is basically a social technique that facilitates the success of development efforts. It is defined as:",
+    "options": {
+      "A": "The guidance, leadership, and control of the efforts of groups to achieve commonly agreed goals.",
+      "B": "The process of influencing people using only financial rewards.",
+      "C": "The ecological balance of farming systems.",
+      "D": "The fragmentation of the plan of work."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 101,
+    "topic": "Major Concepts in Extension",
+    "question": "A process whereby an individual influences the activities of an organized group toward goal achievement is known as:",
+    "options": {
+      "A": "Evaluation",
+      "B": "Management",
+      "C": "Leadership",
+      "D": "Motivation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 102,
+    "topic": "Motivation in Extension",
+    "question": "According to Abraham Maslow's theory (1934) of human needs, the need for affiliation, acceptance, and belonging to groups falls under:",
+    "options": {
+      "A": "Physiological needs",
+      "B": "Safety needs",
+      "C": "Social needs",
+      "D": "Self-realization needs"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 103,
+    "topic": "Motivation in Extension",
+    "question": "The use of various incentives to willingly get people to do necessary things, which reduces individual dissatisfaction and increases satisfaction at work, is defined as:",
+    "options": {
+      "A": "Leadership",
+      "B": "Administration",
+      "C": "Motivation",
+      "D": "Encoding"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 104,
+    "topic": "Sustainability in Extension",
+    "question": "Sustainable development is defined as development that meets the needs of the present without:",
+    "options": {
+      "A": "Using any technological advancements.",
+      "B": "Compromising the ability of future generations to meet their own needs.",
+      "C": "Involving any financial expenditures.",
+      "D": "Altering the cultural beliefs of the target audience."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "topic": "Sustainability in Extension",
+    "question": "Which of the three pillars of sustainability focuses on the maintenance of renewable assets, managing harvest, and preventing non-renewable resource depletion?",
+    "options": {
+      "A": "Social Sustainability",
+      "B": "Economic Sustainability",
+      "C": "Environmental Sustainability",
+      "D": "Institutional Sustainability"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 106,
+    "topic": "Sustainability in Extension",
+    "question": "The goal of maintaining a certain level of production based on the equal distribution of resources to people for national growth describes:",
+    "options": {
+      "A": "Environmental sustainability",
+      "B": "Economic sustainability",
+      "C": "Social sustainability",
+      "D": "Cultural sustainability"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 107,
+    "topic": "Communication in Extension",
+    "question": "Communication takes different forms and media depending upon the moods and behaviour of those communicating, meaning it keeps changing in different situations. This describes communication as a:",
+    "options": {
+      "A": "Pervasive process",
+      "B": "Dynamic process",
+      "C": "Continuous process",
+      "D": "Goal-oriented process"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 108,
+    "topic": "Communication in Extension",
+    "question": "The nature of communication states that it is 'Pervasive'. What does this mean?",
+    "options": {
+      "A": "It only happens at the top management level.",
+      "B": "It takes place at all levels (top, middle, low) in all functional areas of a society.",
+      "C": "It is an end in itself with no further goals.",
+      "D": "It requires complex digital tools to function."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 109,
+    "topic": "Principles of Communication",
+    "question": "Which principle of communication implies accuracy of thoughts, figures, and words, as well as the appropriate use of grammar and language to maintain reliability?",
+    "options": {
+      "A": "Conciseness",
+      "B": "Clarity",
+      "C": "Correctness",
+      "D": "Empathy"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 110,
+    "topic": "Principles of Communication",
+    "question": "While sending a message, the source should consider things from the angle of the audience and understand their feelings and emotions. This is the principle of:",
+    "options": {
+      "A": "Specificness",
+      "B": "Politeness",
+      "C": "Completeness",
+      "D": "Empathy"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 111,
+    "topic": "Elements of Communication Process",
+    "question": "The first step in the communication process, which involves translating information into symbols of ideas or concepts that are understandable to the audience, is called:",
+    "options": {
+      "A": "Decoding",
+      "B": "Encoding",
+      "C": "Feedback",
+      "D": "Channeling"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 112,
+    "topic": "Elements of Communication Process",
+    "question": "Information that is NOT relevant to a particular set of audience constitutes:",
+    "options": {
+      "A": "A good message",
+      "B": "Feedback",
+      "C": "Noise",
+      "D": "Decoding"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 113,
+    "topic": "Elements of Communication Process",
+    "question": "Which element allows the information source to evaluate the effectiveness of the message, providing an opportunity to clarify misunderstood information?",
+    "options": {
+      "A": "Medium",
+      "B": "Encoding",
+      "C": "Feedback",
+      "D": "Message"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 114,
+    "topic": "Teaching and Learning of Extension",
+    "question": "Change brought about by learning is generally influenced by two main factors. They are:",
+    "options": {
+      "A": "Age and Wealth",
+      "B": "Maturation and Learning",
+      "C": "Genetics and Geography",
+      "D": "Administration and Management"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 115,
+    "topic": "Teaching and Learning of Extension",
+    "question": "Which of the following conditions is considered a 'negative condition' that impedes learning?",
+    "options": {
+      "A": "Good nutrition",
+      "B": "Proper sleep",
+      "C": "Monotony and emotional problems",
+      "D": "High interest"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 116,
+    "topic": "Theories of Learning",
+    "question": "Which educational theorist developed a theory stipulating that the learning of a skill or concept depends on the mastery of prerequisite concepts or skills in a hierarchical order?",
+    "options": {
+      "A": "Jerome S. Brunner",
+      "B": "Robert M. Gagne",
+      "C": "David P. Ausubel",
+      "D": "Abraham Maslow"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 117,
+    "topic": "Theories of Learning",
+    "question": "Jerome S. Brunner believed in 'learning by discovery'. This process involves:",
+    "options": {
+      "A": "Rote memorization of facts without understanding.",
+      "B": "Moving from the unknown to the known by confronting students with problems.",
+      "C": "Using advanced organisers before the actual learning begins.",
+      "D": "Only learning through auditory senses."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 118,
+    "topic": "Theories of Learning",
+    "question": "David P. Ausubel emphasized 'meaningful verbal learning' and advocated for the use of:",
+    "options": {
+      "A": "Systematically guided exposition and advanced organisers",
+      "B": "Trial and error methods",
+      "C": "Strictly visual cues without verbal instruction",
+      "D": "Unsupervised discovery learning"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 119,
+    "topic": "Teaching Methods in Extension",
+    "question": "The teaching method that involves assigning roles to students to dramatize an event in order to pass a message across is called:",
+    "options": {
+      "A": "Result demonstration",
+      "B": "Method demonstration",
+      "C": "Play way method",
+      "D": "Lecture method"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 120,
+    "topic": "Audio Visual Aids",
+    "question": "Research on the brain indicates that the left hemisphere is primarily involved in processing and retaining:",
+    "options": {
+      "A": "Visual perceptions and spatial relationships",
+      "B": "Speech, language, and written information",
+      "C": "Musical rhythms and creative arts",
+      "D": "Emotional responses and intuition"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 121,
+    "topic": "Audio Visual Aids",
+    "question": "According to the provided text, people accurately remember what percentage of what they learn when ONLY the sense of sight and hearing are involved?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "50%",
+      "D": "90%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 122,
+    "topic": "Audio Visual Aids",
+    "question": "When people see, hear, AND practice what they are taught, the retention rate significantly increases to approximately:",
+    "options": {
+      "A": "30%",
+      "B": "50%",
+      "C": "70%",
+      "D": "90%"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 123,
+    "topic": "Classification of Audio Visual Aids",
+    "question": "Under the evolutionary classification of media, photographs, slides, film strips, and radio fall into which category?",
+    "options": {
+      "A": "First generation media",
+      "B": "Second generation media",
+      "C": "Third generation media",
+      "D": "Fourth generation media"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 124,
+    "topic": "Classification of Audio Visual Aids",
+    "question": "Printed text, illustrated text, printed graphics, and workbooks are classified as:",
+    "options": {
+      "A": "First generation media",
+      "B": "Second generation media",
+      "C": "Third generation media",
+      "D": "Fourth generation media"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "topic": "Classification of Audio Visual Aids",
+    "question": "Which of the following is an example of a 'Projected Aid'?",
+    "options": {
+      "A": "Flip chart",
+      "B": "Real objects (specimens)",
+      "C": "Colour slides and Transparencies",
+      "D": "Flannel-graphs"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 126,
+    "topic": "Selection of Visual Aids",
+    "question": "When selecting or developing a visual aid, assessing whether the instruction will be delivered through a lecture, discussion, or hands-on practice refers to considering the:",
+    "options": {
+      "A": "Audience characteristics",
+      "B": "Delivery system",
+      "C": "Budget constraints",
+      "D": "Training location"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 127,
+    "topic": "Preparation of Visual Aids",
+    "question": "To ensure words on a visual aid are legible, one should avoid 'colour riots'. Which of the following is a highly recommended contrasting two-colour combination?",
+    "options": {
+      "A": "Orange and blue",
+      "B": "Red and pink",
+      "C": "Yellow and white",
+      "D": "Dark green and black"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 128,
+    "topic": "Tips for using Visual Aids",
+    "question": "Which of the following is considered an effective practice during a presentation using visual aids?",
+    "options": {
+      "A": "Leaving the visual aid visible long after the topic has passed.",
+      "B": "Facing the visual aid continuously rather than the audience.",
+      "C": "Making sure all visual aids and equipment are in good working order before presentation.",
+      "D": "Standing directly in front of the visual aid to point out details."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 129,
+    "topic": "ICT in Agricultural Extension",
+    "question": "The science of processing data for storage and retrieval, which is synonymous with computer science, is called:",
+    "options": {
+      "A": "Telemetrics",
+      "B": "Informatics",
+      "C": "Robotics",
+      "D": "Cybernetics"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 130,
+    "topic": "ICT in Agricultural Extension",
+    "question": "Information derived from theories, hypotheses, and core ideas is classified as:",
+    "options": {
+      "A": "Procedural information",
+      "B": "Directive information",
+      "C": "Conceptual information",
+      "D": "Stimulatory information"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 131,
+    "topic": "ICT in Agricultural Extension",
+    "question": "The use of an agricultural website or portal to disseminate vital information such as crop management techniques and fertilizer usage is an example of:",
+    "options": {
+      "A": "A Traditional Method Demonstration",
+      "B": "A Digital Extension Approach",
+      "C": "A Result Demonstration",
+      "D": "Faunal Pedoturbation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 132,
+    "topic": "ICT in Agricultural Extension",
+    "question": "Which of the following serves as a key rationale for adopting the digital extension approach?",
+    "options": {
+      "A": "The over-abundance of physical agricultural extension workers.",
+      "B": "The desire to increase the physical cost of production.",
+      "C": "The dearth (shortage) of agricultural extension workers and access to real-time information.",
+      "D": "To prevent youths from participating in agriculture."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 133,
+    "topic": "ICT in Agricultural Extension",
+    "question": "What is a major constraint to the implementation of digital extension and AI tools in rural areas?",
+    "options": {
+      "A": "They lead to a better understanding of gender-based needs.",
+      "B": "Poor digital infrastructure, illiteracy, and lack of internet access.",
+      "C": "They automatically increase the physical extension farmer ratio.",
+      "D": "They eliminate the need for agricultural policies."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 134,
+    "topic": "Artificial Intelligence in Extension",
+    "question": "A creative tool that simulates human intelligence using computer systems, robots, and digital devices to perform tasks typically done by humans is:",
+    "options": {
+      "A": "Virtual Reality",
+      "B": "Blockchain",
+      "C": "Artificial Intelligence (AI)",
+      "D": "Augmented Reality"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 135,
+    "topic": "Artificial Intelligence in Extension",
+    "question": "One notable disadvantage of using Artificial Intelligence (AI) in agricultural extension is:",
+    "options": {
+      "A": "It requires very little energy and fuel.",
+      "B": "The high cost of procuring and maintaining robots and drones.",
+      "C": "It prevents any form of targeted impact on government investment.",
+      "D": "It only provides historical data, not real-time data."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 136,
+    "topic": "History of Extension in Nigeria",
+    "question": "The National Agricultural Extension and Research Liaison Services (NAERLS) was formally established in which year?",
+    "options": {
+      "A": "1972",
+      "B": "1980",
+      "C": "1993",
+      "D": "2011"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 137,
+    "topic": "History of Extension in Nigeria",
+    "question": "What is the full meaning of the acronym REFILS as used in Nigerian agricultural extension?",
+    "options": {
+      "A": "Research-Extension-Farmer-Input-Linkage System",
+      "B": "Rural Economic Financing and Income Livelihood Scheme",
+      "C": "Regional Extension for Indigenous Livestock Sector",
+      "D": "Resource Efficiency for Farming Institutions and Local Societies"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 138,
+    "topic": "History of Extension in Nigeria",
+    "question": "Which of the following societies was established for practitioners and specialists in agricultural extension in Nigeria?",
+    "options": {
+      "A": "Nigerian Medical Association (NMA)",
+      "B": "Agricultural Extension Society of Nigeria (AESON)",
+      "C": "National Board for Technical Education (NBTE)",
+      "D": "Farmers Cooperative Union (FCU)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 139,
+    "topic": "History of Extension in Nigeria",
+    "question": "The Agricultural Transformation Agenda (ATA) and its associated Growth Enhancement Support Scheme (GESS) were launched around:",
+    "options": {
+      "A": "1960",
+      "B": "1986",
+      "C": "2000",
+      "D": "2011"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 140,
+    "topic": "History of Extension in Nigeria",
+    "question": "During the colonial period (e.g., in 1893), the Department of Botanical Research was established primarily to promote the cultivation of:",
+    "options": {
+      "A": "Local subsistence food crops",
+      "B": "Export crops to feed British industries",
+      "C": "Genetically modified organisms (GMOs)",
+      "D": "Synthetic fertilizers"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 141,
+    "topic": "History of Extension in Nigeria",
+    "question": "In 1949, the Niger agricultural project was sited at Mokwa specifically because it was suitable for:",
+    "options": {
+      "A": "Extensive swamp rice farming",
+      "B": "Mechanization to produce groundnut for export and guinea-corn for local consumption",
+      "C": "Rubber plantation development",
+      "D": "Deep sea fishing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 142,
+    "topic": "History of Extension in Nigeria",
+    "question": "The National Accelerated Food Production Project (NAFPP), a major post-independence agricultural effort, was launched in:",
+    "options": {
+      "A": "1960",
+      "B": "1972",
+      "C": "1986",
+      "D": "1992"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 143,
+    "topic": "History of Extension in Nigeria",
+    "question": "Which of the following programmes was established in 1986 to provide basic rural infrastructure and feeder roads?",
+    "options": {
+      "A": "Operation Feed the Nation (OFN)",
+      "B": "Green Revolution Programme",
+      "C": "Directorate of Food, Roads and Rural Infrastructure (DFRRI)",
+      "D": "Poverty Alleviation Programme (PAP)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 144,
+    "topic": "General / Subject Related",
+    "question": "A fundamental philosophical shift in modern agricultural extension, moving away from the colonial approach, is the shift from a 'top-down' approach to a:",
+    "options": {
+      "A": "Coercive approach",
+      "B": "Bottom-up approach",
+      "C": "Strictly administrative approach",
+      "D": "Punitive approach"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 145,
+    "topic": "General / Subject Related",
+    "question": "When an extension agent teaches farmers how to physically operate a newly introduced motorized knapsack sprayer step-by-step, this is a:",
+    "options": {
+      "A": "Result demonstration",
+      "B": "Method demonstration",
+      "C": "Mass media broadcast",
+      "D": "Play way method"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 146,
+    "topic": "Principles of Agricultural Extension",
+    "question": "The 'Whole-family principle' asserts that extension work will have a better chance of success because:",
+    "options": {
+      "A": "It isolates the household head from the rest of the community.",
+      "B": "It focuses only on the male youth.",
+      "C": "The family is the basic social unit of any social system, so targeting the whole farm family is more holistic than a piecemeal approach.",
+      "D": "It requires families to relocate to urban areas."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 147,
+    "topic": "Principles of Agricultural Extension",
+    "question": "The 'Grassroots principle of organization' emphasizes that:",
+    "options": {
+      "A": "Local groups should be organized to demonstrate the value of new practices, maximizing local participation.",
+      "B": "All directives must come strictly from the federal headquarters.",
+      "C": "Farmers should be heavily taxed at the village level.",
+      "D": "Extension agents should avoid interacting with local farmers."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 148,
+    "topic": "Principles of Agricultural Extension",
+    "question": "Which principle emphasizes that 'a satisfied customer is the best advertisement', and that meeting a need successfully leads to changes in behaviour?",
+    "options": {
+      "A": "Principle of cultural difference",
+      "B": "Principle of satisfaction",
+      "C": "Principle of target audience centredness",
+      "D": "Principle of democratic approach"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "topic": "Formal vs Extension Education",
+    "question": "In contrast to formal education which has a fixed curriculum, extension education features a curriculum that is:",
+    "options": {
+      "A": "Non-existent",
+      "B": "Strictly determined by textbook publishers",
+      "C": "Flexible, with people helping to formulate it based on their problems",
+      "D": "Dictated daily by the Minister of Agriculture"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "topic": "Formal vs Extension Education",
+    "question": "The audience in a formal education classroom is usually more or less homogeneous. In extension education, the audience is typically:",
+    "options": {
+      "A": "Also highly homogeneous",
+      "B": "Heterogeneous",
+      "C": "Exclusively female",
+      "D": "Exclusively children"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 151,
+    "topic": "Programme Planning",
+    "question": "In formulating an extension programme, ensuring it aligns with the cultural system and social values of the people addresses the principle of:",
+    "options": {
+      "A": "Rigidity",
+      "B": "Top-down command",
+      "C": "Cultural conformity",
+      "D": "Evaluation at the final stage only"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 152,
+    "topic": "Major Concepts in Extension",
+    "question": "Which term describes a process or state that can be maintained at a certain level for as long as is wanted, specifically balancing social, economic, and ecological dimensions?",
+    "options": {
+      "A": "Administration",
+      "B": "Leadership",
+      "C": "Sustainability",
+      "D": "Motivation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 153,
+    "topic": "Communication in Extension",
+    "question": "Which element of the communication process acts as the vehicle or mechanism used to transmit the encoded message to the receiver?",
+    "options": {
+      "A": "Feedback",
+      "B": "Channel / Medium",
+      "C": "Decoding",
+      "D": "Noise"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 154,
+    "topic": "Audio Visual Aids",
+    "question": "When lettering a visual aid, it is important to observe basic functions such as to label, point out specific details, and:",
+    "options": {
+      "A": "Distract the audience",
+      "B": "Give supplemental information",
+      "C": "Replace the verbal presentation entirely",
+      "D": "Demonstrate the instructor's artistic skill"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 155,
+    "topic": "Audio Visual Aids",
+    "question": "Which of the following is a key reason for conducting a rehearsal before an extension presentation involving visual aids?",
+    "options": {
+      "A": "To memorize every single word on the slides.",
+      "B": "To decide on the exact point in the presentation at which it is most appropriate to introduce the visual aid.",
+      "C": "To ensure the projector bulb burns out before the audience arrives.",
+      "D": "To practice reading directly from the visual aid without looking at the audience."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 156,
+    "topic": "General / Subject Related",
+    "question": "What agricultural extension strategy became highly popularized in Nigeria in the 1970s and 1980s through World Bank funding, establishing a statewide extension service network?",
+    "options": {
+      "A": "River Basin Development Authorities (RBDA)",
+      "B": "Agricultural Development Projects (ADP)",
+      "C": "National Directorate of Employment (NDE)",
+      "D": "Federal Department of Agriculture (FDA)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 157,
+    "topic": "General / Subject Related",
+    "question": "In assessing an extension system, 'Political Will' refers to:",
+    "options": {
+      "A": "The extension agent's desire to run for local office.",
+      "B": "The government's willingness to promote and fund agricultural extension development based on recognizing its importance.",
+      "C": "The farmers' ability to unionize and strike.",
+      "D": "The requirement that all farmers join a specific political party."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "topic": "General / Subject Related",
+    "question": "Extension objectives must focus on the changes desired in the targeted group. These changes primarily target the farmers' 'KAP', which stands for:",
+    "options": {
+      "A": "Knowledge, Attitude, and Practices",
+      "B": "Kinematics, Aesthetics, and Physics",
+      "C": "Kinetics, Agriculture, and Productivity",
+      "D": "Knowledge, Administration, and Planning"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 159,
+    "topic": "General / Subject Related",
+    "question": "If an extension educator wants to show farmers that a new maize variety yields twice as much as the local variety by harvesting both side-by-side at the end of the season, the educator is using a:",
+    "options": {
+      "A": "Method demonstration",
+      "B": "Result demonstration",
+      "C": "Theoretical lecture",
+      "D": "Role-play simulation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 160,
+    "topic": "General / Subject Related",
+    "question": "The abbreviation SDGs, which outlines the global goals that the general concept of sustainability aims to meet, stands for:",
+    "options": {
+      "A": "Standardized Development Guidelines",
+      "B": "Sustainable Development Goals",
+      "C": "Social Demographic Growth Statistics",
+      "D": "Systematic Delivery of Government Services"
+    },
+    "correctAnswer": "B"
+  }
+]

@@ -1,0 +1,1922 @@
+[
+	{
+		"id": 1,
+		"topic": "Poultry Industry and Consumption",
+		"question": "Demand for poultry meat and eggs is on the increase. In Nigeria, what is the estimated egg consumption per head per year compared to developed countries?",
+		"options": {
+			"A": "60 eggs vs 250 eggs",
+			"B": "120 eggs vs 300 eggs",
+			"C": "250 eggs vs 60 eggs",
+			"D": "30 eggs vs 150 eggs"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 2,
+		"topic": "Poultry Industry and Consumption",
+		"question": "What percentage of the poultry industry in Nigeria is accounted for by commercial production?",
+		"options": {
+			"A": "25%",
+			"B": "40%",
+			"C": "60%",
+			"D": "80%"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 3,
+		"topic": "Poultry Terminologies",
+		"question": "In standard poultry terminologies, a female domestic fowl that is less than 72 weeks old is strictly referred to as a:",
+		"options": {
+			"A": "Hen",
+			"B": "Cockerel",
+			"C": "Pullet",
+			"D": "Poult"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 4,
+		"topic": "Poultry Terminologies",
+		"question": "What is the correct terminology for a young guinea fowl?",
+		"options": {
+			"A": "Duckling",
+			"B": "Gosling",
+			"C": "Poult",
+			"D": "Keet"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 5,
+		"topic": "Poultry Industry and Consumption",
+		"question": "In terms of geographical spread, which region in Nigeria accounts for over 65% of commercial poultry production?",
+		"options": {
+			"A": "South East Nigeria",
+			"B": "South South Nigeria",
+			"C": "South Western Nigeria",
+			"D": "North Central Nigeria"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 6,
+		"topic": "External Features of Poultry",
+		"question": "The specific feathers located on the neck of a domestic chicken are called:",
+		"options": {
+			"A": "Saddle feathers",
+			"B": "Sickle feathers",
+			"C": "Hackle feathers",
+			"D": "Fluffy feathers"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 7,
+		"topic": "Origin of Domestic Chicken",
+		"question": "Which of the following wild ancestors is known as the red jungle fowl of South East Asia?",
+		"options": {
+			"A": "Gallus lafayetii",
+			"B": "Gallus gallus",
+			"C": "Gallus sonneratii",
+			"D": "Gallus varius"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 8,
+		"topic": "External Features of Poultry",
+		"question": "What is the specific term used to describe the small feathers left on a bird's body after the main feathers have been plucked?",
+		"options": {
+			"A": "Pin feathers",
+			"B": "Sickle feathers",
+			"C": "Down feathers",
+			"D": "Saddle feathers"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 9,
+		"topic": "External Features of Poultry",
+		"question": "Ages of birds can be estimated by looking at their feathers. How do the feathers of young birds typically appear compared to older birds?",
+		"options": {
+			"A": "Dirtier, broken, and ruffled",
+			"B": "Harder and tougher",
+			"C": "Cleaner, smoother, and newer",
+			"D": "Lacking completely in pigmentation"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 10,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "Which class of domestic chicken is characterized by a small body size, white earlobes, early maturity, and a nervous or flighty disposition?",
+		"options": {
+			"A": "Asiatic class",
+			"B": "American class",
+			"C": "Mediterranean class",
+			"D": "English class"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 11,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "Which of the following is an example of a breed belonging to the Asiatic class?",
+		"options": {
+			"A": "Leghorn",
+			"B": "Brahma",
+			"C": "Rhode Island Red",
+			"D": "Orpington"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 12,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "Breeds in the American class, such as the Rhode Island Red and Plymouth Rock, are typically recognized as:",
+		"options": {
+			"A": "Strictly egg-laying light breeds",
+			"B": "Ornamental breeds only",
+			"C": "Dual-purpose breeds used for both meat and egg production",
+			"D": "Game birds used exclusively for cock fighting"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 13,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "Members of the English class of chickens generally possess white skin. Which breed is noted as the exception to this rule?",
+		"options": {
+			"A": "Sussex",
+			"B": "Australorp",
+			"C": "Dorking",
+			"D": "Cornish"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 14,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "What is the expected egg production capacity of light Mediterranean breeds over a 14-month laying period?",
+		"options": {
+			"A": "60 to 80 eggs",
+			"B": "140 eggs",
+			"C": "220 to 230 eggs",
+			"D": "250 to 260 eggs"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 15,
+		"topic": "Poultry Housing and Design",
+		"question": "To minimize the exposure of birds to direct solar radiation in commercial housing, the long axis of the poultry house should run in which direction?",
+		"options": {
+			"A": "North to South",
+			"B": "East to West",
+			"C": "North-East to South-West",
+			"D": "It does not matter as long as there is a roof"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 16,
+		"topic": "Poultry Housing and Design",
+		"question": "For optimum ventilation in a poultry house, what is the recommended maximum width?",
+		"options": {
+			"A": "5 meters",
+			"B": "10 meters",
+			"C": "20 meters",
+			"D": "30 meters"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 17,
+		"topic": "Poultry Housing and Design",
+		"question": "What is a primary disadvantage of using a mud floor in a deep litter poultry house?",
+		"options": {
+			"A": "It is extremely expensive to construct.",
+			"B": "It restricts the birds from dust bathing.",
+			"C": "It is not easy to clean and disinfect, encouraging pathogenic micro-organisms.",
+			"D": "It causes rapid ammonia accumulation regardless of management."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 18,
+		"topic": "Brooding of Chicks",
+		"question": "During the artificial brooding of chicks, what is the recommended starting temperature, and how should it be adjusted?",
+		"options": {
+			"A": "Start at 30°C and increase by 2°C weekly",
+			"B": "Start at 40°C and maintain constantly",
+			"C": "Start at 35°C and reduce by 1°C weekly",
+			"D": "Start at 25°C and reduce by 1°C weekly"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 19,
+		"topic": "Brooding of Chicks",
+		"question": "Which of the following behavioral signs indicates that the heat source during brooding is inadequate (too cold)?",
+		"options": {
+			"A": "Chicks huddle near the source of heat.",
+			"B": "Chicks move farther away from the heat source.",
+			"C": "Chicks spread evenly across the brooder area.",
+			"D": "Chicks huddle strictly to one side of the brooder."
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 20,
+		"topic": "Poultry Housing and Design",
+		"question": "In a deep litter house, what is the recommended depth of wood shavings to be spread on the floor for growers and layers?",
+		"options": {
+			"A": "6 - 8 cm",
+			"B": "10 - 15 cm",
+			"C": "20 - 25 cm",
+			"D": "30 - 35 cm"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 21,
+		"topic": "Poultry Housing and Design",
+		"question": "What is the recommended male to female ratio for light breed breeders kept under the deep litter system?",
+		"options": {
+			"A": "1 cock to 5 females",
+			"B": "1 cock to 10 females",
+			"C": "1 cock to 15 females",
+			"D": "1 cock to 20 females"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 22,
+		"topic": "Poultry Housing and Design",
+		"question": "A major health risk associated with poor management of wet litter in the deep litter system is the outbreak of:",
+		"options": {
+			"A": "Encephalomalacia",
+			"B": "Coccidiosis",
+			"C": "Muscular dystrophy",
+			"D": "Curled toe paralysis"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 23,
+		"topic": "Poultry Housing and Design",
+		"question": "In the battery cage system, birds are heavily restricted in space. This restriction and lack of exercise can lead to:",
+		"options": {
+			"A": "A higher incidence of metabolic disorders causing lameness or bone fractures.",
+			"B": "An increase in cannibalism and egg eating.",
+			"C": "A rapid spread of coccidiosis.",
+			"D": "Excessive dust bathing behaviours."
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 24,
+		"topic": "Brooding of Chicks",
+		"question": "To prevent wandering, a chick guard is used during brooding. At what interval should the chick guard be expanded before it is eventually removed?",
+		"options": {
+			"A": "Every 2 days",
+			"B": "Every 5 days",
+			"C": "Every 10 days",
+			"D": "Every 14 days"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 25,
+		"topic": "Poultry Nutrition",
+		"question": "Energy is the largest single dietary need of chickens. Which of the following carbohydrate sources is NOT utilized by chickens?",
+		"options": {
+			"A": "Sucrose",
+			"B": "Maltose",
+			"C": "Starch",
+			"D": "Cellulose"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 26,
+		"topic": "Poultry Nutrition",
+		"question": "Which plant protein source commonly used in poultry feeds contains gossypol, which may cause yolk discolouration in storage?",
+		"options": {
+			"A": "Soya bean meal",
+			"B": "Groundnut cake meal",
+			"C": "Cotton seed meal",
+			"D": "Sunflower meal"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 27,
+		"topic": "Poultry Nutrition",
+		"question": "The critical amino acids in poultry feeding that are often difficult to supply in proper amounts are:",
+		"options": {
+			"A": "Alanine, aspartate, glycine, and proline",
+			"B": "Lysine, methionine, threonine, and tryptophan",
+			"C": "Serine, glutamate, asparagine, and glutamine",
+			"D": "Cysteine, tyrosine, histidine, and arginine"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 28,
+		"topic": "Poultry Nutrition",
+		"question": "Calcium and Phosphorus are critical for bone formation in poultry. A deficiency or improper balance of these minerals in young birds leads to:",
+		"options": {
+			"A": "Anaemia",
+			"B": "Crazy chick disease",
+			"C": "Rickets",
+			"D": "Exudative diathesis"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 29,
+		"topic": "Poultry Nutrition",
+		"question": "Which of the following nutritional deficiency diseases is correctly paired with the deficient nutrient?",
+		"options": {
+			"A": "Curled toe paralysis : Vitamin A",
+			"B": "Encephalomalacia (Crazy chick disease) : Alpha tocopherol (Vitamin E)",
+			"C": "Muscular dystrophy : Vitamin K",
+			"D": "Anaemia : Calcium"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 30,
+		"topic": "Poultry Nutrition",
+		"question": "Curled toe paralysis in chicks is a classic symptom of a deficiency in which water-soluble vitamin?",
+		"options": {
+			"A": "Thiamine (B1)",
+			"B": "Riboflavin (B2)",
+			"C": "Pyridoxine (B6)",
+			"D": "Cyanocobalamin (B12)"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 31,
+		"topic": "Poultry Nutrition",
+		"question": "Exudative diathesis, characterized by soft swelling on the neck due to the oxidation of the lipid layer of cell membranes, is caused by a deficiency in:",
+		"options": {
+			"A": "Iron and copper",
+			"B": "Calcium and phosphorus",
+			"C": "Alpha tocopherol and selenium",
+			"D": "Folic acid and biotin"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 32,
+		"topic": "Poultry Nutrition",
+		"question": "Which B-complex vitamin is typically found only in animal products and must be supplemented (or obtained through a premix) if the ration relies heavily on plant proteins?",
+		"options": {
+			"A": "Thiamine",
+			"B": "Riboflavin",
+			"C": "Pantothenic acid",
+			"D": "Cobalamin (Vitamin B12)"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 33,
+		"topic": "Poultry Nutrition",
+		"question": "Why must poultry drinking water be free of high salt concentrations?",
+		"options": {
+			"A": "Salt causes immediate liver failure in poultry.",
+			"B": "It has a laxative effect and triggers excessive water intake.",
+			"C": "It inhibits the absorption of fat-soluble vitamins.",
+			"D": "It solidifies the feed in the crop."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 34,
+		"topic": "Poultry Nutrition",
+		"question": "Aflatoxin contamination is a significant risk when using which of the following plant protein sources (noting that turkeys are highly sensitive to it)?",
+		"options": {
+			"A": "Soya bean meal",
+			"B": "Cotton seed meal",
+			"C": "Groundnut cake meal",
+			"D": "Fish meal"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 35,
+		"topic": "Rabbit Characteristics",
+		"question": "What is the scientific name for the domestic rabbit?",
+		"options": {
+			"A": "Lepus europaeus",
+			"B": "Sus scrofa",
+			"C": "Oryctolagus cuniculus",
+			"D": "Cavia porcellus"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 36,
+		"topic": "Rabbit Characteristics",
+		"question": "Rabbits exhibit a territorial behaviour where they mark objects in their hutch using an active scent gland under their head. What is this behaviour called?",
+		"options": {
+			"A": "Rooting",
+			"B": "Chinning",
+			"C": "Coprophagy",
+			"D": "Kindling"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 37,
+		"topic": "Rabbit Characteristics",
+		"question": "If a rabbit detects danger, how does it typically signal the other rabbits in its group?",
+		"options": {
+			"A": "By emitting a high-pitched scream.",
+			"B": "By rubbing its chin rapidly on the ground.",
+			"C": "By jumping on the ground with its back feet.",
+			"D": "By producing a foul-smelling secretion."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 38,
+		"topic": "Rabbit Breeds",
+		"question": "Which breed of rabbit is characterized by a white body with coloured nose, ears, feet, and tail, and is primarily used for meat and fur?",
+		"options": {
+			"A": "American Chinchilla",
+			"B": "Flemish Giant",
+			"C": "Californian",
+			"D": "English Spot"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 39,
+		"topic": "Rabbit Breeds",
+		"question": "Based on adult weight classifications for meat breeds, what is the weight range for a medium breed rabbit?",
+		"options": {
+			"A": "Up to 2-3 kg",
+			"B": "3 to 5 kg",
+			"C": "5 to 7 kg",
+			"D": "More than 7 kg"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 40,
+		"topic": "Rabbit Breeds",
+		"question": "The Dutch rabbit breed, typically weighing 1-2 kg and used principally for laboratory purposes, is best recognized by:",
+		"options": {
+			"A": "A completely solid black colour.",
+			"B": "A white saddle or band over the shoulder carrying down under the neck.",
+			"C": "Steel gray fur with no allowed solids.",
+			"D": "A spine stripe from the base of ears to the end of the tail."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 41,
+		"topic": "Rabbit Breeding",
+		"question": "At what age is a doe (female rabbit) typically ready for reproduction for the first time?",
+		"options": {
+			"A": "2 to 3 months",
+			"B": "4 to 6 months",
+			"C": "8 to 10 months",
+			"D": "12 months"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 42,
+		"topic": "Rabbit Breeding",
+		"question": "Unlike many livestock, female rabbits do not have a distinct 'heat' cycle. How does ovulation occur in does?",
+		"options": {
+			"A": "They ovulate spontaneously every 21 days.",
+			"B": "They ovulate only during the spring equinox.",
+			"C": "They are induced ovulators, ovulating in response to being mounted by the male.",
+			"D": "Ovulation is triggered solely by a sudden decrease in feed consumption."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 43,
+		"topic": "Rabbit Breeding",
+		"question": "What is the recommended ratio of bucks to does in a general rabbit breeding operation?",
+		"options": {
+			"A": "1 buck to 2 does",
+			"B": "1 buck to 5 does",
+			"C": "1 buck to 10 does",
+			"D": "1 buck to 20 does"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 44,
+		"topic": "Rabbit Breeding",
+		"question": "What is the average gestation period for a rabbit?",
+		"options": {
+			"A": "21 days",
+			"B": "31 days",
+			"C": "45 days",
+			"D": "60 days"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 45,
+		"topic": "Rabbit Breeding",
+		"question": "When carrying out rabbit mating, what is the correct standard procedure regarding the transfer of the animals?",
+		"options": {
+			"A": "Bring the buck to the doe's hutch and leave overnight.",
+			"B": "Always bring the doe to the buck's hutch and observe.",
+			"C": "Place both in a completely new, neutral territory.",
+			"D": "Keep them together permanently from 4 months of age."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 46,
+		"topic": "Rabbit Breeding",
+		"question": "What technique is used in commercial rabbitries 10-14 days after mating to confirm if the doe is pregnant?",
+		"options": {
+			"A": "Blood testing",
+			"B": "Ultrasound scanning",
+			"C": "Palpation",
+			"D": "Observing for chinning behavior"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 47,
+		"topic": "Rabbit Breeding",
+		"question": "Does (female rabbits) usually give birth (kindle) at what time of the day, and how long does the process typically take?",
+		"options": {
+			"A": "At noon, taking about 1 hour",
+			"B": "At night, taking about 15 to 20 minutes",
+			"C": "In the early morning, taking up to 3 hours",
+			"D": "It varies randomly and takes over 6 hours"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 48,
+		"topic": "Rabbit Management",
+		"question": "What does the management practice of 'fostering' mean in a rabbitry?",
+		"options": {
+			"A": "Hand-rearing kits with a milk replacer.",
+			"B": "Getting a doe to accept and nurse babies from another litter.",
+			"C": "Weaning the rabbits earlier than 20 days.",
+			"D": "Allowing the buck to raise the young."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 49,
+		"topic": "Rabbit Management",
+		"question": "When performing fostering in rabbits, it is recommended to only foster babies that are:",
+		"options": {
+			"A": "Less than five days old",
+			"B": "Between 10 and 14 days old",
+			"C": "Already eating solid food",
+			"D": "At least 3 weeks old"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 50,
+		"topic": "Rabbit Management",
+		"question": "At what age should male and female rabbits be separated to prevent unwanted early breeding and aggression?",
+		"options": {
+			"A": "4 weeks",
+			"B": "8 weeks",
+			"C": "Before 14 weeks",
+			"D": "At 24 weeks"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 51,
+		"topic": "Rabbit Management",
+		"question": "If male rabbits (bucks) are not kept in individual cages after 16 weeks of age, what severe behavioral problem is most likely to occur?",
+		"options": {
+			"A": "They will stop eating entirely.",
+			"B": "They will begin to castrate each other causing injury and death.",
+			"C": "They will permanently lose their mating instincts.",
+			"D": "They will over-groom and pull out all their fur."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 52,
+		"topic": "Rabbit Breeding",
+		"question": "Which of the following is a physical sign of receptiveness for breeding in a female rabbit?",
+		"options": {
+			"A": "A pale, whitish vulva",
+			"B": "Deep reddening or purpling of the vulva",
+			"C": "Excessive shedding of fur",
+			"D": "Complete refusal to drink water"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 53,
+		"topic": "Rabbit Feeding",
+		"question": "Rabbits possess a highly specialized digestive phenomenon called 'coprophagy' or 'refection'. What does this entail?",
+		"options": {
+			"A": "Regurgitating food from the stomach to chew the cud.",
+			"B": "Consuming hard, black droppings directly from the floor.",
+			"C": "Consuming soft, green night droppings straight from the anus to re-digest vitamins and microbial protein.",
+			"D": "Eating the fur of other rabbits to acquire dietary fiber."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 54,
+		"topic": "Rabbit Feeding",
+		"question": "At what approximate age do young rabbits typically begin the practice of coprophagy?",
+		"options": {
+			"A": "Immediately at birth",
+			"B": "About four weeks of age",
+			"C": "At weaning (8 weeks)",
+			"D": "At sexual maturity (6 months)"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 55,
+		"topic": "Rabbit Feeding",
+		"question": "Succulent feeds for rabbits, such as fresh green grass, cabbage, and vegetables, should be introduced slowly primarily because:",
+		"options": {
+			"A": "They are completely devoid of any vitamins.",
+			"B": "They are too dry and cause constipation.",
+			"C": "Their high water content can contribute to severe diarrhoea and gas.",
+			"D": "They contain toxic levels of crude protein."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 56,
+		"topic": "Rabbit Feeding",
+		"question": "Which rabbit feeding system is described as totally dependent on forage and kitchen wastes, being cheap but carrying high risks of disease and poor feed quality?",
+		"options": {
+			"A": "Intensive system",
+			"B": "Extensive system",
+			"C": "Semi-intensive system",
+			"D": "Pelleted concentrate system"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 57,
+		"topic": "Rabbit Feeding",
+		"question": "Which environmental factor greatly influences feed intake in rabbits, leading them to take advantage of cooler night hours to eat when levels are high during the day?",
+		"options": {
+			"A": "Humidity",
+			"B": "Light intensity",
+			"C": "Temperature",
+			"D": "Noise"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 58,
+		"topic": "Rabbit Digestive System",
+		"question": "In the digestive tract of the rabbit, which organ is highly developed, acting as a \"blind gut\", and is extremely important for the microbial digestion of fibrous feeds?",
+		"options": {
+			"A": "Esophagus",
+			"B": "Rumen",
+			"C": "Cecum",
+			"D": "Gall bladder"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 59,
+		"topic": "Rabbit Feeding",
+		"question": "What happens to the water requirement of a doe during the lactation period?",
+		"options": {
+			"A": "It decreases by half.",
+			"B": "It remains exactly the same as during gestation.",
+			"C": "It increases up to three times her normal requirement.",
+			"D": "Water must be completely withdrawn."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 60,
+		"topic": "Rabbit Feeding",
+		"question": "Concentrate feeds in rabbit nutrition, such as milled pellets and manufactured supplements, are primarily characterized by being:",
+		"options": {
+			"A": "High in fibre and low in digestible nutrients.",
+			"B": "Low in fibre and high in digestible nutrients.",
+			"C": "Composed entirely of water and succulent greens.",
+			"D": "Toxic if fed without kitchen wastes."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 61,
+		"topic": "Rabbit Feeding",
+		"question": "Dry roughage feeds like alfalfa hay and clover hay are essential in rabbit diets primarily to:",
+		"options": {
+			"A": "Provide a sole source of water.",
+			"B": "Prevent coprophagy.",
+			"C": "Keep the diet in balance by providing necessary fibre.",
+			"D": "Substitute entirely for concentrate pellets."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 62,
+		"topic": "Poultry Nutrition",
+		"question": "Which form of Vitamin D is utilized much better by poultry and is synthesized during direct exposure to sunlight?",
+		"options": {
+			"A": "Vitamin D2 (Ergocalciferol)",
+			"B": "Vitamin D3 (Cholecalciferol)",
+			"C": "Vitamin A (Retinol)",
+			"D": "Vitamin E (Tocopherol)"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 63,
+		"topic": "Management Systems of Poultry",
+		"question": "A major disadvantage of the extensive management system in poultry production is that:",
+		"options": {
+			"A": "It requires highly expensive automatic feeding devices.",
+			"B": "Birds are prone to metabolic bone fractures due to lack of exercise.",
+			"C": "Birds are exposed to extremes of weather, predators, thieves, and diseases.",
+			"D": "There is rapid ammonia accumulation in the housing."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 64,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "The indigenous fowl of Nigeria has not been heavily selected or improved. Based on general breed classifications, what type of body size and egg production do they exhibit?",
+		"options": {
+			"A": "Large body size (over 4kg) and high egg production (250+ eggs).",
+			"B": "Small body size, low egg production, but hardy and resistant to diseases.",
+			"C": "Medium body size, flightless, and lay large brown eggs.",
+			"D": "Large body size but lay extremely small eggs."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 65,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "Which of the following chicken breeds belongs to the Mediterranean Class?",
+		"options": {
+			"A": "Rhode Island Red",
+			"B": "Fayoumi",
+			"C": "Brahma",
+			"D": "Cornish"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 66,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "Which class of chickens is known for having large bodies, red earlobes, laying tinted/brown shelled eggs, and includes breeds like the Langshan, Asil, and Cochin?",
+		"options": {
+			"A": "American Class",
+			"B": "English Class",
+			"C": "Asiatic Class",
+			"D": "Mediterranean Class"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 67,
+		"topic": "Poultry Housing and Design",
+		"question": "In a commercial poultry deep litter system, what is the consequence of violating the adequate floor space requirement (i.e., overcrowding)?",
+		"options": {
+			"A": "It eliminates the need to provide artificial heat.",
+			"B": "It decreases the incidence of social friction and cannibalism.",
+			"C": "It increases the likelihood of wet litter, disease spread, and vice habits.",
+			"D": "It forces birds to mature earlier."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 68,
+		"topic": "Brooding of Chicks",
+		"question": "When preparing a brooder house, why is it recommended to leave it empty and closed for at least two weeks after cleaning?",
+		"options": {
+			"A": "To allow the new wood shavings to settle.",
+			"B": "To destroy all surviving disease-causing organisms through starvation.",
+			"C": "To train the new chicks to find their own food outside.",
+			"D": "To let the residual water evaporate completely."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 69,
+		"topic": "Poultry Terminologies",
+		"question": "In standard poultry terminology, an adult male duck is called a:",
+		"options": {
+			"A": "Tom",
+			"B": "Gander",
+			"C": "Drake",
+			"D": "Cock"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 70,
+		"topic": "Poultry Terminologies",
+		"question": "An adult male goose is specifically referred to as a:",
+		"options": {
+			"A": "Gander",
+			"B": "Drake",
+			"C": "Tom",
+			"D": "Cockerel"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 71,
+		"topic": "Breeds of Domestic Chicken",
+		"question": "What is the approximate mature body weight of a male bird belonging to the American class (e.g., Rhode Island Red or New Hampshire)?",
+		"options": {
+			"A": "1.1 to 1.26 kg",
+			"B": "2.7 to 3.8 kg",
+			"C": "3.5 to 5.9 kg",
+			"D": "6.0 to 8.5 kg"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 72,
+		"topic": "External Features of Poultry",
+		"question": "Which portion of a chicken's external anatomy is specifically noted as being a direct evolutionary derivative of reptiles?",
+		"options": {
+			"A": "The hackle feathers",
+			"B": "The localized scales on the legs",
+			"C": "The wattle",
+			"D": "The single comb"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 73,
+		"topic": "Rabbit Feeding Systems",
+		"question": "Which of the following is an advantage of the semi-intensive system of feeding rabbits?",
+		"options": {
+			"A": "It requires zero capital and zero labor.",
+			"B": "It is the most suitable system for small scale rabbit production, balancing costs with nutritional reliability.",
+			"C": "It relies entirely on expensive commercial pellets.",
+			"D": "It completely eliminates the practice of coprophagy."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 74,
+		"topic": "Rabbit Handling and Management",
+		"question": "A technique used to safely restrain and check a rabbit's underside, detect pregnancy, or examine for health issues typically involves:",
+		"options": {
+			"A": "Lifting it solely by its ears.",
+			"B": "Grabbing it by the hind legs and letting it hang upside down.",
+			"C": "Supporting its hindquarters while holding the scruff of its neck.",
+			"D": "Tying its front and back legs together."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 75,
+		"topic": "Poultry Nutrition",
+		"question": "Which fat-soluble vitamin acts as an antioxidant and is crucial to prevent encephalomalacia (crazy chick disease)?",
+		"options": {
+			"A": "Retinol (Vitamin A)",
+			"B": "Cholecalciferol (Vitamin D3)",
+			"C": "Alpha tocopherol (Vitamin E)",
+			"D": "Phylloquinone (Vitamin K)"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 76,
+		"topic": "Poultry Nutrition",
+		"question": "Which trace mineral works closely with Vitamin E, the deficiency of which leads to muscular dystrophy and exudative diathesis in poultry?",
+		"options": {
+			"A": "Manganese",
+			"B": "Selenium",
+			"C": "Iron",
+			"D": "Iodine"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 77,
+		"topic": "Characteristics of Pigs",
+		"question": "Pigs are often described as being highly susceptible to losses from diseases primarily because they:",
+		"options": {
+			"A": "Are polygastric animals with complex stomachs.",
+			"B": "Are simple stomach (monogastric) animals.",
+			"C": "Have a very long generation interval.",
+			"D": "Cannot digest any carbohydrates."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 78,
+		"topic": "Taxonomy and Origin of Pigs",
+		"question": "Which wild ancestor from continental Europe is believed to be the primary progenitor of most modern day domestic pigs?",
+		"options": {
+			"A": "Sus vittatus",
+			"B": "Sus scrofa",
+			"C": "Oryctolagus cuniculus",
+			"D": "Gallus sonneratii"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 79,
+		"topic": "Taxonomy and Origin of Pigs",
+		"question": "The East Indian pig species, which contributed heavily to the development of ornamental breeds and smaller, early-fattening breeds, is:",
+		"options": {
+			"A": "Sus scrofa",
+			"B": "Sus vittatus",
+			"C": "Gallus varius",
+			"D": "Phacochoerus africanus"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 80,
+		"topic": "Characteristics of Pigs",
+		"question": "Which of the following statements accurately highlights the rapid growth rate of pigs compared to cattle?",
+		"options": {
+			"A": "A calf multiplies its birth weight 120 times in 3 years, while a pig does so in 5 years.",
+			"B": "An average pig multiplies its birth weight by 120 times in 1.5 years, whereas a calf multiplies its birth weight 12 times in 3 years.",
+			"C": "Both animals multiply their birth weights at exactly the same rate.",
+			"D": "Pigs grow much slower than sheep and goats, taking 4 years to reach market weight."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 81,
+		"topic": "Characteristics of Pigs",
+		"question": "Which of the following describes the prolificacy and average breeding capacity of pigs under good management?",
+		"options": {
+			"A": "They produce 1 litter per year with 2 to 3 piglets.",
+			"B": "They are capable of producing 2 to 2½ litters per year with an average of 7 piglets per litter.",
+			"C": "They reproduce only once every two years but have up to 15 piglets.",
+			"D": "They produce 5 litters per year with 1 or 2 piglets per litter."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 82,
+		"topic": "Characteristics of Pigs",
+		"question": "How does the growth rate of an average pig compare to that of cattle?",
+		"options": {
+			"A": "A pig multiplies its birth weight by 12 times in 3 years, while cattle do so by 120 times.",
+			"B": "A pig multiplies its birth weight by 120 times in 1.5 years, while a calf multiplies its birth weight 12 times in 3 years.",
+			"C": "Pigs and cattle have identical growth rate multipliers over a 3-year period.",
+			"D": "A pig takes 5 years to multiply its birth weight by 50 times."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 83,
+		"topic": "Characteristics of Pigs",
+		"question": "Pigs are highly curious animals and often use their snouts to explore and dig up their environment. What is this characteristic behaviour called?",
+		"options": {
+			"A": "Coprophagy",
+			"B": "Rooting",
+			"C": "Farrowing",
+			"D": "Wallowing"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 84,
+		"topic": "Types of Pigs",
+		"question": "Which type of pig is specifically bred to combine muscling, body length, and the ability to reach market weight (40-60 kg) with little fat?",
+		"options": {
+			"A": "Bacon type",
+			"B": "Lard type",
+			"C": "Meat (Pork) type",
+			"D": "Wool type"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 85,
+		"topic": "Types of Pigs",
+		"question": "The Lard type of pig is characterized by heavy feeding to promote fat deposition. What is the typical back fat thickness of a Lard type pig at slaughter?",
+		"options": {
+			"A": "1.3 - 2.5 cm",
+			"B": "2.5 - 3.8 cm",
+			"C": "5.0 - 6.5 cm",
+			"D": "8 - 10 cm"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 86,
+		"topic": "Taxonomy of Pigs",
+		"question": "In the zoological classification of pigs, they belong to the order of even-toed hoofed animals known as:",
+		"options": {
+			"A": "Carnivora",
+			"B": "Artiodactyla",
+			"C": "Perissodactyla",
+			"D": "Proboscidea"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 87,
+		"topic": "Taxonomy of Pigs",
+		"question": "The present-day domesticated pig primarily evolved from the wild pig of continental Europe, which is scientifically named:",
+		"options": {
+			"A": "Sus vittatus",
+			"B": "Oryctolagus cuniculus",
+			"C": "Sus scrofa",
+			"D": "Bos taurus"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 88,
+		"topic": "Breeds of Pigs in Nigeria",
+		"question": "Which of the following is considered an indigenous/local breed of pig found in Nigeria or West Africa?",
+		"options": {
+			"A": "Duroc Jersey",
+			"B": "Ashanti Dwarf",
+			"C": "Landrace",
+			"D": "Berkshire"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 89,
+		"topic": "Breeds of Pigs in Nigeria",
+		"question": "A major advantage of keeping local pig breeds (e.g., Nigerian Indigenous Pig) over exotic breeds is that:",
+		"options": {
+			"A": "They grow much faster and reach market weight in 3 months.",
+			"B": "They produce a much larger litter size of 15-20 piglets.",
+			"C": "They are small in size, very hardy, and highly resistant to prevalent diseases.",
+			"D": "They have a back fat thickness of over 10 cm."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 90,
+		"topic": "Exotic Breeds of Pigs",
+		"question": "Which British breed of pig is described as very large and black with six white points on the nose, feet, and face, possessing short legs and erect ears?",
+		"options": {
+			"A": "Large White (Yorkshire)",
+			"B": "Berkshire",
+			"C": "Tamworth",
+			"D": "Hampshire"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 91,
+		"topic": "Exotic Breeds of Pigs",
+		"question": "The most popular breed of pig in Nigeria, often referred to as the 'mother breed' because it is extremely prolific with an average litter size of 12-15, is the:",
+		"options": {
+			"A": "Large White (Yorkshire)",
+			"B": "Large Black",
+			"C": "Poland China",
+			"D": "Duroc Jersey"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 92,
+		"topic": "Exotic Breeds of Pigs",
+		"question": "Which exotic breed is recognized by its golden-chestnut colour, coarse hairs, and ability to perform well in the tropics despite poor management and feeding?",
+		"options": {
+			"A": "Landrace",
+			"B": "Chester White",
+			"C": "Tamworth",
+			"D": "Poland China"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 93,
+		"topic": "Exotic Breeds of Pigs",
+		"question": "The Duroc Jersey is a leading swine breed in America. What is its characteristic coat colour?",
+		"options": {
+			"A": "Solid white",
+			"B": "Black with a white belt",
+			"C": "Golden-chestnut",
+			"D": "Red"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 94,
+		"topic": "Exotic Breeds of Pigs",
+		"question": "Which American breed is known for being a black pig with a distinct white bald (belt) that circles its body, along with erect ears?",
+		"options": {
+			"A": "Hampshire",
+			"B": "Poland China",
+			"C": "Berkshire",
+			"D": "Chester White"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 95,
+		"topic": "Exotic Breeds of Pigs",
+		"question": "The Landrace breed is highly valued in pig production. Which physical traits are characteristic of the Landrace?",
+		"options": {
+			"A": "Black body with six white points and short legs.",
+			"B": "Red coat with erect ears and a short body.",
+			"C": "Solid white body, considerable length, and forward-pointing droopy ears.",
+			"D": "Black with a white belt and dished face."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 96,
+		"topic": "Swine Breeding and Selection",
+		"question": "Which breeding system involves mating individuals that are closely related, often resulting in decreased size, vigour, and fertility?",
+		"options": {
+			"A": "Cross breeding",
+			"B": "Outcrossing",
+			"C": "Inbreeding",
+			"D": "Upgrading"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 97,
+		"topic": "Swine Breeding and Selection",
+		"question": "The system of breeding that involves mating unrelated swine of different breeds (e.g., local and exotic) to bring about hybrid vigour (heterosis) is called:",
+		"options": {
+			"A": "Line breeding",
+			"B": "Cross breeding",
+			"C": "Close breeding",
+			"D": "Purebreeding"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 98,
+		"topic": "Swine Breeding and Selection",
+		"question": "In the selection of breeding stock, traits are either highly or poorly heritable. Which of the following is considered a POORLY heritable trait?",
+		"options": {
+			"A": "Growth rate",
+			"B": "Reproductive performance (e.g., litter size)",
+			"C": "Feed conversion efficiency",
+			"D": "Carcass quality"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 99,
+		"topic": "Swine Breeding and Selection",
+		"question": "The assessment of the breeding value of an animal based strictly on the performance of its offspring is known as:",
+		"options": {
+			"A": "Pedigree selection",
+			"B": "Individual selection",
+			"C": "Progeny testing",
+			"D": "Mass selection"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 100,
+		"topic": "Pig Management Systems",
+		"question": "Which pig management system is characterized by animals roaming around villages to scavenge for crop residues and kitchen wastes, offering no night shelter?",
+		"options": {
+			"A": "Intensive system",
+			"B": "Semi-intensive system",
+			"C": "Extensive system",
+			"D": "Battery cage system"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 101,
+		"topic": "Pig Management Systems",
+		"question": "Under the intensive management system for pigs, how are the animals primarily housed?",
+		"options": {
+			"A": "In open pastures with temporary thatched shades.",
+			"B": "On concrete floors requiring high capital investment for feeding and equipment.",
+			"C": "Allowed to fend for themselves during the day and housed at night.",
+			"D": "In deep mud wallows with no structural roofing."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 102,
+		"topic": "Types of Mating in Pigs",
+		"question": "A major disadvantage of the 'Pasture Mating' system is that:",
+		"options": {
+			"A": "It strictly limits the boar to mating with only 1 sow per month.",
+			"B": "It requires highly sophisticated equipment and skilled manpower.",
+			"C": "It does not facilitate record keeping, so the expected farrowing date and sire identity are often unknown.",
+			"D": "It prevents the boar from getting any physical exercise."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 103,
+		"topic": "Types of Mating in Pigs",
+		"question": "Which of the following is a key advantage of Artificial Insemination (AI) in pig breeding?",
+		"options": {
+			"A": "It eliminates the need for any human intervention or skilled labor.",
+			"B": "It allows maximum exploitation of the best sire and minimizes the spread of venereal diseases.",
+			"C": "It is completely free of cost and requires no special equipment.",
+			"D": "It prevents the farmer from needing to observe female stock for heat signs."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 104,
+		"topic": "Pig Feeding and Nutrition",
+		"question": "Energy is the largest and most expensive dietary need of pigs. It is primarily provided in the diet by:",
+		"options": {
+			"A": "Fish meal and blood meal",
+			"B": "Carbohydrates, mainly sugars and starch (e.g., maize, sorghum)",
+			"C": "Oyster shell and limestone",
+			"D": "Vitamin and mineral premixes"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 105,
+		"topic": "Pig Feeding and Nutrition",
+		"question": "Which of the following amino acids requires special attention and is frequently supplemented in practical pig diet formulations because it is a limiting amino acid?",
+		"options": {
+			"A": "Lysine",
+			"B": "Alanine",
+			"C": "Proline",
+			"D": "Serine"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 106,
+		"topic": "Pig Feeding and Nutrition",
+		"question": "Macro minerals are required in relatively large amounts in pig diets. Which of the following is considered a MICRO (trace) mineral?",
+		"options": {
+			"A": "Calcium",
+			"B": "Phosphorus",
+			"C": "Zinc",
+			"D": "Sodium"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 107,
+		"topic": "Pig Feeding and Nutrition",
+		"question": "The requirement for Vitamin D in pigs can naturally be met by:",
+		"options": {
+			"A": "Feeding them large amounts of cassava.",
+			"B": "Exposing the pigs to direct sunlight.",
+			"C": "Ensuring they drink excess water.",
+			"D": "Feeding them high-protein fish meal."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 108,
+		"topic": "Feeding Regimes (Piglets)",
+		"question": "The first solid feed introduced to piglets at a week of age to supplement the sow's milk until weaning is known as:",
+		"options": {
+			"A": "Fattener's diet",
+			"B": "Steaming up diet",
+			"C": "Creep feed",
+			"D": "Flushing diet"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 109,
+		"topic": "Feeding Regimes (Piglets)",
+		"question": "What is the recommended Crude Protein (CP) percentage for a piglet's creep feed?",
+		"options": {
+			"A": "12 - 14%",
+			"B": "15 - 16%",
+			"C": "18 - 20%",
+			"D": "22 - 25%"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 110,
+		"topic": "Feeding Regimes (Fatteners)",
+		"question": "For fattening pigs (from 55 kg to market weight), the diet should be adjusted to:",
+		"options": {
+			"A": "Have high energy (3.5 Kcal/g) and very low fibre.",
+			"B": "Reduce crude protein to 15-16%, lower the energy, and increase fibre.",
+			"C": "Contain 25% crude protein to force rapid muscle growth.",
+			"D": "Consist entirely of liquid milk replacer."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 111,
+		"topic": "Breeding Stock Nutrition",
+		"question": "The provision of a highly nutritious, special diet to gilts/sows for 7-10 days prior to breeding to increase the number of eggs shed (ovulation rate) is called:",
+		"options": {
+			"A": "Steaming up",
+			"B": "Flushing",
+			"C": "Creep feeding",
+			"D": "Wallowing"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 112,
+		"topic": "Breeding Stock Nutrition",
+		"question": "At what age is it recommended to first breed a gilt to ensure she sheds a sufficient number of ova for a good litter size?",
+		"options": {
+			"A": "4 months",
+			"B": "5-6 months (at first estrus)",
+			"C": "8 months (after 2nd or 3rd estrus)",
+			"D": "12-14 months"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 113,
+		"topic": "Feeding in Pregnancy",
+		"question": "During the gestation period, why is it necessary to restrict the feed of the pregnant sow (to about 2 kg of dry feed/day)?",
+		"options": {
+			"A": "To maximize the lay down of back fat for energy storage.",
+			"B": "To prevent excessive fatness that could cause difficulty at parturition (farrowing).",
+			"C": "To force the sow to eat her own piglets upon birth.",
+			"D": "To halt fetal growth entirely until the last week of pregnancy."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 114,
+		"topic": "Feeding in Pregnancy",
+		"question": "What is the expected average weight gain for a sow during her pregnancy?",
+		"options": {
+			"A": "5 kg",
+			"B": "15 kg",
+			"C": "35 kg",
+			"D": "50 kg"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 115,
+		"topic": "Management of Breeding Boars",
+		"question": "A sexually mature young boar can typically serve how many gilts per week?",
+		"options": {
+			"A": "1 - 2",
+			"B": "7 - 8",
+			"C": "15 - 20",
+			"D": "Over 30"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 116,
+		"topic": "Management of Pregnant Sows",
+		"question": "About one week before farrowing, the pregnant animal should be washed properly and moved to the:",
+		"options": {
+			"A": "Creep pen",
+			"B": "Wallow pit",
+			"C": "Farrowing pen",
+			"D": "Fattening crate"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 117,
+		"topic": "Farrowing Management",
+		"question": "What device is installed in a farrowing pen to prevent the sow from accidentally crushing (overlaying) her newborn piglets?",
+		"options": {
+			"A": "Wallow",
+			"B": "Guard rails (farrowing crate)",
+			"C": "Trough separator",
+			"D": "Creep feeder"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 118,
+		"topic": "Farrowing Management",
+		"question": "Immediately after farrowing, the 'afterbirth' (placenta) should be:",
+		"options": {
+			"A": "Left in the pen for the piglets to eat.",
+			"B": "Fed to the sow to replenish lost nutrients.",
+			"C": "Removed from the pen, burnt or buried to prevent the sow from eating it.",
+			"D": "Washed and used as bedding."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 119,
+		"topic": "Management of Piglets",
+		"question": "Piglets are born with 8 sharp, needle-like teeth. Why are these usually removed on the 2nd day after farrowing?",
+		"options": {
+			"A": "To prevent them from chewing solid creep feed too early.",
+			"B": "To prevent injury to the dam's teats during suckling and injury to other piglets.",
+			"C": "To ensure their permanent tusks grow faster.",
+			"D": "Because they harbor the polio virus."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 120,
+		"topic": "Management of Piglets",
+		"question": "Baby pigs raised in confinement (without access to soil) are highly susceptible to anemia. Which essential trace mineral must be injected or administered orally to prevent this?",
+		"options": {
+			"A": "Calcium",
+			"B": "Magnesium",
+			"C": "Iron (Iron Dextran)",
+			"D": "Iodine"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 121,
+		"topic": "Management of Piglets",
+		"question": "A piglet requires about 7 mg of iron per day. Approximately how much iron does the sow's milk supply per day?",
+		"options": {
+			"A": "0 mg",
+			"B": "3 mg",
+			"C": "7 mg",
+			"D": "15 mg"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 122,
+		"topic": "Management of Piglets",
+		"question": "What is the most common and practical method of permanent identification used for piglets?",
+		"options": {
+			"A": "Branding with hot iron",
+			"B": "Ear notching",
+			"C": "Tattooing the snout",
+			"D": "Microchip implantation"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 123,
+		"topic": "Management of Piglets",
+		"question": "Male piglets not intended for breeding undergo castration at 2 to 3 weeks of age. What is the primary reason for this practice?",
+		"options": {
+			"A": "To improve meat quality and remove 'boar odour' or taint.",
+			"B": "To accelerate their ability to digest crude fiber.",
+			"C": "To increase their final height and bone density.",
+			"D": "To prevent them from contracting respiratory diseases."
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 124,
+		"topic": "Management of Lactating Sows",
+		"question": "Following farrowing, it is recommended to feed the lactating sow highly fibrous feed for 2 days. What is the physiological reason for this?",
+		"options": {
+			"A": "To immediately dry up her milk supply.",
+			"B": "To induce a subsequent heat cycle rapidly.",
+			"C": "To prevent constipation in the lactating animal.",
+			"D": "To increase the fat content in her milk."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 125,
+		"topic": "Pig Digestive System",
+		"question": "In the pig's digestive tract, the small intestine has many tiny finger-like projections that increase the absorptive area. These are called:",
+		"options": {
+			"A": "Cilia",
+			"B": "Villi",
+			"C": "Papillae",
+			"D": "Taenidia"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 126,
+		"topic": "Pig Digestive System",
+		"question": "Digestive juices containing vital enzymes for the breakdown of fats, carbohydrates, and proteins pass into the small intestine primarily from the:",
+		"options": {
+			"A": "Cecum",
+			"B": "Pancreas and Liver",
+			"C": "Large intestine",
+			"D": "Cardiac valve"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 127,
+		"topic": "Pig Digestive System",
+		"question": "In the monogastric digestive system of the pig, food is pushed toward the stomach through a muscular tube called the:",
+		"options": {
+			"A": "Duodenum",
+			"B": "Esophagus",
+			"C": "Jejunum",
+			"D": "Ileum"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 128,
+		"topic": "Specific Pathogen Free (SPF) Pigs",
+		"question": "How are Specific Pathogen Free (SPF) pigs typically delivered to ensure they have no contact with disease organisms from the mother?",
+		"options": {
+			"A": "By feeding the sow high doses of antibiotics before birth.",
+			"B": "By isolating the mother in a vacuum chamber during natural birth.",
+			"C": "By surgically removing the pigs from the uterus 2-4 days before they would be naturally farrowed.",
+			"D": "By hatching them from external eggs."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 129,
+		"topic": "Reproductive Cycles in Pigs",
+		"question": "How long does the heat period (estrus) typically last in a sow or gilt, during which she will accept the male?",
+		"options": {
+			"A": "12 hours",
+			"B": "3 to 5 days",
+			"C": "10 to 14 days",
+			"D": "21 days"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 130,
+		"topic": "Gestation in Pigs",
+		"question": "The gestation period of a sow (the time from breeding to farrowing) averages approximately:",
+		"options": {
+			"A": "90 days",
+			"B": "112 to 114 days",
+			"C": "150 days",
+			"D": "280 days"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 131,
+		"topic": "Poultry Production Scales",
+		"question": "In poultry farming classifications, a 'medium scale production' typically consists of up to:",
+		"options": {
+			"A": "1,000 birds",
+			"B": "10,000 birds",
+			"C": "50,000 birds",
+			"D": "100,000 birds"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 132,
+		"topic": "Poultry Management",
+		"question": "Which of the following describes 'Debeaking' in poultry management?",
+		"options": {
+			"A": "Removing the entire upper jaw of the bird permanently.",
+			"B": "Trimming the beak to avoid vice habits such as cannibalism and egg eating.",
+			"C": "Cleaning the beak daily to prevent bacterial infections.",
+			"D": "Enhancing the beak's sharpness to improve feed intake."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 133,
+		"topic": "Poultry Disease Control",
+		"question": "To minimize stress in poultry immediately following a vaccination, what is commonly administered to the birds in their drinking water?",
+		"options": {
+			"A": "Heavy doses of salt",
+			"B": "Vitalyte (anti-stress multivitamins) and/or glucose",
+			"C": "Strong antibiotics and coccidiostats",
+			"D": "Engine oil"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 134,
+		"topic": "Poultry Nutrition (Minerals)",
+		"question": "Which two macro-minerals must be provided in proper balance to avoid skeletal deformities like rickets, and to ensure strong eggshells in laying hens?",
+		"options": {
+			"A": "Iron and Copper",
+			"B": "Sodium and Potassium",
+			"C": "Calcium and Phosphorus",
+			"D": "Manganese and Selenium"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 135,
+		"topic": "Poultry Nutrition",
+		"question": "Which vitamin can normally be synthesized by poultry in sufficient amounts, but is often supplemented under stressful conditions such as heat stress?",
+		"options": {
+			"A": "Vitamin A",
+			"B": "Vitamin K",
+			"C": "Vitamin C (Ascorbic acid)",
+			"D": "Vitamin E"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 136,
+		"topic": "Rabbit Management",
+		"question": "Because rabbits are highly sensitive to sudden changes, a rapid decrease in feed consumption, accompanied by restlessness and chin rubbing, is a strong indicator of:",
+		"options": {
+			"A": "Severe respiratory infection",
+			"B": "Imminent kindling",
+			"C": "Receptiveness for breeding (estrus equivalent)",
+			"D": "Poisoning from bad feed"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 137,
+		"topic": "Rabbit Housing",
+		"question": "In the wild, rabbits live in collections of burrows. What is this collection of burrows scientifically called?",
+		"options": {
+			"A": "A hutch",
+			"B": "A warren",
+			"C": "A colony",
+			"D": "A herd"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 138,
+		"topic": "Pig Terminology",
+		"question": "In swine terminology, an adult female pig that has had at least one litter is called a:",
+		"options": {
+			"A": "Gilt",
+			"B": "Doe",
+			"C": "Sow",
+			"D": "Pullet"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 139,
+		"topic": "Pig Terminology",
+		"question": "What is the specific agricultural term used for a young, uncastrated male pig kept for breeding?",
+		"options": {
+			"A": "Barrow",
+			"B": "Boar",
+			"C": "Wether",
+			"D": "Gander"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 140,
+		"topic": "Pig Terminology",
+		"question": "The act of a female pig giving birth to piglets is technically referred to as:",
+		"options": {
+			"A": "Kindling",
+			"B": "Calving",
+			"C": "Farrowing",
+			"D": "Hatching"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 141,
+		"topic": "Breeds of Pigs",
+		"question": "The Bakosi pig is an example of an indigenous pig breed located in:",
+		"options": {
+			"A": "North America",
+			"B": "Great Britain",
+			"C": "West Africa",
+			"D": "Eastern Europe"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 142,
+		"topic": "Selection of Breeding Stock",
+		"question": "When assessing a boar for breeding potential, the farmer must ensure the boar is completely healthy and visually inspect to confirm that:",
+		"options": {
+			"A": "He has a perfectly straight tail.",
+			"B": "He has two good testicles well descended into the scrotal sacs.",
+			"C": "He has at least 14 functional teats.",
+			"D": "His tusks have been permanently removed."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 143,
+		"topic": "Feeding and Nutrition of Pigs",
+		"question": "What is defined physiologically as the amount of heat required to raise the temperature of water by 1°C, commonly used to measure the energy content of pig diets?",
+		"options": {
+			"A": "Joule",
+			"B": "Watt",
+			"C": "Calorie",
+			"D": "Newton"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 144,
+		"topic": "Feeding and Nutrition of Pigs",
+		"question": "Protein sources used in pig diets are often categorized into plant and animal sources. Which of the following is a common animal protein source that is an excellent provider of Calcium and Phosphorus but is often scarce and expensive?",
+		"options": {
+			"A": "Groundnut cake meal",
+			"B": "Cotton seed meal",
+			"C": "Fish meal",
+			"D": "Brewer's grain"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 145,
+		"topic": "Management of Growing/Fattening Pigs",
+		"question": "During the growing and fattening phase of pigs, providing wallows helps the animals to:",
+		"options": {
+			"A": "Find extra roots and tubers for carbohydrates.",
+			"B": "Cool down their body temperatures, although it may aid fat deposition.",
+			"C": "Clean their coats of all external parasites automatically.",
+			"D": "Exercise their leg muscles to prevent lameness."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 146,
+		"topic": "Management of Piglets",
+		"question": "Why is an attendant strictly advised to be present during farrowing?",
+		"options": {
+			"A": "To immediately separate the piglets from the sow permanently.",
+			"B": "To release newborns enveloped in the neural chord or membrane to prevent suffocation.",
+			"C": "To milk the sow manually into a bucket.",
+			"D": "To clip the piglets' ears before they take their first breath."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 147,
+		"topic": "Management of Piglets",
+		"question": "If a piglet is born weakly or in a difficult delivery, the very first nutritional priority of the attendant is to assist the piglet to the teat to ensure it receives:",
+		"options": {
+			"A": "Iron dextran",
+			"B": "Creep feed",
+			"C": "Colostrum",
+			"D": "Water"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 148,
+		"topic": "Swine Breeding",
+		"question": "The period immediately prior to parturition when a sow's feed is modified (or she is given a laxative diet) to assist with milk let-down and ease farrowing is often called:",
+		"options": {
+			"A": "Creep feeding",
+			"B": "Steaming up",
+			"C": "Flushing",
+			"D": "Fattening"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 149,
+		"topic": "Pig Digestibility",
+		"question": "Unlike ruminant animals, pigs are very poor utilizers of:",
+		"options": {
+			"A": "Concentrates",
+			"B": "Grains",
+			"C": "Roughages",
+			"D": "Kitchen wastes"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 150,
+		"topic": "Rabbit Digestibility",
+		"question": "Because rabbits can only eat more food if it passes quickly through their digestive system, their feed intake is highly dependent on:",
+		"options": {
+			"A": "The color of the feed",
+			"B": "Food quality and freshness",
+			"C": "The size of their incisors",
+			"D": "The presence of other animals"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 151,
+		"topic": "General Non-Ruminant Knowledge",
+		"question": "A major physiological difference that dictates the housing requirements of poultry compared to mammals (like pigs or rabbits) is that poultry:",
+		"options": {
+			"A": "Possess sweat glands and lose heat rapidly.",
+			"B": "Have no sweat glands and cannot lose heat by sweating, making them highly prone to heat stress.",
+			"C": "Require mud wallows to cool their feathers.",
+			"D": "Drink water exclusively through their skin."
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 152,
+		"topic": "General Non-Ruminant Knowledge",
+		"question": "In the formulation of practical pig diets, macro minerals must be provided in large quantities. Which of the following elements is NOT considered a macro mineral?",
+		"options": {
+			"A": "Calcium",
+			"B": "Phosphorus",
+			"C": "Chlorine",
+			"D": "Selenium"
+		},
+		"correctAnswer": "D"
+	},
+	{
+		"id": 153,
+		"topic": "General Non-Ruminant Knowledge",
+		"question": "At times, certain amino acid requirements for chicken strains are abnormally high. Which amino acid is specifically noted to sometimes have an abnormally high requirement in young chickens?",
+		"options": {
+			"A": "Glycine",
+			"B": "Arginine",
+			"C": "Glutamate",
+			"D": "Proline"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 154,
+		"topic": "Poultry Nutrition",
+		"question": "Which mineral is specifically required for eggshell formation, blood clotting, and muscle contraction in poultry?",
+		"options": {
+			"A": "Magnesium",
+			"B": "Iron",
+			"C": "Calcium",
+			"D": "Sodium"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 155,
+		"topic": "Poultry Disease",
+		"question": "A poultry farmer notices an increase in cannibalism and a sudden drop in egg production. A potential nutritional cause for this could be a deficiency in:",
+		"options": {
+			"A": "Vitamin C",
+			"B": "Common salt (NaCl)",
+			"C": "Cobalamin",
+			"D": "Fatty acids"
+		},
+		"correctAnswer": "B"
+	},
+	{
+		"id": 156,
+		"topic": "Rabbit Management",
+		"question": "If a rabbit's feed is not well balanced, it may show signs of illness or develop a(n):",
+		"options": {
+			"A": "Depraved appetite",
+			"B": "Extra layer of fur",
+			"C": "Immunity to all viruses",
+			"D": "Ability to sweat"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 157,
+		"topic": "Pig Management",
+		"question": "Why is the use of sawdust as soft bedding in farrowing pens sometimes considered dangerous?",
+		"options": {
+			"A": "It instantly causes the pen to catch fire.",
+			"B": "It is highly toxic when absorbed through the piglet's skin.",
+			"C": "Piglets can inhale the fine dust, leading to respiratory issues or suffocation.",
+			"D": "It dissolves immediately into mud."
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 158,
+		"topic": "Pig Breeding",
+		"question": "In a polygamous family line, mating children with each other, or half-brothers with half-sisters to transmit outstanding traits without severe undesirable effects, is an example of:",
+		"options": {
+			"A": "Line breeding",
+			"B": "Cross breeding",
+			"C": "Species hybridization",
+			"D": "Outcrossing"
+		},
+		"correctAnswer": "A"
+	},
+	{
+		"id": 159,
+		"topic": "Pig Digestion",
+		"question": "In the digestive tract of the pig, where does the mechanical breakdown of food begin, aided by saliva containing starch-digesting enzymes?",
+		"options": {
+			"A": "The stomach",
+			"B": "The duodenum",
+			"C": "The mouth",
+			"D": "The cecum"
+		},
+		"correctAnswer": "C"
+	},
+	{
+		"id": 160,
+		"topic": "General Non-Ruminant Production",
+		"question": "Across poultry, rabbits, and pigs, which nutrient class is universally required in the largest amounts to ensure normal bodily function, temperature regulation, and waste elimination?",
+		"options": {
+			"A": "Carbohydrates",
+			"B": "Proteins",
+			"C": "Vitamins",
+			"D": "Water"
+		},
+		"correctAnswer": "D"
+	}
+]

@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "topic": "Introduction to Agronomy",
+        "question": "The word 'Agronomy' is derived from the Ancient Greek words 'agrós' and 'nómos'. What do these words translate to?",
+        "options": {
+            "A": "Soil and Science",
+            "B": "Field and Law",
+            "C": "Crop and Management",
+            "D": "Plant and Cultivation"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 2,
+        "topic": "Historical Background of Farming in Nigeria",
+        "question": "Out of the estimated 91 million hectares of agricultural land in Nigeria (1990 data), what proportion is classified as arable land?",
+        "options": {
+            "A": "18 million hectares",
+            "B": "45 million hectares",
+            "C": "73 million hectares",
+            "D": "81 million hectares"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 3,
+        "topic": "Historical Background of Farming in Nigeria",
+        "question": "Which of the following agricultural development programmes was launched in 1972 during General Yakubu Gowon’s regime?",
+        "options": {
+            "A": "Operation Feed the Nation (OFN)",
+            "B": "The Green Revolution",
+            "C": "National Accelerated Food Production Programme (NAFPP)",
+            "D": "River Basin Development Authority (RBDA)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 4,
+        "topic": "Historical Background of Farming in Nigeria",
+        "question": "The Green Revolution, a programme aimed at increasing the production of food and raw materials to ensure food security, was inaugurated in April 1980 by which Nigerian leader?",
+        "options": {
+            "A": "General Olusegun Obasanjo",
+            "B": "Shehu Shagari",
+            "C": "General Yakubu Gowon",
+            "D": "Sani Abacha"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 5,
+        "topic": "Historical Background of Farming in Nigeria",
+        "question": "Which British organization acquired 10.35 square kilometers of land in 1905 at Moor Plantation, Ibadan, for growing cotton to feed British textile mills?",
+        "options": {
+            "A": "British Agricultural Society",
+            "B": "British Cotton Growers Association",
+            "C": "Department of Botanical Research",
+            "D": "International Institute of Tropical Agriculture"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 6,
+        "topic": "Agronomic Classification of Crops",
+        "question": "Crops that are cut green and fed directly to ruminants, such as elephant grass, are classified as:",
+        "options": {
+            "A": "Silage crops",
+            "B": "Cover crops",
+            "C": "Forage crops",
+            "D": "Green manure crops"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 7,
+        "topic": "Botanical Classification of Crops",
+        "question": "In botanical classification, Tetracarpidium conophorum (Asala) is classified structurally as a:",
+        "options": {
+            "A": "Herbaceous vegetable",
+            "B": "Trailing vine",
+            "C": "Woody tree crop",
+            "D": "Liane (large vine)"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 8,
+        "topic": "Centres of Origin",
+        "question": "According to the Centres of Diversity, which region is believed to be the origin of Soybean, Chinese cabbage, and naked oats?",
+        "options": {
+            "A": "Chinese Centre",
+            "B": "India, Burma and Assam",
+            "C": "Asiatic Centre",
+            "D": "South Mexico Centre"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 9,
+        "topic": "Centres of Origin",
+        "question": "Rice, yam, mango, and cowpea are traditionally believed to have originated from which of the following centres?",
+        "options": {
+            "A": "Abyssinian Centre",
+            "B": "India, Burma and Assam",
+            "C": "Near Eastern Centre",
+            "D": "Central and West African Centre"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 10,
+        "topic": "Centres of Origin",
+        "question": "Which of the following groups of crops originated from the Central and West African Centre?",
+        "options": {
+            "A": "Maize, sweet potato, and papaya",
+            "B": "Cassava, peanut, and pineapple",
+            "C": "Sorghum, cowpea, sesame, and oil palm",
+            "D": "Emmer wheat, barley, and castor bean"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 11,
+        "topic": "Factors Affecting Crop Production",
+        "question": "Which of the following is considered a poorly heritable genetic trait that is highly influenced by environmental factors?",
+        "options": {
+            "A": "Disease resistance",
+            "B": "Yield potential",
+            "C": "Vegetative growth capacity",
+            "D": "It is not explicitly listed, but genetic traits are less influenced by environment than external factors."
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 12,
+        "topic": "Climatic Factors",
+        "question": "Photosynthetically Active Radiation (PAR), which is essential for the production of carbohydrates and biomass, falls within which wavelength range?",
+        "options": {
+            "A": "0.1 to 0.3 µ",
+            "B": "0.4 to 0.7 µ",
+            "C": "0.8 to 1.2 µ",
+            "D": "1.5 to 2.0 µ"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 13,
+        "topic": "Climatic Factors",
+        "question": "Plants that require a day length of less than 12 hours for flowering, such as Rice and Sunflower, are classified as:",
+        "options": {
+            "A": "Long day plants",
+            "B": "Day neutral plants",
+            "C": "Short day plants",
+            "D": "Photosensitive mutants"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 14,
+        "topic": "Edaphic Factors",
+        "question": "Which of the following atmospheric gases is fixed in the soil by lightning, rainfall, and fixing microbes in pulse crops?",
+        "options": {
+            "A": "Oxygen",
+            "B": "Carbon dioxide",
+            "C": "Nitrogen",
+            "D": "Argon"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 15,
+        "topic": "Biotic Factors",
+        "question": "Which parasitic weed is known to cause severe damage to sugarcane and cowpea crops?",
+        "options": {
+            "A": "Imperata cylindrica",
+            "B": "Striga",
+            "C": "Chromolaena odorata",
+            "D": "Mimosa invisa"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 16,
+        "topic": "Seed Germination",
+        "question": "The initial stage of seed germination, characterized by the rapid uptake of water resulting in the swelling and softening of the seed coat, is called:",
+        "options": {
+            "A": "Osmosis",
+            "B": "Imbibition",
+            "C": "Radicle emergence",
+            "D": "Plumule expansion"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 17,
+        "topic": "Seed Germination",
+        "question": "In which type of germination does the hypocotyl move rapidly upward, pulling the cotyledons above the soil surface?",
+        "options": {
+            "A": "Hypogeal germination",
+            "B": "Endogeal germination",
+            "C": "Epigeal germination",
+            "D": "Mesogeal germination"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 18,
+        "topic": "Seed Germination",
+        "question": "During germination, which growth regulators naturally develop in the seeds to stimulate the process?",
+        "options": {
+            "A": "Ethylene and Cytokinin",
+            "B": "Auxin and Heteroauxin",
+            "C": "Gibberellic acid and Abscisic acid",
+            "D": "Phytochrome and Chlorophyll"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 19,
+        "topic": "Seed Dormancy",
+        "question": "A condition where a seed is incapable of germination due to an environmental restraint such as inadequate moisture or unfavorable temperature is known as:",
+        "options": {
+            "A": "Innate dormancy",
+            "B": "Induced dormancy",
+            "C": "Enforced dormancy",
+            "D": "Primary dormancy"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 20,
+        "topic": "Seed Dormancy",
+        "question": "The embryo treatment method that involves the incubation of seeds at an appropriate low temperature over a moist layer before transferring them to a temperature suitable for germination is called:",
+        "options": {
+            "A": "Scarification",
+            "B": "Stratification",
+            "C": "Vernalization",
+            "D": "Leaching"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 21,
+        "topic": "Seeding Practices",
+        "question": "If the recommended seed rate for maize is 25kg per hectare for 100% viability, what should the adjusted seed rate be if the germination percentage is 90%?",
+        "options": {
+            "A": "22.5 kg per hectare",
+            "B": "25.0 kg per hectare",
+            "C": "27.8 kg per hectare",
+            "D": "30.5 kg per hectare"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 22,
+        "topic": "Weed Control",
+        "question": "Herbicides that destroy only the weeds they touch upon application, such as Gramoxone, are referred to as:",
+        "options": {
+            "A": "Systemic herbicides",
+            "B": "Contact herbicides",
+            "C": "Selective herbicides",
+            "D": "Pre-emergence herbicides"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 23,
+        "topic": "Weed Control",
+        "question": "An example of a systemic herbicide that has a residual effect of two to three months in the soil for weed control in grain legumes and maize is:",
+        "options": {
+            "A": "Gramoxone",
+            "B": "Galex",
+            "C": "Paraquat",
+            "D": "Simazine"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 24,
+        "topic": "Seed Treatment",
+        "question": "Coating seeds with specific chemicals like Hexachlorobenzene, Aldrex T, and Apron-Plus is a practice primarily used to:",
+        "options": {
+            "A": "Increase the seed's water absorption capacity",
+            "B": "Prevent control seed and other soil-borne diseases (e.g., smut and seedling rot)",
+            "C": "Break innate seed dormancy permanently",
+            "D": "Increase the physical size of the seeds for mechanical planting"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 25,
+        "topic": "Yam Agronomy",
+        "question": "The botanical name for water yam is:",
+        "options": {
+            "A": "Dioscorea rotundata",
+            "B": "Dioscorea cayenensis",
+            "C": "Dioscorea alata",
+            "D": "Dioscorea dumentorum"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 26,
+        "topic": "Yam Agronomy",
+        "question": "Yam tubers possess medicinal properties and can act as a heart stimulant. This is attributed to the presence of:",
+        "options": {
+            "A": "High levels of Vitamin C",
+            "B": "Cyanogenic glycosides",
+            "C": "Alkaloids of saponin and sapogenin",
+            "D": "Solanine"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 27,
+        "topic": "Yam Agronomy",
+        "question": "Which of the following is considered the most critical period of weed control in yam production?",
+        "options": {
+            "A": "2 - 4 weeks before sprouting",
+            "B": "8 - 12 weeks after sprouting",
+            "C": "Immediately after tuber initiation",
+            "D": "During the harvesting phase"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 28,
+        "topic": "Yam Diseases",
+        "question": "The fungal disease in yam caused by Colletotrichum gloeosporioides, which results in extensive necrosis of leaves and a scorched appearance, is known as:",
+        "options": {
+            "A": "Yam mosaic disease",
+            "B": "Yam anthracnose disease",
+            "C": "Yam bacterial blight",
+            "D": "Yam brown streak disease"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 29,
+        "topic": "Yam Diseases",
+        "question": "Yam mosaic virus, which causes stunted growth and shoe-string symptoms on leaves, is primarily transmitted by:",
+        "options": {
+            "A": "Whiteflies",
+            "B": "Mealybugs",
+            "C": "Aphids and infected setts",
+            "D": "Nematodes"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 30,
+        "topic": "Cassava Agronomy",
+        "question": "The botanical name for cassava is:",
+        "options": {
+            "A": "Solanum tuberosum",
+            "B": "Manihot esculenta",
+            "C": "Dioscorea rotundata",
+            "D": "Ipomoea batatas"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 31,
+        "topic": "Cassava Agronomy",
+        "question": "Sweet cassava varieties are differentiated from bitter cassava varieties based primarily on their concentration of:",
+        "options": {
+            "A": "Amylopectin",
+            "B": "Saponins",
+            "C": "Cyanogenic glycosides",
+            "D": "Ascorbic acid"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 32,
+        "topic": "Cassava Agronomy",
+        "question": "What is the recommended propagation material for planting cassava?",
+        "options": {
+            "A": "True botanical seeds",
+            "B": "Mature stem cuttings usually 20 to 30 cm long with 3-5 growth buds",
+            "C": "Tuber pieces with at least one eye",
+            "D": "Sprouted leaves"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 33,
+        "topic": "Cassava Diseases",
+        "question": "African cassava mosaic disease is caused by a geminivirus. What is the insect vector responsible for transmitting this virus?",
+        "options": {
+            "A": "Xanthomonas axonopodis",
+            "B": "Bemisia tabaci (Whitefly)",
+            "C": "Aphis fabae (Aphid)",
+            "D": "Callosobruchus maculatus"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 34,
+        "topic": "Cassava Diseases",
+        "question": "Angular necrotic spotting of leaves with a chlorotic ring, wilting, and pools of gum exudate along wounds are classic symptoms of:",
+        "options": {
+            "A": "Cassava brown streak disease",
+            "B": "African cassava mosaic disease",
+            "C": "Cassava bacterial blight",
+            "D": "Cassava anthracnose"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 35,
+        "topic": "Cowpea Agronomy",
+        "question": "The botanical name for cowpea is:",
+        "options": {
+            "A": "Glycine max",
+            "B": "Phaseolus vulgaris",
+            "C": "Vigna unguiculata",
+            "D": "Arachis hypogaea"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 36,
+        "topic": "Cowpea Agronomy",
+        "question": "Which type of cowpea seeds are described as kidney-shaped with a blunt end, semi-crowded, and generally tan in color?",
+        "options": {
+            "A": "Black-eyed peas",
+            "B": "Crowder peas",
+            "C": "White acre type",
+            "D": "Clay types"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 37,
+        "topic": "Cowpea Agronomy",
+        "question": "For erect/semi-erect cowpea varieties planted at 75 cm x 20 cm with two seedlings per hill, what is the estimated plant population per hectare?",
+        "options": {
+            "A": "60,000 plants/ha",
+            "B": "133,000 plants/ha",
+            "C": "200,000 plants/ha",
+            "D": "400,000 plants/ha"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 38,
+        "topic": "Cowpea Diseases and Pests",
+        "question": "The most important disease of cowpea, which frequently occurs in wetter coastal areas and heavier waterlogged soils, is stem rot caused by:",
+        "options": {
+            "A": "Xanthomonas vignicola",
+            "B": "Phytophthora vignae",
+            "C": "Cercospora",
+            "D": "Fusarium oxysporum"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 39,
+        "topic": "Cowpea Storage",
+        "question": "Dried cowpea grains are generally stored at an average moisture content of 12%. Which of the following pests is a major storage insect pest controlled by phostoxin tablets?",
+        "options": {
+            "A": "Maruca vitrata",
+            "B": "Nezara viridula",
+            "C": "Callosobruchus maculatus",
+            "D": "Mylabris spp."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 40,
+        "topic": "Soybean Agronomy",
+        "question": "Soybean (Glycine max) was domesticated in the 11th century BC in which region?",
+        "options": {
+            "A": "South America",
+            "B": "Northeast of China",
+            "C": "West Africa",
+            "D": "The Near East"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 41,
+        "topic": "Soybean Agronomy",
+        "question": "Soybeans perform nitrogen fixation by establishing a symbiotic relationship with which specific bacterium?",
+        "options": {
+            "A": "Azospirillum",
+            "B": "Rhizobium leguminosarum",
+            "C": "Bradyrhizobium japonicum",
+            "D": "Xanthomonas axonopodis"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 42,
+        "topic": "Soybean Agronomy",
+        "question": "The emergence type of soybean is known as 'epigeal'. What does this refer to?",
+        "options": {
+            "A": "The cotyledons remain below the ground.",
+            "B": "The radicle emerges from the upper end of the seed.",
+            "C": "The hook-shaped hypocotyl pulls the cotyledons above the ground.",
+            "D": "The seed requires total darkness to germinate."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 43,
+        "topic": "Soybean Diseases",
+        "question": "The most destructive of soybean foliar diseases, which attacks and destroys leaves and can cause up to 60% yield loss, is Soybean rust. What fungus causes it?",
+        "options": {
+            "A": "Phytophthora infestans",
+            "B": "Phakopsora pachyrhizi",
+            "C": "Colletotrichum gloeosporioides",
+            "D": "Pseudomonas fluorescens"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 44,
+        "topic": "Maize Agronomy",
+        "question": "Which variety of maize is characterized by an endosperm consisting of large amounts of hard starch with a small core of soft starch in the centre, giving it a rounded kernel?",
+        "options": {
+            "A": "Dent maize",
+            "B": "Flint maize",
+            "C": "Flour maize",
+            "D": "Pop corn"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 45,
+        "topic": "Maize Agronomy",
+        "question": "Which of the following is an indicator of physiological maturity in maize?",
+        "options": {
+            "A": "Tassels appearing 7 to 8 weeks after planting",
+            "B": "Formation of a black layer near the tip of mature kernels",
+            "C": "The silks turning completely green",
+            "D": "Kernels popping when heated"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 46,
+        "topic": "Maize Agronomy",
+        "question": "At what moisture content range does physiological maturity occur in maize?",
+        "options": {
+            "A": "10-15%",
+            "B": "20-25%",
+            "C": "30-35%",
+            "D": "45-50%"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 47,
+        "topic": "Maize Storage",
+        "question": "For safe, long-term storage of maize to prevent mold and pest infestation, the moisture content should be reduced to below:",
+        "options": {
+            "A": "20%",
+            "B": "18%",
+            "C": "14% or 12%",
+            "D": "30%"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 48,
+        "topic": "Potato Agronomy",
+        "question": "The scientific name for the Irish potato is Solanum tuberosum. Which plant family does it belong to?",
+        "options": {
+            "A": "Fabaceae",
+            "B": "Poaceae",
+            "C": "Solanaceae",
+            "D": "Dioscoreaceae"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 49,
+        "topic": "Potato Agronomy",
+        "question": "What toxic alkaloid is found in the small green fruits and vegetative parts of the potato plant, making them unsuitable for consumption?",
+        "options": {
+            "A": "Cyanide",
+            "B": "Solanine",
+            "C": "Saponin",
+            "D": "Nicotine"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 50,
+        "topic": "Potato Agronomy",
+        "question": "In potato cultivation, planting in ridges or hills is often done. What is a primary reason for ridging?",
+        "options": {
+            "A": "It keeps the soil permanently waterlogged to stimulate root growth.",
+            "B": "It maximizes coverage of the developing tuber to prevent greening.",
+            "C": "It lowers the soil temperature to delay germination.",
+            "D": "It forces the plant to rely entirely on aerial roots."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 51,
+        "topic": "Potato Agronomy",
+        "question": "The disastrous failures of the Irish potato crops in the mid-19th century, which led to the Irish Potato Famine, were caused by which pathogen?",
+        "options": {
+            "A": "Phytophthora infestans (Late blight)",
+            "B": "Phakopsora pachyrhizi",
+            "C": "Colletotrichum gloeosporioides",
+            "D": "Xanthomonas axonopodis"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 52,
+        "topic": "Pearl Millet Agronomy",
+        "question": "What is the scientific name for Pearl Millet?",
+        "options": {
+            "A": "Sorghum bicolor",
+            "B": "Zea mays",
+            "C": "Pennisetum glaucum",
+            "D": "Arachis hypogaea"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 53,
+        "topic": "Pearl Millet Agronomy",
+        "question": "Pearl millet is known to tolerate which of the following challenging soil conditions better than many other crops?",
+        "options": {
+            "A": "Severe waterlogging and heavy clays",
+            "B": "Poor, infertile, acidic subsoils with high aluminum content",
+            "C": "Permafrost",
+            "D": "Complete shade"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 54,
+        "topic": "Pearl Millet Pests",
+        "question": "Which insect pest of pearl millet inserts its straw-like mouthparts into the plant tissue, sucks out sap, and injects chemicals that clog the vascular system, causing small irregular yellow patches?",
+        "options": {
+            "A": "Chinch bug",
+            "B": "Stinkbug",
+            "C": "Stem borer",
+            "D": "Mealybug"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 55,
+        "topic": "Upland Rice Production",
+        "question": "According to the Africa Rice Center (WARDA), rainfed upland rice ecology represents what percentage of the 1.7 million hectares currently cropped to rice in Nigeria?",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "50%",
+            "D": "75%"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 56,
+        "topic": "Upland Rice Production",
+        "question": "Which of the following is an early maturing (<90–100 days) upland rice variety recommended for cultivation?",
+        "options": {
+            "A": "FARO 25",
+            "B": "FARO 48",
+            "C": "FARO 55 (NERICA1)",
+            "D": "FARO 53"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 57,
+        "topic": "Upland Rice Seed Treatment",
+        "question": "To break seed dormancy in freshly harvested upland rice seeds using acid treatment, what chemical is recommended?",
+        "options": {
+            "A": "Hydrochloric acid",
+            "B": "Concentrated nitric acid (69% HNO3)",
+            "C": "Sulphuric acid",
+            "D": "Acetic acid"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 58,
+        "topic": "Upland Rice Fertilization",
+        "question": "When topdressing upland rice with Nitrogen, what tool is recommended to guide the exact timing and necessity of the application based on the N status of the rice leaf?",
+        "options": {
+            "A": "Soil pH meter",
+            "B": "Leaf Color Chart (LCC)",
+            "C": "Chlorophyll fluorometer",
+            "D": "Refractometer"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 59,
+        "topic": "Upland Rice Nutrient Deficiency",
+        "question": "If upland rice seedlings turn yellow 1–2 weeks after emergence, indicating iron deficiency, what corrective foliar spray is recommended?",
+        "options": {
+            "A": "1% zinc sulphate with 0.5% lime",
+            "B": "1% ferrous sulphate with 0.2% citric acid or lemon",
+            "C": "Muriate of potash",
+            "D": "Calcium ammonium nitrate"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 60,
+        "topic": "Upland Rice Weed Control",
+        "question": "Which pre-emergence herbicide is commonly applied 2-3 days after sowing upland rice to control weeds?",
+        "options": {
+            "A": "Gramoxone (paraquat)",
+            "B": "Propanil",
+            "C": "Ronstar (oxadiazon)",
+            "D": "Basagran (bentazon)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 61,
+        "topic": "Upland Rice Weed Control",
+        "question": "Why is it strictly advised NOT to spray Gramoxone (paraquat) after the germination of paddy seeds?",
+        "options": {
+            "A": "It acts as a fertilizer for weeds.",
+            "B": "It is a non-selective contact herbicide and will kill the rice seedlings.",
+            "C": "It evaporates instantly in sunlight.",
+            "D": "It promotes stem borer infestation."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 62,
+        "topic": "Upland Rice Pest Control",
+        "question": "Stem borers (like Sesamia, Chilo, and Maliarpha species) can be controlled biologically by protecting their natural enemies. Which of the following is a natural enemy of stem borers?",
+        "options": {
+            "A": "Termites",
+            "B": "Braconid wasps (e.g., Cotesia sesamiae)",
+            "C": "Aphids",
+            "D": "Nematodes"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 63,
+        "topic": "Upland Rice Pest Control",
+        "question": "An indigenous biological control practice to deter termites in an upland rice field involves the application of:",
+        "options": {
+            "A": "Salt water on the leaves",
+            "B": "Red palm oil mixed with pawpaw to attract soldier ants",
+            "C": "Diluted honey dew",
+            "D": "Fermented cassava juice"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 64,
+        "topic": "Upland Rice Post-Harvest",
+        "question": "What is the primary advantage of parboiling upland rice paddy before milling?",
+        "options": {
+            "A": "It bleaches the rice to a pure white color.",
+            "B": "It increases the moisture content to 30% for easier storage.",
+            "C": "It drives water-soluble vitamins (like thiamine) from the seed coat into the starchy core and reduces breakage during milling.",
+            "D": "It removes the need for threshing."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 65,
+        "topic": "Upland Rice Post-Harvest",
+        "question": "When storing milled or parboiled rice, a common method to control storage insect pests like the rice weevil (*Sitophilus oryzae*) is the application of:",
+        "options": {
+            "A": "Fungicide sprays directly on the bags",
+            "B": "Tablets of phostoxin (aluminium phosphide)",
+            "C": "Gramoxone",
+            "D": "Zinc sulphate"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 66,
+        "topic": "Agriculture Economy",
+        "question": "Around what percentage of Nigeria's population historically derives its livelihood primarily from agriculture and allied activities?",
+        "options": {
+            "A": "10-20%",
+            "B": "30-40%",
+            "C": "65-75%",
+            "D": "90-95%"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 67,
+        "topic": "Climatic Factors",
+        "question": "The ratio between the amount of moisture present in the air to the saturation capacity of the air at a particular temperature is defined as:",
+        "options": {
+            "A": "Precipitation",
+            "B": "Atmospheric pressure",
+            "C": "Relative Humidity (RH)",
+            "D": "Wind velocity"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 68,
+        "topic": "Edaphic Factors",
+        "question": "Which group of soil organisms is specifically noted for burrowing into the soil, facilitating aeration, drainage, and the constant mixing of organic and mineral matter?",
+        "options": {
+            "A": "Nematodes",
+            "B": "Earthworms",
+            "C": "Protozoa",
+            "D": "Rhizobium"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 69,
+        "topic": "Planting Density Calculation",
+        "question": "For a sole maize crop planted at a spacing of 75 cm by 25 cm, with one seed per stand, what is the expected plant population per hectare? (1 hectare = 10,000 m²)",
+        "options": {
+            "A": "40,000 plants/ha",
+            "B": "53,333 plants/ha",
+            "C": "66,000 plants/ha",
+            "D": "100,000 plants/ha"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 70,
+        "topic": "Yam Agronomy",
+        "question": "To circumvent the problem of delayed and non-uniform sprouting of yam setts cut from bottoms and middles, what practice is recommended before planting in the field?",
+        "options": {
+            "A": "Boiling the setts",
+            "B": "Pre-sprouting the setts in shallow covered ditches (a nursery)",
+            "C": "Applying high doses of Nitrogen directly to the cut surface",
+            "D": "Freezing the setts for a week"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 71,
+        "topic": "Cassava Harvesting",
+        "question": "Why is it recommended not to harvest cassava too late after it reaches optimum maturity (around 18 months for most varieties)?",
+        "options": {
+            "A": "The tubers turn into toxic solanine.",
+            "B": "The tuberous roots become woody or fibrous, reducing quality.",
+            "C": "The plant will spontaneously combust.",
+            "D": "The tubers will completely dissolve into the soil."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 72,
+        "topic": "Cowpea Varieties",
+        "question": "Which variety of cowpea is characterized by having green to lavender pods and immature seeds that cook to a medium to dark brown, tender texture with delicate flavor?",
+        "options": {
+            "A": "Black-eyed peas",
+            "B": "Brown-eyed peas",
+            "C": "Crowder peas",
+            "D": "White acre type"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 73,
+        "topic": "Potato Nutrient Requirements",
+        "question": "According to Liebig's Law of the Minimum as applied to potato nutrition, plant growth is dictated by:",
+        "options": {
+            "A": "The total sum of all nutrients applied.",
+            "B": "The scarcest resource, which becomes the limiting factor.",
+            "C": "The amount of nitrogen alone.",
+            "D": "The maximum temperature during the day."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 74,
+        "topic": "Potato Agronomy",
+        "question": "What agricultural process involves planting sprouted potato seed to advance crop growth, relying on the careful temperature control of seed storage to break dormancy?",
+        "options": {
+            "A": "Scarification",
+            "B": "Vernalization",
+            "C": "Physiological ageing",
+            "D": "Etiolation"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 75,
+        "topic": "Maize Fertilization",
+        "question": "Nitrogen is usually applied to maize in two split doses. When are these doses typically applied?",
+        "options": {
+            "A": "First at harvest, second at storage",
+            "B": "First at planting, second shortly before tasselling",
+            "C": "First at tasselling, second at black layer formation",
+            "D": "First during the dry season, second during land clearing"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 76,
+        "topic": "Sorghum Production",
+        "question": "Sorghum (Sorghum bicolor) has an effective transpiration ratio compared to maize, making it highly drought tolerant. How many parts of water does sorghum use to produce one part of dry matter?",
+        "options": {
+            "A": "100 parts",
+            "B": "310 parts",
+            "C": "400 parts",
+            "D": "600 parts"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 77,
+        "topic": "Sorghum Morphology",
+        "question": "The seed coat of a sorghum grain consists of the pericarp and the testa. The presence of the testa is nutritionally significant because it contains a tannin-like substance that:",
+        "options": {
+            "A": "Makes the seed highly toxic to humans.",
+            "B": "Increases bird damage significantly.",
+            "C": "Gives a bitter taste resulting in less bird damage, but makes it less acceptable for human food.",
+            "D": "Turns the grain completely white and sweet."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 78,
+        "topic": "Sorghum Weed Control",
+        "question": "Which of the following is a parasitic weed known as 'witchweed' that attacks the roots of sorghum and requires crop rotation with cotton or legumes for control?",
+        "options": {
+            "A": "Striga asiatica",
+            "B": "Mimosa invisa",
+            "C": "Cyperus spp.",
+            "D": "Rottboellia cochinchinensis"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 79,
+        "topic": "Upland Rice Fertilizer Calculations",
+        "question": "If the recommended rate of P2O5 is 30 kg/ha and you are using Single Super Phosphate (SSP) which contains approximately 18% P2O5 (or using the factor 0.111 to convert), how many 50kg bags of SSP are roughly required per hectare?",
+        "options": {
+            "A": "1 bag",
+            "B": "3.3 bags",
+            "C": "6 bags",
+            "D": "10 bags"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 80,
+        "topic": "Upland Rice Harvesting",
+        "question": "When harvesting upland rice, it is recommended to cut the stems with a sickle at what height above the ground?",
+        "options": {
+            "A": "At soil level (0 cm)",
+            "B": "10–15 cm",
+            "C": "30–40 cm",
+            "D": "Directly below the panicle only"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 81,
+        "topic": "Potato Agronomy",
+        "question": "In determining the culinary use of potatoes, which starch compound diffuses from the granule when cooked in water, making the potato ideal for mashing?",
+        "options": {
+            "A": "Amylose",
+            "B": "Amylopectin",
+            "C": "Cellulose",
+            "D": "Glycogen"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 82,
+        "topic": "Cowpea Agronomy",
+        "question": "Which of the following are the principal parasitic weeds known to severely attack cowpeas, particularly in semiarid regions?",
+        "options": {
+            "A": "Imperata cylindrica and Panicum maximum",
+            "B": "Striga gesnerioides and Alectra spp.",
+            "C": "Mimosa invisa and Chromolaena odorata",
+            "D": "Bidens pilosa and Ageratum conyzoides"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 83,
+        "topic": "Sorghum Products",
+        "question": "Sorghum meal, which directly competes with maize meal in the market, is also traditionally known as:",
+        "options": {
+            "A": "Amala",
+            "B": "Ogi",
+            "C": "Lafun",
+            "D": "Mabele"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 84,
+        "topic": "Sorghum Pest Control",
+        "question": "According to the principles of sorghum pest control, what is the economic threshold level for the maize stem-borer that necessitates chemical control?",
+        "options": {
+            "A": "2% infested plants",
+            "B": "10% infested plants",
+            "C": "25% infested plants",
+            "D": "50% infested plants"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 85,
+        "topic": "Upland Rice Weed Control",
+        "question": "When using Paraquat as a pre-plant herbicide for rice, which of the following weeds is noted as being resistant to it?",
+        "options": {
+            "A": "Sedges with rhizomes",
+            "B": "Imperata, Cynodon dactylon, and Cyperus",
+            "C": "Striga asiatica",
+            "D": "Commelinacea"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 86,
+        "topic": "Pesticide Safety",
+        "question": "What is the recommended practice for the management of leftover agrochemicals after spraying?",
+        "options": {
+            "A": "Throw them away in a nearby stream.",
+            "B": "Transfer them into an empty beverage container for easy identification.",
+            "C": "Keep them securely locked in the store in their original labeled container.",
+            "D": "Bury the liquid directly in the soil next to the farm."
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 87,
+        "topic": "Yam Agronomy",
+        "question": "Which planting method is described as the most prevalent practice among traditional yam farmers?",
+        "options": {
+            "A": "Planting in holes",
+            "B": "Planting on the flat",
+            "C": "Planting on ridges",
+            "D": "Planting on mounds"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 88,
+        "topic": "Yam Agronomy",
+        "question": "When preparing yam setts for planting, why is it advised to pre-sprout bottoms and middles before field planting?",
+        "options": {
+            "A": "Because they sprout very late (often 2 months late), leading to non-uniform emergence.",
+            "B": "Because they contain toxic alkaloids that must be neutralized by sunlight.",
+            "C": "Because they are highly susceptible to yam mosaic virus if planted fresh.",
+            "D": "Because they need to be completely dehydrated before taking root."
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 89,
+        "topic": "Maize Agronomy",
+        "question": "In the manual weed control schedule for maize, when should the second weeding ideally take place?",
+        "options": {
+            "A": "2 to 3 weeks after planting",
+            "B": "5 weeks after planting, just before the second fertilizer application",
+            "C": "Just after tasseling",
+            "D": "Immediately before harvest"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 90,
+        "topic": "Physiographic Factors",
+        "question": "How does an increase in altitude generally affect the climate of an agricultural region?",
+        "options": {
+            "A": "It causes an increase in temperature and a decrease in precipitation.",
+            "B": "It causes a decrease in temperature and an increase in precipitation and wind velocity.",
+            "C": "It causes both temperature and precipitation to drop to near zero.",
+            "D": "It has no effect on temperature or precipitation."
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 91,
+        "topic": "Cassava Agronomy",
+        "question": "Which of the following weed species is described as the most difficult in cassava farms because it reduces yield, causes mechanical damage to tubers, and provides an entrance for pathogens?",
+        "options": {
+            "A": "Mimosa invisa",
+            "B": "Tridax procumbens",
+            "C": "Imperata cylindrica",
+            "D": "Chromolaena odorata"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 92,
+        "topic": "Potato Agronomy",
+        "question": "When potato crops are grown in soils with high pH values (above 7.5), they become notably more prone to which specific problem?",
+        "options": {
+            "A": "Late blight",
+            "B": "Aluminum toxicity",
+            "C": "Common scab",
+            "D": "Tuber rotting"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 93,
+        "topic": "Soybean Agronomy",
+        "question": "Flowering in soybean plants is highly influenced by photoperiodism. It is generally triggered when days become:",
+        "options": {
+            "A": "Longer than 14 hours",
+            "B": "Shorter than 12.8 hours",
+            "C": "Exactly 24 hours",
+            "D": "Alternating with freezing nights"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 94,
+        "topic": "Upland Rice - Legume Rotation",
+        "question": "Promiscuous dual-purpose soybeans, when grown as a rotation crop and having their residues ploughed into the soil, can contribute approximately how much nitrogen to the succeeding upland rice crop?",
+        "options": {
+            "A": "At least 5 kg N/ha",
+            "B": "At least 20 kg N/ha",
+            "C": "At least 100 kg N/ha",
+            "D": "At least 250 kg N/ha"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": 95,
+        "topic": "Seed Germination",
+        "question": "The specific response of seeds to alternating temperatures which enhances or triggers germination is termed:",
+        "options": {
+            "A": "Photoperiodism",
+            "B": "Scarification",
+            "C": "Thermoperiodism",
+            "D": "Stratification"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 96,
+        "topic": "Agricultural Development in Nigeria",
+        "question": "Which programme was launched on 16th April 2003 under the Olusegun Obasanjo administration to stimulate demand for cheaper staple foods like cassava, yam, and potato over more expensive carbohydrates?",
+        "options": {
+            "A": "Operation Feed the Nation (OFN)",
+            "B": "National Fadama Development Project (NFDP)",
+            "C": "Root and Tuber Expansion Programme (RTEP)",
+            "D": "Agricultural Transformation Agenda (ATA)"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 97,
+        "topic": "Sorghum Products",
+        "question": "In the preparation of instant sorghum beer powder, how much time is generally needed before the reconstituted beer can be consumed?",
+        "options": {
+            "A": "Immediately",
+            "B": "12 hours",
+            "C": "24 hours",
+            "D": "3 days"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": 98,
+        "topic": "Cowpea Varieties",
+        "question": "A variety of cowpea described as having seeds that are kidney-shaped with a blunt end, semi-crowded, generally tan in colour, and growing in stiff pods is the:",
+        "options": {
+            "A": "White acre type",
+            "B": "Clay type",
+            "C": "Black-eyed pea",
+            "D": "Crowder pea"
+        },
+        "correctAnswer": "A"
+    },
+    {
+        "id": 99,
+        "topic": "Upland Rice Sowing",
+        "question": "When directly seeding upland rice via broadcasting, what is the recommended seed rate per hectare?",
+        "options": {
+            "A": "25-30 kg/ha",
+            "B": "50-60 kg/ha",
+            "C": "75-80 kg/ha",
+            "D": "80-100 kg/ha"
+        },
+        "correctAnswer": "D"
+    },
+    {
+        "id": 100,
+        "topic": "Maize Harvesting",
+        "question": "Which of the following visual cues signals that the transport of photosynthates into maize kernels has completely stopped, indicating physiological maturity?",
+        "options": {
+            "A": "The appearance of a black layer near the tip of the mature kernel.",
+            "B": "The swelling of the kernel to twice its normal size.",
+            "C": "The complete greening of the cob-sheath.",
+            "D": "The appearance of a white halo around the hilum."
+        },
+        "correctAnswer": "A"
+    }
+]

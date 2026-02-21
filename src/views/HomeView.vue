@@ -13,7 +13,7 @@ import {
 const router = useRouter()
 
 const DEFAULT_MINUTES = 15
-const DEFAULT_QUESTION_COUNT = 5
+const DEFAULT_QUESTION_COUNT = 50
 
 const userName = ref('')
 const timerMinutes = ref(DEFAULT_MINUTES)
@@ -142,7 +142,7 @@ const recentResults = computed(() => pastResults.value.slice(0, 5))
                             <span class="mx-2 text-gray-300 dark:text-gray-600">•</span>
                             <span
                                 class="text-xs font-semibold px-2 py-0.5 rounded capitalize bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300">{{
-                                res.subject || 'general' }}</span>
+                                    res.subject || 'general' }}</span>
                         </div>
                         <p class="text-[11px] text-gray-500 dark:text-gray-400 mt-1 flex items-center">
                             {{ new Date(res.date).toLocaleDateString() }}

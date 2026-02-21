@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "topic": "Concept of Soil",
+    "question": "How does a mining engineer primarily view soil according to the provided material?",
+    "options": {
+      "A": "As a natural body consisting of layers of mineral constituents.",
+      "B": "As a material that supports the behaviour of earthen structures.",
+      "C": "As debris which must be removed to access precious minerals.",
+      "D": "As a source of nutrients for plant growth."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "topic": "Concept of Soil",
+    "question": "Which discipline views soil as a natural body occupying a position on the earth's surface that supports plants and has properties due to integrated climatic and biological effects?",
+    "options": {
+      "A": "Geology",
+      "B": "Soil Science",
+      "C": "Civil Engineering",
+      "D": "Sanitarian Engineering"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 3,
+    "topic": "Weathering of Rocks",
+    "question": "Which of the following best describes the core principle of physical weathering?",
+    "options": {
+      "A": "It alters the primary chemical composition of the rock to form secondary minerals.",
+      "B": "It increases the surface area of rocks without changing their chemical composition.",
+      "C": "It solely involves the dissolution of rock materials in water.",
+      "D": "It results in the immediate formation of secondary clay silicate minerals."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 4,
+    "topic": "Weathering of Rocks",
+    "question": "Why is a 'young soil' often considered highly fertile?",
+    "options": {
+      "A": "It has undergone extensive leaching of basic cations.",
+      "B": "It possesses an abundance of highly resistant quartz minerals.",
+      "C": "It contains a high concentration of weatherable primary minerals.",
+      "D": "It consists exclusively of secondary clay minerals."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "topic": "Physical Weathering Processes",
+    "question": "The physical weathering process where rocks develop planes of weakness and flake off due to differential expansion during heating and cooling is known as:",
+    "options": {
+      "A": "Exfoliation",
+      "B": "Congelli pedoturbation",
+      "C": "Gleization",
+      "D": "Hydration"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 6,
+    "topic": "Chemical Weathering",
+    "question": "Which chemical weathering process involves the splitting of water molecules into H+ and OH- ions, where the H+ often replaces a cation in the mineral structure?",
+    "options": {
+      "A": "Solution",
+      "B": "Hydration",
+      "C": "Hydrolysis",
+      "D": "Carbonation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 7,
+    "topic": "Chemical Weathering",
+    "question": "During the hydrolysis of microcline (KAlSi3O8), the reaction produces soluble potassium and leads to the recrystallization of Al and Si into which secondary clay mineral?",
+    "options": {
+      "A": "Smectite",
+      "B": "Kaolinite",
+      "C": "Limonite",
+      "D": "Haematite"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "topic": "Chemical Weathering",
+    "question": "The conversion of haematite to limonite, resulting in a noticeable change in soil colour and a softer mineral structure, is an example of:",
+    "options": {
+      "A": "Carbonation",
+      "B": "Oxidation",
+      "C": "Hydration",
+      "D": "Hydrolysis"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "topic": "Chemical Weathering",
+    "question": "In oxidation-reduction weathering reactions, what makes oxidized minerals more easily attacked by water and carbonic acid?",
+    "options": {
+      "A": "A decrease in their total surface area.",
+      "B": "The complete removal of iron from the crystal lattice.",
+      "C": "An imbalance in mineral electrical neutrality due to ionic adjustments.",
+      "D": "The transformation of secondary clays back to primary minerals."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 10,
+    "topic": "Factors Governing Weathering",
+    "question": "According to the Bowen Stability Series (referenced as Goldich/Goldfish series), which of the following minerals crystallizes first from magma and is therefore most easily weathered?",
+    "options": {
+      "A": "Quartz",
+      "B": "Muscovite",
+      "C": "Olivine",
+      "D": "Zircon"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "topic": "Factors Governing Weathering",
+    "question": "How does particle size influence the rate of mineral weathering?",
+    "options": {
+      "A": "Coarse-grained minerals weather faster due to larger pore spaces.",
+      "B": "Fine-grained minerals are more susceptible to chemical attack due to a larger specific surface area.",
+      "C": "Particle size has no effect on weathering; climate is the sole determinant.",
+      "D": "Clay-sized quartz is more resistant to weathering than sand-sized quartz."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "topic": "Factors Governing Weathering",
+    "question": "Which climatic condition generally promotes the most rapid rate of chemical weathering?",
+    "options": {
+      "A": "Cold and arid",
+      "B": "Hot and humid tropical",
+      "C": "Temperate and dry",
+      "D": "Cold and humid"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 13,
+    "topic": "Soil Forming Processes",
+    "question": "The downward movement of materials out of a soil profile, typically resulting in an Albic horizon, is termed:",
+    "options": {
+      "A": "Illuviation",
+      "B": "Eluviation",
+      "C": "Pedoturbation",
+      "D": "Gleization"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "topic": "Soil Forming Processes",
+    "question": "Which term describes the accumulation or movement of material into a soil profile, often forming an Argillic horizon?",
+    "options": {
+      "A": "Eluviation",
+      "B": "Leaching",
+      "C": "Podzolization",
+      "D": "Illuviation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 15,
+    "topic": "Soil Forming Processes",
+    "question": "What is the key difference between leaching and eluviation?",
+    "options": {
+      "A": "Leaching involves the physical transport of solid particles, while eluviation involves dissolved ions.",
+      "B": "Eluviation is upward movement, while leaching is downward movement.",
+      "C": "Leaching connotes the complete removal of materials from the entire soil solum, whereas eluviation is movement from one horizon to another.",
+      "D": "There is no difference; the terms are entirely synonymous in pedology."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 16,
+    "topic": "Pedoturbation",
+    "question": "Soil mixing brought about by the freeze-thaw cycle in temperate regions is specifically classified as:",
+    "options": {
+      "A": "Faunal pedoturbation",
+      "B": "Floral pedoturbation",
+      "C": "Argilli pedoturbation",
+      "D": "Congelli pedoturbation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 17,
+    "topic": "Pedoturbation",
+    "question": "Which type of pedoturbation involves the mass-washing movement of expansible clays within the solum?",
+    "options": {
+      "A": "Aero pedoturbation",
+      "B": "Argilli pedoturbation",
+      "C": "Crystallo pedoturbation",
+      "D": "Seismi pedoturbation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 18,
+    "topic": "Soil Forming Processes",
+    "question": "The soil-forming process characterized by the translocation of sesquioxides (Al and Fe oxides), where soluble ferrous iron forms at the site of eluviation and insoluble ferric iron forms at the point of illuviation, is:",
+    "options": {
+      "A": "Gleization",
+      "B": "Podzolization",
+      "C": "Calcification",
+      "D": "Salinization"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 19,
+    "topic": "Soil Forming Processes",
+    "question": "Gleization typically occurs under which of the following environmental conditions?",
+    "options": {
+      "A": "Highly aerated, sandy soils in arid climates.",
+      "B": "Waterlogged, anaerobic conditions with insufficient oxygen supply.",
+      "C": "Well-drained hilltops with rich organic matter.",
+      "D": "Areas with excessive accumulation of soluble salts."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "topic": "Soil Forming Processes",
+    "question": "A diagnostic feature of a soil that has undergone gleization is:",
+    "options": {
+      "A": "A bright red matrix color due to extreme oxidation.",
+      "B": "The presence of a thick, hardened calcium carbonate layer.",
+      "C": "A bluish, greenish, or greyish matrix color indicating the reduction of iron.",
+      "D": "The exclusive accumulation of expansible clays."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 21,
+    "topic": "Composition of Soil",
+    "question": "In an ideal soil composition, what percentage is typically occupied by the fluid phase (air and water combined)?",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "45%",
+      "D": "5%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "topic": "Soil Morphology",
+    "question": "Which soil horizon is defined as being dominated by organic materials, some of which may be saturated with water for long periods?",
+    "options": {
+      "A": "A-Horizon",
+      "B": "E-Horizon",
+      "C": "O-Horizon",
+      "D": "B-Horizon"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 23,
+    "topic": "Soil Morphology",
+    "question": "The E-horizon is primarily characterized by:",
+    "options": {
+      "A": "The highest accumulation of humidified organic materials.",
+      "B": "The loss of silicate clays, iron, or aluminum, leaving behind resistant materials like quartz.",
+      "C": "Being the unweathered bedrock layer.",
+      "D": "The extreme accumulation of carbonates and gypsum."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 24,
+    "topic": "Soil Morphology",
+    "question": "Which of the following describes the C-horizon?",
+    "options": {
+      "A": "It is the primary zone of illuviation for silicate clays.",
+      "B": "It is little affected by pedogenic weathering processes and lacks properties of O, A, E, or B horizons.",
+      "C": "It is always found directly on the soil surface.",
+      "D": "It represents the intact, unweathered bedrock (R horizon)."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 25,
+    "topic": "Soil Morphology Suffixes",
+    "question": "In horizon description, what does the lowercase suffix 't' indicate when appended to a master horizon (e.g., Bt)?",
+    "options": {
+      "A": "A buried horizon.",
+      "B": "Gleying under highly reduced conditions.",
+      "C": "Textural accumulation of silicate clay.",
+      "D": "Ploughing or other agricultural disturbance."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 26,
+    "topic": "Soil Morphology Suffixes",
+    "question": "If a soil profile description includes a 'b' suffix (e.g., Ab), this signifies:",
+    "options": {
+      "A": "A buried horizon.",
+      "B": "A horizon with nodular concretions.",
+      "C": "An horizon dominated by biological activity.",
+      "D": "A heavily leached horizon."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 27,
+    "topic": "Soil Morphology Suffixes",
+    "question": "Arabic numerals are used in soil profile descriptions primarily to indicate:",
+    "options": {
+      "A": "The moisture content of the soil.",
+      "B": "A discontinuity or break in the lithology/parent material.",
+      "C": "The Munsell color value.",
+      "D": "The strength of the soil structure."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 28,
+    "topic": "Soil Colour",
+    "question": "In the Munsell Colour Chart, which attribute describes the dominant spectral colour related to the dominant wavelength of light?",
+    "options": {
+      "A": "Value",
+      "B": "Chroma",
+      "C": "Hue",
+      "D": "Mottle"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 29,
+    "topic": "Soil Colour",
+    "question": "When expressing soil colour using the Munsell notation (e.g., 5R 4/4), what does the denominator '4' represent?",
+    "options": {
+      "A": "Hue",
+      "B": "Value",
+      "C": "Chroma",
+      "D": "Contrast"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 30,
+    "topic": "Soil Colour",
+    "question": "In terms of abundance, soil mottles are described as 'common' when they occupy what percentage of the exposed surface?",
+    "options": {
+      "A": "Less than 2%",
+      "B": "Between 2% and 20%",
+      "C": "More than 20%",
+      "D": "Exactly 50%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 31,
+    "topic": "Soil Texture",
+    "question": "According to the USDA classification mentioned in the text, what is the size range for sand particles?",
+    "options": {
+      "A": "2mm to 0.05mm",
+      "B": "0.05mm to 0.002mm",
+      "C": "Less than 0.002mm",
+      "D": "Greater than 2mm"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 32,
+    "topic": "Soil Texture",
+    "question": "A soil sample that contains 85% sand is broadly categorized as:",
+    "options": {
+      "A": "Loam",
+      "B": "Sandy soil",
+      "C": "Clayey soil",
+      "D": "Silt loam"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "topic": "Soil Texture",
+    "question": "A soil must contain more than what percentage of clay to be termed a 'Clayey Soil'?",
+    "options": {
+      "A": "15%",
+      "B": "25%",
+      "C": "40%",
+      "D": "60%"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 34,
+    "topic": "Soil Structure",
+    "question": "Which soil structure type is characterized by particles arranged along a vertical axis with relatively flat vertical dimensions and sharp edges?",
+    "options": {
+      "A": "Platy",
+      "B": "Prismatic",
+      "C": "Columnar",
+      "D": "Granular"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "topic": "Soil Structure",
+    "question": "How does a columnar soil structure differ from a prismatic structure?",
+    "options": {
+      "A": "Columnar structures have sharp, angular edges, while prismatic structures have rounded tops.",
+      "B": "Columnar structures have sub-rounded edges or tops, while prismatic structures have sharp edges.",
+      "C": "Columnar structures are exclusively horizontal, while prismatic structures are vertical.",
+      "D": "Columnar structures are highly porous, whereas prismatic structures are non-porous."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 36,
+    "topic": "Soil Structure",
+    "question": "A three-dimensional soil structure bounded by planes that intercept at sharp angles is classified as:",
+    "options": {
+      "A": "Subangular blocky",
+      "B": "Angular blocky",
+      "C": "Platy",
+      "D": "Crumbs"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 37,
+    "topic": "Soil Structure",
+    "question": "Which spheroidal/polyhedral soil structure is distinctly characterized by being highly porous?",
+    "options": {
+      "A": "Granular",
+      "B": "Prismatic",
+      "C": "Crumbs",
+      "D": "Angular blocky"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 38,
+    "topic": "Soil Structure",
+    "question": "When a soil's structural aggregation is very indistinct and barely observable, the grade is described as:",
+    "options": {
+      "A": "Strong",
+      "B": "Moderate",
+      "C": "Weak",
+      "D": "Structureless"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 39,
+    "topic": "Soil Consistence",
+    "question": "Soil consistence evaluates the resistance of soil material to deformation. At which moisture levels is it formally described?",
+    "options": {
+      "A": "Only when saturated.",
+      "B": "Wet, Moist, and Dry conditions.",
+      "C": "Only at the permanent wilting point.",
+      "D": "Liquid and solid states only."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 40,
+    "topic": "Soil Consistence",
+    "question": "During a wet consistence test, if soil material adheres to either the thumb or forefinger but not both, it is described as:",
+    "options": {
+      "A": "Non-sticky",
+      "B": "Slightly sticky",
+      "C": "Sticky",
+      "D": "Very sticky"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 41,
+    "topic": "Soil Consistence",
+    "question": "Plasticity in soil consistence is determined by:",
+    "options": {
+      "A": "Crushing the soil between the hands.",
+      "B": "Measuring its electrical conductivity.",
+      "C": "Rolling the soil within the fingers or palm to form a wire.",
+      "D": "Observing how rapidly it absorbs a water drop."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 42,
+    "topic": "Soil Consistence",
+    "question": "When assessing soil consistence at moist conditions, a soil that crushes readily under gentle pressure but coheres when pressed together is termed:",
+    "options": {
+      "A": "Loose",
+      "B": "Friable",
+      "C": "Firm",
+      "D": "Extremely firm"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 43,
+    "topic": "Soil Consistence",
+    "question": "In dry conditions, soil consistence is primarily characterized by:",
+    "options": {
+      "A": "Stickiness and plasticity.",
+      "B": "Brittleness and maximum resistance to pressure.",
+      "C": "Its ability to form long wires.",
+      "D": "High hydraulic conductivity."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 44,
+    "topic": "Horizon Boundaries",
+    "question": "An horizon boundary that is between 2.5cm and 6.4cm wide is classified as:",
+    "options": {
+      "A": "Abrupt",
+      "B": "Clear",
+      "C": "Gradual",
+      "D": "Diffuse"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 45,
+    "topic": "Horizon Boundaries",
+    "question": "If the boundary line between two soil horizons features pockets that are wider than their depth, the topography of the boundary is described as:",
+    "options": {
+      "A": "Smooth",
+      "B": "Wavy / Undulating",
+      "C": "Irregular",
+      "D": "Broken"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 46,
+    "topic": "Soil Classification History",
+    "question": "Which early pedologist is credited with discovering the concept of soil as a natural body on the landscape in 1883, heavily emphasizing climate and vegetation?",
+    "options": {
+      "A": "V.V. Dokuchaev",
+      "B": "C.F. Marbut",
+      "C": "Hans Jenny",
+      "D": "Eugene Hilgard"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 47,
+    "topic": "Soil Classification Concepts",
+    "question": "Under Sibirtsev's early zonality concept, soils that are formed in the same area as zonal types but lack well-developed characteristics are called:",
+    "options": {
+      "A": "Zonal soils",
+      "B": "Azonal soils",
+      "C": "Intrazonal soils",
+      "D": "Alluvial soils"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 48,
+    "topic": "Soil Classification Concepts",
+    "question": "Intrazonal soils are primarily influenced by:",
+    "options": {
+      "A": "Exclusively macro-climate factors.",
+      "B": "Only the age of the bedrock.",
+      "C": "Local factors other than climate, such as water level (poor drainage).",
+      "D": "Complete lack of vegetation."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 49,
+    "topic": "Soil Taxonomy",
+    "question": "The USDA Soil Taxonomy system is a hierarchical method. Which of the following is the highest level of classification?",
+    "options": {
+      "A": "Sub-order",
+      "B": "Great group",
+      "C": "Family",
+      "D": "Order"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 50,
+    "topic": "Soil Taxonomy",
+    "question": "The World Reference Base (WRB) for soil resources, adopted internationally, currently features how many reference soil groups (orders) as mentioned in the text?",
+    "options": {
+      "A": "12",
+      "B": "32",
+      "C": "45",
+      "D": "60"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 51,
+    "topic": "Characteristics of Soil Classification",
+    "question": "A fundamental characteristic of a modern, good soil classification system is that it should be based on:",
+    "options": {
+      "A": "Theories of soil genesis exclusively.",
+      "B": "Soil properties as observed on the field.",
+      "C": "The underlying geology and nothing else.",
+      "D": "The plant sciences and climatology."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 52,
+    "topic": "Soil Classification in Nigeria",
+    "question": "In the review of soil classification in Nigeria, Moss (1957) predominantly worked on soils formed over which type of geology?",
+    "options": {
+      "A": "Basement complex rocks",
+      "B": "Sedimentary regions",
+      "C": "Volcanic ash",
+      "D": "Glacial till"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 53,
+    "topic": "Soil Classification in Nigeria",
+    "question": "Smyth and Montgomery (1962) focused their extensive soil classification work in Central Western Nigeria on:",
+    "options": {
+      "A": "Sedimentary rocks",
+      "B": "Crystalline/Basement complex rocks",
+      "C": "Coastal alluvial deposits",
+      "D": "Aeolian sand dunes"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 54,
+    "topic": "Soil Classification in Nigeria",
+    "question": "In the classification by Smyth and Montgomery, how many soil series were identified on the basement complex rocks of South-Western Nigeria?",
+    "options": {
+      "A": "32",
+      "B": "45",
+      "C": "60",
+      "D": "105"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 55,
+    "topic": "Soil Classification in Nigeria",
+    "question": "The basic unit of classification in the Nigerian system mapping, defined as a group of soil profiles developed from a type of parent material with similar characteristics, is the:",
+    "options": {
+      "A": "Soil Order",
+      "B": "Soil Association",
+      "C": "Soil Series",
+      "D": "Soil Family"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 56,
+    "topic": "Soil Classification in Nigeria",
+    "question": "Which criterion was NOT explicitly listed as one of the four main criteria used to distinguish the 45 soil series on basement complex rocks?",
+    "options": {
+      "A": "Morphology (appearance of profile)",
+      "B": "Drainage",
+      "C": "Parent material (position along landscape)",
+      "D": "Mean annual precipitation"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 57,
+    "topic": "Soil Drainage Classes",
+    "question": "In the Nigerian classification system, 'Swampy soils' are characterized by having a water table at what depth for most of the year?",
+    "options": {
+      "A": "Below 120cm",
+      "B": "Between 30cm and 120cm",
+      "C": "At the surface or less than 30cm from the surface",
+      "D": "Below bedrock"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 58,
+    "topic": "Soil Drainage Classes",
+    "question": "A poorly drained soil due to the soil profile not allowing water to percolate, leading to water accumulation within the profile, forms a:",
+    "options": {
+      "A": "Permanent wilting point",
+      "B": "Perched water table",
+      "C": "Groundwater aquifer",
+      "D": "Capillary fringe"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 59,
+    "topic": "Soil Inclusions",
+    "question": "When testing soil nodules (inclusions), if applying HCl produces effervescence, the cementing agent is likely:",
+    "options": {
+      "A": "Silica",
+      "B": "Manganese dioxide",
+      "C": "A carbonate",
+      "D": "A soluble salt"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 60,
+    "topic": "Soil Inclusions",
+    "question": "If NaOH is used and the cementing agent of a nodule dissolves, the agent is determined to be:",
+    "options": {
+      "A": "Carbonate",
+      "B": "Silica",
+      "C": "Iron oxide",
+      "D": "Organic matter"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 61,
+    "topic": "Soil Inclusions",
+    "question": "When applying H2O2 to a soil nodule, effervescence indicates the presence of which cementing agent?",
+    "options": {
+      "A": "Manganese (Mn)",
+      "B": "Calcium carbonate",
+      "C": "Silica",
+      "D": "Gypsum"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 62,
+    "topic": "Soil Associations in Nigeria",
+    "question": "The 'Iwo Association' is a group of well-drained soils classified based on which underlying bedrock?",
+    "options": {
+      "A": "Medium grained granites and gneiss",
+      "B": "Coarse grained granites and gneiss",
+      "C": "Fine grained biotite schists",
+      "D": "Amphibolites complex rocks"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 63,
+    "topic": "Soil Associations in Nigeria",
+    "question": "Which soil association is characterized by fine-grained biotite schists and gneiss bedrock?",
+    "options": {
+      "A": "Ondo Association",
+      "B": "Egbeda Association",
+      "C": "Itagunmodi Association",
+      "D": "Mamu Association"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 64,
+    "topic": "Soil Associations in Nigeria",
+    "question": "The 'Itagunmodi Association' is distinctively formed over which type of parent rock?",
+    "options": {
+      "A": "Quartzite schists",
+      "B": "Sericite schists",
+      "C": "Amphibolites complex rocks",
+      "D": "Sedimentary sandstone"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 65,
+    "topic": "Topographic Sequences in Nigeria",
+    "question": "Soils associated with bare rock, usually found at the upper slope and characterized as shallow and susceptible to rapid erosion, are termed:",
+    "options": {
+      "A": "Skeletal soils",
+      "B": "Alluvial soils",
+      "C": "Valley bottom soils",
+      "D": "Deep colluvial soils"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 66,
+    "topic": "Topographic Sequences in Nigeria",
+    "question": "Hill creep soils (colluvial materials transported by gravity and water) typically lack which of the following features?",
+    "options": {
+      "A": "Large rocks or boulders",
+      "B": "Concretions or nodules of iron",
+      "C": "Sandy textures",
+      "D": "Location on a sloping landscape"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 67,
+    "topic": "Topographic Sequences in Nigeria",
+    "question": "Sedentary or residual soils in South-Western Nigeria generally occupy what section of the landscape?",
+    "options": {
+      "A": "Valley bottoms only",
+      "B": "The lowest break of slope",
+      "C": "The upper and middle sections",
+      "D": "Active river channels"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 68,
+    "topic": "Topographic Sequences in Nigeria",
+    "question": "Which of the following describes 'Hill Wash' soils?",
+    "options": {
+      "A": "They are eluvial in nature and sit atop bare rock.",
+      "B": "They develop from sedentary layers covering the lower middle slope and are illuvial in nature.",
+      "C": "They are completely saturated swamp soils year-round.",
+      "D": "They contain massive iron concretions and boulders."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 69,
+    "topic": "Soil Series classification by Texture",
+    "question": "Within the Sedentary/Residual soils, the fine-textured, red clay soil series is known as:",
+    "options": {
+      "A": "Iwo",
+      "B": "Ondo",
+      "C": "Egbeda",
+      "D": "Fagbo"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 70,
+    "topic": "Soil Classification in Nigeria",
+    "question": "Which soil series serves as a transition between hill wash and valley bottom, characterized by a root-restricting layer?",
+    "options": {
+      "A": "Gambari Series",
+      "B": "Oba Series",
+      "C": "Apomu Series",
+      "D": "Asejire Series"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 71,
+    "topic": "Soil Series classification by Texture",
+    "question": "According to the notes, Associations 2, 3, and 4 (such as Egbeda) are generally characterized by what kind of texture?",
+    "options": {
+      "A": "Sandy texture",
+      "B": "Clayey texture",
+      "C": "Pure silt",
+      "D": "Gravelly texture"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 72,
+    "topic": "Review of Soil Classification",
+    "question": "In the poorly drained category, the Jago Association represents intermediary soils. Which series is the clayey version within this association?",
+    "options": {
+      "A": "Matako Series",
+      "B": "Adio Series",
+      "C": "Oshun Series",
+      "D": "Ikire Series"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 73,
+    "topic": "Review of Soil Classification",
+    "question": "Inherently poor drainage soils forming over diorite and granodiorite with expanding clay minerals belong to which association?",
+    "options": {
+      "A": "Jago Association",
+      "B": "Origo Association",
+      "C": "Iwo Association",
+      "D": "Mamu Association"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 74,
+    "topic": "Inclusions and Pores",
+    "question": "When describing soil pores by size, a 'fine' pore has a diameter across the smallest dimension of:",
+    "options": {
+      "A": "0.1 - 0.5mm",
+      "B": "0.5 - 2.0mm",
+      "C": "2.0 - 5.0mm",
+      "D": "> 5.0mm"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 75,
+    "topic": "Basic Physical Concepts",
+    "question": "The formula n = 1 - (Db / Dp) is used to calculate which soil physical property?",
+    "options": {
+      "A": "Gravimetric moisture content",
+      "B": "Total porosity",
+      "C": "Degree of saturation",
+      "D": "Volumetric water content"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 76,
+    "topic": "Basic Physical Concepts",
+    "question": "How is the Volumetric Water Content (Cv or \u03b8) related to the Gravimetric Moisture Content (Cw)?",
+    "options": {
+      "A": "Cv = Cw + Db",
+      "B": "Cv = Cw / Db",
+      "C": "Cv = Cw \u00d7 Db (assuming density of water is 1 g/cm\u00b3)",
+      "D": "Cv = Cw \u00d7 Dp"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 77,
+    "topic": "Basic Physical Concepts",
+    "question": "A soil sample has a bulk volume of 10cm\u00b3 and weighs 15.0g when completely dry. What is its bulk density (Db)?",
+    "options": {
+      "A": "1.5 g/cm\u00b3",
+      "B": "0.66 g/cm\u00b3",
+      "C": "2.65 g/cm\u00b3",
+      "D": "150 g/cm\u00b3"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 78,
+    "topic": "Particle Size Analysis",
+    "question": "Mechanical analysis of soil utilizes a principle that relates the terminal velocity of a settling spherical particle to the square of its diameter. What is this law called?",
+    "options": {
+      "A": "Darcy's Law",
+      "B": "Stokes' Law",
+      "C": "Poiseuille's Law",
+      "D": "Fick's Law"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 79,
+    "topic": "Particle Size Analysis",
+    "question": "Which of the following is NOT an assumption of Stokes' Law?",
+    "options": {
+      "A": "Particles must be rigid and smooth.",
+      "B": "Particles must fall independent of each other.",
+      "C": "There must be slipping between the particles and the liquid.",
+      "D": "Fluid viscosity remains the only resistance to fall."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 80,
+    "topic": "Particle Size Analysis",
+    "question": "Prior to mechanical analysis, chemical dispersion is necessary to separate clusters. Which chemical is commonly used as a dispersion agent to provide monovalent cations?",
+    "options": {
+      "A": "Calcium carbonate",
+      "B": "Sodium hexametaphosphate (Calgon)",
+      "C": "Hydrogen peroxide",
+      "D": "Dilute hydrochloric acid"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 81,
+    "topic": "Particle Size Analysis",
+    "question": "In soil sample preparation for particle size analysis, what is the purpose of adding hydrogen peroxide (H2O2)?",
+    "options": {
+      "A": "To remove carbonates",
+      "B": "To remove organic matter as a cementing agent",
+      "C": "To dissolve silicate clays",
+      "D": "To increase fluid viscosity"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 82,
+    "topic": "Particle Size Analysis",
+    "question": "What is the standard mesh sieve size used to separate coarse fragments from the 'fine earth' fraction before further particle size analysis?",
+    "options": {
+      "A": "0.5 mm",
+      "B": "1.0 mm",
+      "C": "2.0 mm",
+      "D": "5.0 mm"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 83,
+    "topic": "Infiltration",
+    "question": "The process of water entering into the soil generally through downward flow across the soil surface is known as:",
+    "options": {
+      "A": "Percolation",
+      "B": "Infiltration",
+      "C": "Leaching",
+      "D": "Hydration"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 84,
+    "topic": "Infiltration",
+    "question": "Which two force fields are primarily responsible for driving infiltration?",
+    "options": {
+      "A": "Gravitational force and Osmotic force",
+      "B": "Matric force (capillarity) and Gravitational force",
+      "C": "Overburden potential and Pressure potential",
+      "D": "Electrostatic force and Matric force"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 85,
+    "topic": "Infiltration",
+    "question": "As time progresses from the onset of rain, the soil infiltrability (infiltration capacity) generally:",
+    "options": {
+      "A": "Starts low and increases steadily.",
+      "B": "Remains perfectly constant.",
+      "C": "Starts high, decreases, and approaches a constant rate.",
+      "D": "Starts low, spikes, and then drops to zero."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 86,
+    "topic": "Factors Influencing Infiltrability",
+    "question": "How does initial moisture content affect cumulative infiltration under shallow ponding?",
+    "options": {
+      "A": "A wetter soil has a higher initial infiltration rate than a dry soil.",
+      "B": "A dry soil has a higher/faster initial infiltration rate than a wet soil.",
+      "C": "Initial moisture content has no effect on infiltration.",
+      "D": "Dry soils repel water completely, leading to zero infiltration."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 87,
+    "topic": "Factors Influencing Infiltrability",
+    "question": "If a subsurface clay layer exists within a soil profile, how will it affect infiltration?",
+    "options": {
+      "A": "It will act as a bottleneck, retarding infiltration owing to lower saturated hydraulic conductivity.",
+      "B": "It will significantly increase the overall infiltration rate due to high matric suction.",
+      "C": "It will have no effect unless the topsoil is completely eroded.",
+      "D": "It will cause the infiltration rate to become permanently zero."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 88,
+    "topic": "Soil Water Movement",
+    "question": "Fundamental theories defining infiltration from a horizontal and vertical perspective were developed by:",
+    "options": {
+      "A": "Dokuchaev and Marbut",
+      "B": "Philip, and Green & Ampt",
+      "C": "Smyth and Montgomery",
+      "D": "Stokes and Poiseuille"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 89,
+    "topic": "Soil Water Movement",
+    "question": "Flow of water through a saturated porous medium is primarily governed by:",
+    "options": {
+      "A": "Stokes' Law",
+      "B": "Darcy's Law",
+      "C": "Fick's Law",
+      "D": "Boyle's Law"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 90,
+    "topic": "Soil Water Movement",
+    "question": "In Darcy's equation (q = K \u00d7 \u0394H/L), the term 'K' represents:",
+    "options": {
+      "A": "Hydraulic gradient",
+      "B": "Volume flux",
+      "C": "Hydraulic conductivity",
+      "D": "Cross-sectional area"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 91,
+    "topic": "Soil Water Movement",
+    "question": "To determine the flow between a single pore channel in a soil, which law is used?",
+    "options": {
+      "A": "Darcy's Law",
+      "B": "Stokes' Law",
+      "C": "Poiseuille's Law",
+      "D": "Buckingham's Equation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 92,
+    "topic": "Energy State of Soil Water",
+    "question": "Water flow in soil is caused by a driving force resulting from an effective potential gradient. Water will always move from:",
+    "options": {
+      "A": "Lower energy level to a higher energy level.",
+      "B": "Higher energy level to a lower energy level.",
+      "C": "High osmotic pressure to low osmotic pressure.",
+      "D": "Areas of high compaction to low compaction exclusively."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 93,
+    "topic": "Energy State of Soil Water",
+    "question": "Which component of total soil water potential is constant regardless of whether the soil is saturated or unsaturated?",
+    "options": {
+      "A": "Matric potential",
+      "B": "Pressure potential",
+      "C": "Gravitational potential",
+      "D": "Osmotic potential"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 94,
+    "topic": "Energy State of Soil Water",
+    "question": "Which potential is associated with the attraction of soil surfaces for water and the attraction of water molecules to each other in an unsaturated state?",
+    "options": {
+      "A": "Pressure potential",
+      "B": "Overburden potential",
+      "C": "Gravitational potential",
+      "D": "Matric (capillary) potential"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 95,
+    "topic": "Energy State of Soil Water",
+    "question": "Osmotic potential in soil water arises primarily due to:",
+    "options": {
+      "A": "The elevation of the water relative to a reference datum.",
+      "B": "The presence of solutes (salts) in the soil water.",
+      "C": "The submergence of soil under a free water surface.",
+      "D": "The swelling of expansive clays like smectite."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 96,
+    "topic": "Energy State of Soil Water",
+    "question": "Pressure potential (hydrostatic potential) is typically found under which soil condition?",
+    "options": {
+      "A": "Severely dry soil at the permanent wilting point.",
+      "B": "Unsaturated soil undergoing rapid evaporation.",
+      "C": "Saturated soil beneath a water table.",
+      "D": "Highly saline desert soils."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 97,
+    "topic": "Soil Water Redistribution",
+    "question": "The downward movement of water within the unsaturated soil after infiltration has stopped is called:",
+    "options": {
+      "A": "Percolation",
+      "B": "Redistribution",
+      "C": "Evapotranspiration",
+      "D": "Gleization"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 98,
+    "topic": "Soil Water Redistribution",
+    "question": "Unsaturated water flow during redistribution is mathematically described by which equation?",
+    "options": {
+      "A": "Darcy's Law",
+      "B": "Stokes-Navier Equation",
+      "C": "Buckingham-Darcy Equation",
+      "D": "Green-Ampt Equation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 99,
+    "topic": "Soil Moisture Retention",
+    "question": "The curve that expresses soil moisture content as a function of matric potential (suction) is known as the:",
+    "options": {
+      "A": "Infiltration capacity curve",
+      "B": "Soil moisture retention (pF) curve",
+      "C": "Cumulative drainage curve",
+      "D": "Thermal expansion curve"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 100,
+    "topic": "Soil Moisture Retention",
+    "question": "What is the phenomenon called where the relationship between soil moisture content and suction depends on the history of the soil (i.e., whether it is wetting or drying)?",
+    "options": {
+      "A": "Anisotropy",
+      "B": "Capillarity",
+      "C": "Hysteresis",
+      "D": "Osmosis"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 101,
+    "topic": "Basic Physical Concepts",
+    "question": "The constant value often assumed for the particle density (Dp) of most mineral soils, reflecting the density of quartz, is approximately:",
+    "options": {
+      "A": "1.00 g/cm³",
+      "B": "1.30 g/cm³",
+      "C": "2.65 g/cm³",
+      "D": "3.10 g/cm³"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 102,
+    "topic": "Basic Physical Concepts",
+    "question": "Gravimetric moisture content (W or Cw) is mathematically defined as the ratio of:",
+    "options": {
+      "A": "Mass of water to the total volume of soil",
+      "B": "Volume of water to the volume of voids",
+      "C": "Mass of water to the mass of dry soil solids",
+      "D": "Mass of water to the total mass of the wet soil"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 103,
+    "topic": "Basic Physical Concepts",
+    "question": "Which mathematical relationship correctly links total porosity (n) to the void ratio (e)?",
+    "options": {
+      "A": "n = e / (1 + e)",
+      "B": "n = (1 + e) / e",
+      "C": "n = e / (1 - e)",
+      "D": "n = 1 - (e / 100)"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 104,
+    "topic": "Basic Physical Concepts",
+    "question": "If a 10cm³ soil sample weighs 15g after oven drying, what is its bulk density (Db)?",
+    "options": {
+      "A": "0.66 g/cm³",
+      "B": "1.50 g/cm³",
+      "C": "2.65 g/cm³",
+      "D": "150 g/cm³"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 105,
+    "topic": "Basic Physical Concepts",
+    "question": "How is the Volumetric Moisture Content (Cv) derived from the Gravimetric Moisture Content (Cw)?",
+    "options": {
+      "A": "Cv = Cw × (Particle Density / Bulk Density)",
+      "B": "Cv = Cw × (Bulk Density / Density of Water)",
+      "C": "Cv = Cw + Porosity",
+      "D": "Cv = (Cw / Bulk Density) × 100"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 106,
+    "topic": "Basic Physical Concepts",
+    "question": "The Degree of Saturation of a soil sample is defined as the ratio of the volume of water to the:",
+    "options": {
+      "A": "Total volume of the soil",
+      "B": "Mass of the dry soil",
+      "C": "Volume of the pores (voids)",
+      "D": "Volume of the solid particles"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 107,
+    "topic": "Particle Size Analysis",
+    "question": "In soil mechanical analysis, what is the universally accepted size limit for clay particles according to the USDA and ISSS?",
+    "options": {
+      "A": "Less than 0.05 mm",
+      "B": "Less than 0.002 mm (2 microns)",
+      "C": "Between 0.002 mm and 0.05 mm",
+      "D": "Less than 2.0 mm"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 108,
+    "topic": "Particle Size Analysis",
+    "question": "Which of the following primary minerals are predominantly found in the sand fraction of soils?",
+    "options": {
+      "A": "Secondary aluminosilicates and iron oxides",
+      "B": "Smectite and kaolinite",
+      "C": "Quartz, feldspar, and mica",
+      "D": "Calcium carbonates and gypsum"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 109,
+    "topic": "Particle Size Analysis",
+    "question": "Which soil fraction is considered the most chemically and physically reactive due to its high specific surface area?",
+    "options": {
+      "A": "Coarse sand",
+      "B": "Fine sand",
+      "C": "Silt",
+      "D": "Clay"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 110,
+    "topic": "Particle Size Analysis",
+    "question": "During the preparation of a soil sample for mechanical analysis, what is the specific role of Sodium Hexametaphosphate (Calgon)?",
+    "options": {
+      "A": "To act as a cementing agent",
+      "B": "To dissolve soil organic matter",
+      "C": "To act as a dispersion agent by providing monovalent cations that replace polyvalent cations",
+      "D": "To increase the viscosity of the suspension fluid"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 111,
+    "topic": "Particle Size Analysis",
+    "question": "In Stokes' Law, the terminal velocity of a settling particle in a fluid is proportional to:",
+    "options": {
+      "A": "The square root of its diameter",
+      "B": "The inverse of its radius",
+      "C": "The square of the particle's diameter",
+      "D": "The fluid's dynamic viscosity squared"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 112,
+    "topic": "Particle Size Analysis",
+    "question": "Which of the following is an explicit assumption of Stokes' Law in the context of soil sedimentation?",
+    "options": {
+      "A": "Particles must be highly irregular and porous.",
+      "B": "There is significant slipping between the particles and the liquid.",
+      "C": "The particles must be large compared to the liquid molecules and fall independently.",
+      "D": "Fluid viscosity changes rapidly as particles fall."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 113,
+    "topic": "Particle Size Analysis",
+    "question": "The two standard laboratory methods used to evaluate the proportion of different soil separates based on Stokes' Law are:",
+    "options": {
+      "A": "Centrifugation and X-ray diffraction",
+      "B": "Pipette method and Hydrometer method",
+      "C": "Core ring method and Tensiometry",
+      "D": "Wet sieving and Dry sieving"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 114,
+    "topic": "Particle Size Analysis",
+    "question": "In soil classification procedures, particles larger than what diameter are typically removed using a sieve before textural analysis begins (i.e., not part of the 'fine earth' fraction)?",
+    "options": {
+      "A": "0.5 mm",
+      "B": "1.0 mm",
+      "C": "2.0 mm",
+      "D": "5.0 mm"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 115,
+    "topic": "Infiltration",
+    "question": "The maximum rate at which water can enter a specific soil under a given condition is termed:",
+    "options": {
+      "A": "Percolation rate",
+      "B": "Hydraulic conductivity",
+      "C": "Infiltration capacity (Infiltrability)",
+      "D": "Volume flux"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 116,
+    "topic": "Infiltration",
+    "question": "When observing the time dependence of infiltrability from the onset of rain, the infiltration rate typically:",
+    "options": {
+      "A": "Remains constant regardless of time",
+      "B": "Starts low and gradually increases to a maximum",
+      "C": "Starts high, decreases rapidly, and approaches a steady asymptotic constant rate",
+      "D": "Fluctuates randomly based on atmospheric pressure"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 117,
+    "topic": "Infiltration",
+    "question": "How does the initial moisture content of a soil affect its infiltration process under shallow ponding?",
+    "options": {
+      "A": "A dry soil will have a higher (faster) initial infiltration rate compared to a wet soil.",
+      "B": "A wet soil will have a higher (faster) initial infiltration rate compared to a dry soil.",
+      "C": "Initial moisture content has no measurable effect on the infiltration rate.",
+      "D": "A completely saturated soil has the highest possible initial infiltration rate."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 118,
+    "topic": "Infiltration",
+    "question": "If a soil profile contains a coarse-textured sandy layer located deep beneath a finer loam surface layer, how might this affect infiltration?",
+    "options": {
+      "A": "It will have no effect on the downward flow of water.",
+      "B": "It will temporarily retard infiltration due to differences in matric suction between the layers.",
+      "C": "It will instantly draw water down due to high capillary forces in the sand.",
+      "D": "It will increase the infiltration rate indefinitely."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 119,
+    "topic": "Infiltration",
+    "question": "Fundamental mathematical work and theories concerning the infiltration of water into soil were notably carried out by:",
+    "options": {
+      "A": "Dokuchaev and Jenny",
+      "B": "Philip, and Green & Ampt",
+      "C": "Stokes and Poiseuille",
+      "D": "Bowen and Goldich"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 120,
+    "topic": "Soil Water Movement",
+    "question": "The flow of water through a saturated porous medium is mathematically governed by:",
+    "options": {
+      "A": "Fick's Law",
+      "B": "Stokes' Law",
+      "C": "Darcy's Law",
+      "D": "Boyle's Law"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 121,
+    "topic": "Soil Water Movement",
+    "question": "In Darcy's equation (q = K \u0394H / L), the term \u0394H / L represents the:",
+    "options": {
+      "A": "Volume flux",
+      "B": "Hydraulic gradient",
+      "C": "Saturated hydraulic conductivity",
+      "D": "Cross-sectional area"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 122,
+    "topic": "Soil Water Movement",
+    "question": "When examining water flow through a single pore channel in the soil, which physical law states that the flow rate is proportional to the fourth power of the pore's radius?",
+    "options": {
+      "A": "Poiseuille's Law",
+      "B": "Darcy's Law",
+      "C": "Stokes' Law",
+      "D": "Buckingham's Law"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 123,
+    "topic": "Soil Water Movement",
+    "question": "For unsaturated soil water flow, Darcy's equation is adapted into the:",
+    "options": {
+      "A": "Green-Ampt equation",
+      "B": "Darcy-Buckingham equation",
+      "C": "Navier-Stokes equation",
+      "D": "Universal Soil Loss Equation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 124,
+    "topic": "Energy State of Soil Water",
+    "question": "Water flow in soil is caused by a driving force resulting from a potential gradient. Water consistently moves from a:",
+    "options": {
+      "A": "Lower energy level to a higher energy level",
+      "B": "Higher energy level to a lower energy level",
+      "C": "Zone of high capillary tension to low capillary tension",
+      "D": "Zone of low pressure potential to high pressure potential"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 125,
+    "topic": "Energy State of Soil Water",
+    "question": "Which specific soil water potential component is defined by the elevation of the point under consideration relative to a reference datum?",
+    "options": {
+      "A": "Osmotic potential",
+      "B": "Pressure potential",
+      "C": "Gravitational potential",
+      "D": "Matric potential"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 126,
+    "topic": "Energy State of Soil Water",
+    "question": "The matric potential (\u03a8m) in an unsaturated soil profile is universally considered to be:",
+    "options": {
+      "A": "Always positive",
+      "B": "Always zero",
+      "C": "Always negative",
+      "D": "Equal to the gravitational potential"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 127,
+    "topic": "Energy State of Soil Water",
+    "question": "Matric potential arises from two primary forces: the attraction of soil surfaces for water (adhesion) and:",
+    "options": {
+      "A": "The attraction of water molecules to each other (cohesion)",
+      "B": "The gravitational pull of the earth",
+      "C": "The chemical repulsion of clay minerals",
+      "D": "The osmotic pressure of dissolved salts"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 128,
+    "topic": "Energy State of Soil Water",
+    "question": "Which component of total soil water potential only becomes significant when there is a high concentration of soluble salts, and involves a semi-permeable membrane concept?",
+    "options": {
+      "A": "Matric potential",
+      "B": "Osmotic potential",
+      "C": "Overburden potential",
+      "D": "Pressure potential"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 129,
+    "topic": "Energy State of Soil Water",
+    "question": "Overburden potential (\u03a9) is typically a significant factor in which type of soils?",
+    "options": {
+      "A": "Highly leached sandy soils",
+      "B": "Peat and organic bog soils",
+      "C": "Swelling soils containing expansive clays",
+      "D": "Calcareous desert soils"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 130,
+    "topic": "Energy State of Soil Water",
+    "question": "When expressing soil water potential per unit mass, the appropriate unit of measurement is:",
+    "options": {
+      "A": "Centimeters (cm)",
+      "B": "Pascals (Pa)",
+      "C": "Joules per kilogram (J/kg)",
+      "D": "Atmospheres (atm)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 131,
+    "topic": "Energy State of Soil Water",
+    "question": "A Tensiometer is a field instrument commonly used to measure which type of soil water potential?",
+    "options": {
+      "A": "Osmotic potential",
+      "B": "Gravitational potential",
+      "C": "Pressure potential",
+      "D": "Matric potential (suction)"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 132,
+    "topic": "Energy State of Soil Water",
+    "question": "What is the primary physical component of a tensiometer that interfaces directly with the soil?",
+    "options": {
+      "A": "A semi-permeable reverse-osmosis membrane",
+      "B": "A porous ceramic cup",
+      "C": "A mercury manometer",
+      "D": "A heated thermocouple"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 133,
+    "topic": "Soil Moisture Retention",
+    "question": "The 'pF Curve' or Soil Moisture Characteristic Curve expresses the relationship between:",
+    "options": {
+      "A": "Soil moisture content and matric potential (water pressure)",
+      "B": "Infiltration rate and time",
+      "C": "Soil temperature and evaporation rate",
+      "D": "Hydraulic conductivity and soil depth"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 134,
+    "topic": "Soil Moisture Retention",
+    "question": "Field Capacity is traditionally defined as the moisture content of a soil after which process has essentially stopped?",
+    "options": {
+      "A": "Evapotranspiration",
+      "B": "Gravitational drainage (usually after 2-3 days)",
+      "C": "Capillary rise",
+      "D": "Osmotic absorption"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 135,
+    "topic": "Soil Moisture Retention",
+    "question": "The soil moisture content at which plants permanently wilt and cannot recover turgor, typically corresponding to a suction of 15 bars, is called the:",
+    "options": {
+      "A": "Available Water Capacity",
+      "B": "Field Capacity",
+      "C": "Permanent Wilting Point",
+      "D": "Air-entry value"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 136,
+    "topic": "Soil Moisture Retention",
+    "question": "The phenomenon where the soil moisture retention curve differs depending on whether the soil is absorbing water (wetting) or draining (drying) is called:",
+    "options": {
+      "A": "Capillarity",
+      "B": "Hysteresis",
+      "C": "Tortuosity",
+      "D": "Isomorphism"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 137,
+    "topic": "Soil Moisture Retention",
+    "question": "Due to hysteresis, at a specific given matric potential (suction), the moisture content during the desorption (drying) phase is:",
+    "options": {
+      "A": "Equal to the sorption (wetting) phase",
+      "B": "Less than the sorption (wetting) phase",
+      "C": "Greater than the sorption (wetting) phase",
+      "D": "Zero"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 138,
+    "topic": "Soil Water Redistribution",
+    "question": "Following infiltration, the downward movement of water in unsaturated soil (redistribution) occurs primarily due to:",
+    "options": {
+      "A": "Osmotic gradients and plant uptake",
+      "B": "Gravity and suction gradients",
+      "C": "Evaporation and pressure potentials",
+      "D": "Overburden pressure exclusively"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 139,
+    "topic": "Pedology Terminology",
+    "question": "In soil morphology, what is a 'ped'?",
+    "options": {
+      "A": "A single, unattached sand grain",
+      "B": "A disturbed soil clod created by ploughing",
+      "C": "A natural soil aggregate or structural unit",
+      "D": "A hardened concretion of iron oxide"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 140,
+    "topic": "Pedology Terminology",
+    "question": "A disturbed soil structure, typically formed by artificial means such as tillage or digging, is correctly referred to as a:",
+    "options": {
+      "A": "Ped",
+      "B": "Clod",
+      "C": "Concretion",
+      "D": "Nodule"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 141,
+    "topic": "Soil Morphology",
+    "question": "Which master horizon is characterized by the accumulation of illuvial silicate clays, iron, aluminum, or humus?",
+    "options": {
+      "A": "O-Horizon",
+      "B": "E-Horizon",
+      "C": "B-Horizon",
+      "D": "C-Horizon"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 142,
+    "topic": "Soil Morphology",
+    "question": "Which of the following describes the E-Horizon?",
+    "options": {
+      "A": "It is a zone of maximum illuviation.",
+      "B": "It is the unweathered bedrock.",
+      "C": "It is an eluvial layer from which clay, iron, and aluminum have been lost.",
+      "D": "It is primarily composed of dark, humified organic matter."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 143,
+    "topic": "Soil Morphology Suffixes",
+    "question": "In horizon designation, what does the suffix 'g' denote (e.g., Bg)?",
+    "options": {
+      "A": "Accumulation of gypsum",
+      "B": "Gleying under waterlogged, highly reduced conditions",
+      "C": "Presence of a fragipan",
+      "D": "Disturbance by ploughing"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 144,
+    "topic": "Soil Morphology Suffixes",
+    "question": "What is indicated by an 'Ap' horizon?",
+    "options": {
+      "A": "A buried A-horizon",
+      "B": "An A-horizon exhibiting podzolization",
+      "C": "An A-horizon disturbed by agricultural activities (ploughing)",
+      "D": "An A-horizon with perched water"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 145,
+    "topic": "Soil Inclusions & Features",
+    "question": "A dense, iron-rich, humus-poor soil material that becomes irreversibly hard when exposed to repeated wetting and drying is known as:",
+    "options": {
+      "A": "Smectite",
+      "B": "Plinthite",
+      "C": "Kaolinite",
+      "D": "Caliche"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 146,
+    "topic": "Soil Inclusions & Features",
+    "question": "Scientific coatings on the surfaces of peds or pores, composed of translocated materials such as clay or iron, are known as:",
+    "options": {
+      "A": "Mottles",
+      "B": "Clods",
+      "C": "Cutans",
+      "D": "Nodules"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 147,
+    "topic": "Soil Inclusions & Features",
+    "question": "A specific type of cutan composed predominantly of clay minerals is referred to as an:",
+    "options": {
+      "A": "Argillan",
+      "B": "Mangans",
+      "C": "Sesquans",
+      "D": "Soluans"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 148,
+    "topic": "Pedoturbation",
+    "question": "Soil mixing that occurs due to tree roots tipping over and forming pits and mounds is classified as:",
+    "options": {
+      "A": "Faunal pedoturbation",
+      "B": "Floral pedoturbation",
+      "C": "Argilli pedoturbation",
+      "D": "Aero pedoturbation"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 149,
+    "topic": "Pedoturbation",
+    "question": "Mixing within the soil solum caused by the upward movement or upwelling currents of water is known as:",
+    "options": {
+      "A": "Seismi pedoturbation",
+      "B": "Crystallo pedoturbation",
+      "C": "Aero pedoturbation",
+      "D": "Congelli pedoturbation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 150,
+    "topic": "Soil Structure Grade",
+    "question": "If a soil profile exhibits structure that is distinct but becomes indistinct when the soil is disturbed, its structural grade is classified as:",
+    "options": {
+      "A": "Structureless",
+      "B": "Weak",
+      "C": "Moderate",
+      "D": "Strong"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 151,
+    "topic": "Soil Boundary Topography",
+    "question": "A horizon boundary characterized by a line that is almost parallel to the soil surface is described topographically as:",
+    "options": {
+      "A": "Wavy",
+      "B": "Irregular",
+      "C": "Smooth",
+      "D": "Broken"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 152,
+    "topic": "Soil Boundary Topography",
+    "question": "When a soil horizon is discontinuous and interrupted by other horizons, its boundary topography is termed:",
+    "options": {
+      "A": "Diffuse",
+      "B": "Broken",
+      "C": "Irregular",
+      "D": "Wavy"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 153,
+    "topic": "Nigerian Soil Associations",
+    "question": "In South-Western Nigeria, the well-drained soils found over coarse-grained granites and gneiss belong to which association?",
+    "options": {
+      "A": "Egbeda Association",
+      "B": "Iwo Association",
+      "C": "Itagunmodi Association",
+      "D": "Mamu Association"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 154,
+    "topic": "Nigerian Soil Associations",
+    "question": "The 'Ondo Association' of soils in Nigeria was observed to form primarily over:",
+    "options": {
+      "A": "Coarse-grained granites and gneiss",
+      "B": "Medium-grained granites and gneiss",
+      "C": "Quartzite schists",
+      "D": "Sericite schists"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 155,
+    "topic": "Nigerian Soil Associations",
+    "question": "Which of the following soil associations is mapped over Sericite schists?",
+    "options": {
+      "A": "Okemesi Association",
+      "B": "Mamu Association",
+      "C": "Egbeda Association",
+      "D": "Itagunmodi Association"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 156,
+    "topic": "Topographic Sequences in Nigeria",
+    "question": "Under the 'Hill Wash' category of illuvial materials transported and deposited at the lower middle slope, which soil series represents the sandy version?",
+    "options": {
+      "A": "Apomu Series",
+      "B": "Oba Series",
+      "C": "Iregun Series",
+      "D": "Balogun Series"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 157,
+    "topic": "Topographic Sequences in Nigeria",
+    "question": "Which series represents the clayey version of the Hill Creep soils, heavily influenced by gravity and moving water?",
+    "options": {
+      "A": "Asejire Series",
+      "B": "Balogun Series",
+      "C": "Oshun Series",
+      "D": "Ikire Series"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 158,
+    "topic": "Topographic Sequences in Nigeria",
+    "question": "The 'Ekiti Series' is classified as skeletal soil. Where is it typically found on the landscape?",
+    "options": {
+      "A": "Deep in the valley bottom",
+      "B": "Associated with bare rocks at the upper slope/hillcrest",
+      "C": "In swampy lowlands",
+      "D": "On flat, depositional floodplains"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 159,
+    "topic": "Soil Characteristics in Nigeria",
+    "question": "The Egbeda Soil Series is noted for being highly susceptible to weathering because it is:",
+    "options": {
+      "A": "Rich in resistant quartz",
+      "B": "Composed of ferromagnesian materials",
+      "C": "Entirely organic",
+      "D": "Protected by a thick layer of indurated plinthite"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 160,
+    "topic": "Review of Soil Classification",
+    "question": "In the early historical development of soil classification, the initial set of researchers primarily viewed soil as:",
+    "options": {
+      "A": "A completely independent natural body",
+      "B": "A medium for plant growth (focused on use)",
+      "C": "The outermost cover of weathered rock (geological focus)",
+      "D": "An entirely aquatic environment"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 161,
+    "topic": "Review of Soil Classification",
+    "question": "Which phase of historical soil classification concepts referred to soils primarily based on their parent rock, giving terms like 'Alluvial soils' or 'Basaltic soils'?",
+    "options": {
+      "A": "The first concept (Plant growth medium)",
+      "B": "The second concept (Geological/Weathered crust)",
+      "C": "The third concept (Dokuchaev's Natural Body)",
+      "D": "The WRB classification"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 162,
+    "topic": "Soil Taxonomy",
+    "question": "What is the lowest, most specific level in the USDA Soil Taxonomy hierarchical system?",
+    "options": {
+      "A": "Order",
+      "B": "Family",
+      "C": "Series",
+      "D": "Great Group"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 163,
+    "topic": "Soil Taxonomy",
+    "question": "According to the notes, the USDA Soil Taxonomy groups end in a specific suffix to denote the Order. Which of the following suffixes correctly identifies a soil Order?",
+    "options": {
+      "A": "-sols",
+      "B": "-ans",
+      "C": "-ites",
+      "D": "-ic"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 164,
+    "topic": "Soil Forming Factors",
+    "question": "In the soil formation equation S = f(C, O, R, P, T), the 'R' stands for:",
+    "options": {
+      "A": "Rainfall",
+      "B": "Rocks",
+      "C": "Relief / Topography",
+      "D": "Reaction (pH)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 165,
+    "topic": "Soil Forming Factors",
+    "question": "Which specific components of climate (C) are highlighted as the most important in influencing soil formation?",
+    "options": {
+      "A": "Wind speed and atmospheric pressure",
+      "B": "Temperature and precipitation (moisture)",
+      "C": "Humidity and cloud cover",
+      "D": "Solar radiation and dew point"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 166,
+    "topic": "Soil Forming Factors",
+    "question": "How does relief or topography generally affect soil depth?",
+    "options": {
+      "A": "Steep slopes tend to have very deep, fully developed soils.",
+      "B": "Flat or gently undulating areas tend to accumulate deeper soils compared to steep slopes.",
+      "C": "Relief has no impact on soil depth; only time does.",
+      "D": "Valley bottoms always contain the shallowest skeletal soils."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 167,
+    "topic": "Soil Forming Factors",
+    "question": "Which of the following statements best describes an 'Immature' soil profile in terms of horizonation?",
+    "options": {
+      "A": "It contains O, A, E, B, and C horizons distinctly.",
+      "B": "It only has A and C horizons without a developed B horizon.",
+      "C": "It consists solely of an R horizon.",
+      "D": "It has an extremely thick, clay-rich argillic B horizon."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 168,
+    "topic": "Weathering Series",
+    "question": "According to the Bowen continuous reaction series, which plagioclase feldspar is most susceptible to weathering due to crystallizing first at high temperatures?",
+    "options": {
+      "A": "Sodium-Plagioclase (Albite)",
+      "B": "Calcium-Plagioclase (Anorthite)",
+      "C": "Potassium Feldspar (Microcline)",
+      "D": "Muscovite"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 169,
+    "topic": "Weathering Series",
+    "question": "In the discontinuous series of mineral crystallization (and weathering susceptibility), what mineral follows Olivine?",
+    "options": {
+      "A": "Quartz",
+      "B": "Biotite",
+      "C": "Pyroxene",
+      "D": "Amphibole"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 170,
+    "topic": "Physical Weathering Processes",
+    "question": "Freezing and thawing (frost action) causes rocks to shatter because:",
+    "options": {
+      "A": "Water contracts when it freezes, creating a vacuum in the rock pores.",
+      "B": "Water expands by approximately 9% when it freezes, exerting immense outward pressure within crevices.",
+      "C": "Ice dissolves silicate minerals faster than liquid water.",
+      "D": "Freezing halts all chemical reactions, making rocks brittle."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 171,
+    "topic": "Chemical Weathering Processes",
+    "question": "The weathering reaction CaCO3 + H2O + CO2 \u2192 Ca(HCO3)2 is a classic example of:",
+    "options": {
+      "A": "Hydration",
+      "B": "Hydrolysis",
+      "C": "Carbonation",
+      "D": "Oxidation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 172,
+    "topic": "Chemical Weathering Processes",
+    "question": "Why is the carbonation process particularly effective in pedogenesis?",
+    "options": {
+      "A": "Because root respiration and organic matter decay enrich the soil solution with CO2, forming effective carbonic acid.",
+      "B": "Because it completely stops the loss of cations from the soil profile.",
+      "C": "Because it only happens at extremely high temperatures in arid regions.",
+      "D": "Because it converts quartz directly into clay."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 173,
+    "topic": "Chemical Weathering Processes",
+    "question": "Which of the following pairs of primary minerals are considered dark-colored ferromagnesian minerals that weather relatively rapidly?",
+    "options": {
+      "A": "Quartz and Muscovite",
+      "B": "Orthoclase and Albite",
+      "C": "Olivine and Biotite",
+      "D": "Zircon and Tourmaline"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 174,
+    "topic": "Factors Governing Mineral Stability",
+    "question": "How does the 'tightness or closeness of packing' within a mineral crystal lattice influence its weathering?",
+    "options": {
+      "A": "Tightly packed minerals like Zircon weather much faster than loosely packed ones.",
+      "B": "Less tightly packed crystals (e.g., Olivine) are relatively easily weathered compared to tightly packed ones.",
+      "C": "Packing density only affects physical weathering, not chemical stability.",
+      "D": "It determines the color but not the weathering rate of the mineral."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 175,
+    "topic": "Moisture Measurements",
+    "question": "When utilizing the formula for volumetric moisture content ($\u03b8 = Vw / Vt$), what does Vt represent?",
+    "options": {
+      "A": "Volume of water",
+      "B": "Volume of voids",
+      "C": "Total bulk volume of the soil sample",
+      "D": "Volume of solid particles"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 176,
+    "topic": "Moisture Measurements",
+    "question": "If the gravimetric moisture content (Cw) is 0.20 g/g and the bulk density (Db) is 1.50 g/cm\u00b3, what is the volumetric moisture content (Cv), assuming water density is 1.0 g/cm\u00b3?",
+    "options": {
+      "A": "0.133",
+      "B": "0.300",
+      "C": "0.750",
+      "D": "1.700"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 177,
+    "topic": "Soil Particle Separates",
+    "question": "According to the notes, which institute's classification scheme defines silt as particles strictly between 0.002 mm and 0.06 mm?",
+    "options": {
+      "A": "USDA (United States Department of Agriculture)",
+      "B": "ISSS (International Soil Science Society)",
+      "C": "MIT (Massachusetts Institute of Technology)",
+      "D": "BSI (British Standard Institute)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 178,
+    "topic": "Soil Texture Importance",
+    "question": "Which of the following is an agricultural importance of knowing soil texture?",
+    "options": {
+      "A": "It determines the exact age of the bedrock.",
+      "B": "It influences soil fertility primarily through its effect on cation exchange capacity.",
+      "C": "It changes daily and dictates weather patterns.",
+      "D": "It determines the exact color of the soil's A-horizon."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 179,
+    "topic": "Mechanical Analysis",
+    "question": "During the sedimentation phase of particle size analysis, how is temperature usually accounted for?",
+    "options": {
+      "A": "It is completely ignored as it doesn't affect settling.",
+      "B": "The sample must be frozen solid.",
+      "C": "Temperature dictates the fluid's density and dynamic viscosity, which are critical variables in Stokes' equation.",
+      "D": "Temperature is kept exactly at boiling point to ensure dispersion."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 180,
+    "topic": "Infiltration Capacity",
+    "question": "Under conditions where rainfall intensity exceeds the infiltration capacity of a soil, what immediate hydrologic event occurs?",
+    "options": {
+      "A": "Capillary rise",
+      "B": "Deep percolation",
+      "C": "Surface ponding and runoff",
+      "D": "Evaporation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 181,
+    "topic": "Soil Water Movement",
+    "question": "In Darcy's Law, hydraulic conductivity (K) is typically measured in units of:",
+    "options": {
+      "A": "Meters squared (m\u00b2)",
+      "B": "Length per unit time (e.g., meters per day or cm/s)",
+      "C": "Pascals (Pa)",
+      "D": "Kilograms per cubic meter (kg/m\u00b3)"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 182,
+    "topic": "Unsaturated Flow",
+    "question": "Unlike saturated flow where K is constant, the hydraulic conductivity in unsaturated soil (K(\u03b8)) is highly dependent on:",
+    "options": {
+      "A": "The soil's geographic latitude",
+      "B": "The current soil moisture content (\u03b8) or matric suction",
+      "C": "The color of the soil",
+      "D": "The barometric pressure above the soil"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 183,
+    "topic": "Energy State of Soil Water",
+    "question": "What is the primary reason why water moves from a macropore to a micropore in an unsaturated soil system?",
+    "options": {
+      "A": "Because macropores have higher salt content.",
+      "B": "Because micropores exert a stronger, more negative matric potential (higher suction) than macropores.",
+      "C": "Because gravity only affects water in micropores.",
+      "D": "Because macropores are always filled with air at saturation."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 184,
+    "topic": "Energy State of Soil Water",
+    "question": "If the water table is designated as the reference level (datum) where pressure potential is zero, the pressure potential of water at a depth 50 cm BELOW the water table is:",
+    "options": {
+      "A": "Zero",
+      "B": "Negative",
+      "C": "Positive",
+      "D": "Infinite"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 185,
+    "topic": "Moisture Characteristic Curve",
+    "question": "A clayey soil, compared to a sandy soil, will generally hold ________ water at a given high suction (e.g., 15 bars).",
+    "options": {
+      "A": "Significantly less",
+      "B": "The exact same amount of",
+      "C": "Significantly more",
+      "D": "No"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 186,
+    "topic": "Moisture Characteristic Curve",
+    "question": "Which factor causes the 'ink-bottle effect', contributing to soil moisture hysteresis?",
+    "options": {
+      "A": "Variations in the pore radius (wider bodies and narrow necks) affecting capillary rise and drainage differently.",
+      "B": "The dissolution of salts changing osmotic pressure.",
+      "C": "The expansion of clays cracking the soil.",
+      "D": "Changes in atmospheric humidity during measurement."
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 187,
+    "topic": "Redistribution and Drainage",
+    "question": "During the redistribution of soil water, what happens to the matric potential gradient at the wetting front?",
+    "options": {
+      "A": "It becomes zero.",
+      "B": "It becomes highly positive.",
+      "C": "It remains very large because the dry soil below exerts strong suction compared to the wet soil above.",
+      "D": "It completely reverses direction upwards."
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 188,
+    "topic": "Soil Structure",
+    "question": "In describing the size classes of soil structure, which progression is standard?",
+    "options": {
+      "A": "Weak, Moderate, Strong",
+      "B": "Very fine, Fine, Medium, Coarse, Very coarse",
+      "C": "Platy, Prismatic, Blocky",
+      "D": "Faint, Distinct, Prominent"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 189,
+    "topic": "Consistence",
+    "question": "Which of the following describes a soil consistence term under DRY conditions?",
+    "options": {
+      "A": "Sticky",
+      "B": "Friable",
+      "C": "Plastic",
+      "D": "Extremely hard"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 190,
+    "topic": "Soil Classification History",
+    "question": "Which concept of soil categorizes it based strictly on geographical zones and broad climate patterns (e.g., Zonal, Azonal, Intrazonal)?",
+    "options": {
+      "A": "USDA Soil Taxonomy",
+      "B": "Sibirtsev's Zonality Concept",
+      "C": "World Reference Base",
+      "D": "Smyth and Montgomery system"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 191,
+    "topic": "Nigerian Soil Classification",
+    "question": "Smyth and Montgomery (1962) divided the well-drained soils of Central Western Nigeria into how many main groups based on bedrock?",
+    "options": {
+      "A": "Two",
+      "B": "Four",
+      "C": "Six",
+      "D": "Twelve"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 192,
+    "topic": "Nigerian Soil Classification",
+    "question": "In the context of Nigerian soil surveys, what is a key feature of 'Sedentary/Residual' soils compared to 'Hill Wash' soils?",
+    "options": {
+      "A": "Sedentary soils are found in valley bottoms; Hill wash are on hillcrests.",
+      "B": "Sedentary soils develop in place over bedrock; Hill wash soils are transported downslope.",
+      "C": "Sedentary soils are always perfectly sand; Hill wash soils are pure clay.",
+      "D": "Sedentary soils are poorly drained swamps; Hill wash are well drained."
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 193,
+    "topic": "Nigerian Soil Classification",
+    "question": "Which soil association is explicitly noted for forming over Amphibolites complex rocks?",
+    "options": {
+      "A": "Ondo",
+      "B": "Mamu",
+      "C": "Itagunmodi",
+      "D": "Iwo"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 194,
+    "topic": "Inclusions",
+    "question": "A nodule or concretion that cannot be broken between the fingers, indicating strong cementation, is described in terms of hardness as:",
+    "options": {
+      "A": "Soft",
+      "B": "Friable",
+      "C": "Hard",
+      "D": "Plastic"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 195,
+    "topic": "Mottles",
+    "question": "In describing soil mottles, the term 'Prominent' refers specifically to which attribute?",
+    "options": {
+      "A": "Size (> 15mm)",
+      "B": "Abundance (> 20%)",
+      "C": "Contrast (clear boundary between the base colour and mottle)",
+      "D": "Hue (reddish colours)"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 196,
+    "topic": "Soil Horizons",
+    "question": "An 'R' horizon in a soil profile represents:",
+    "options": {
+      "A": "Organic matter accumulation",
+      "B": "Maximum leaching",
+      "C": "The unweathered bedrock layer",
+      "D": "A plough pan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 197,
+    "topic": "Soil Formation Process",
+    "question": "The lateral removal of the surface layer of soil by raindrop splash, run-off water, wind, or creep is termed:",
+    "options": {
+      "A": "Eluviation",
+      "B": "Gleization",
+      "C": "Erosion",
+      "D": "Illuviation"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 198,
+    "topic": "Basic Physical Concepts",
+    "question": "If a soil sample has a void ratio (e) of 1.0, what is its porosity (n) as a percentage?",
+    "options": {
+      "A": "10%",
+      "B": "50%",
+      "C": "100%",
+      "D": "25%"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 199,
+    "topic": "Water Potentials",
+    "question": "Which term describes the amount of useful work that must be done per unit quantity of pure water in transferring reversibly and isothermally to the soil water from a pool of pure water at atmospheric pressure?",
+    "options": {
+      "A": "Total Potential",
+      "B": "Osmotic Tension",
+      "C": "Field Capacity",
+      "D": "Hydraulic Gradient"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 200,
+    "topic": "Conclusion of Water Flow",
+    "question": "The steady-state downward flow of water through a completely saturated soil column under a constant head is best calculated directly using:",
+    "options": {
+      "A": "Richards' Equation",
+      "B": "Darcy's Law",
+      "C": "Stokes' Law",
+      "D": "Boyle's Law"
+    },
+    "correctAnswer": "B"
+  }
+]
