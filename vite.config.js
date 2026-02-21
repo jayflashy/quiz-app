@@ -12,22 +12,27 @@ export default defineConfig({
     vueDevTools(),
     VitePWA({
       registerType: "autoUpdate",
-      includeAssets: ["favicon.ico", "apple-touch-icon.png", "pwa-512x512.png"],
+      injectRegister: "auto",
       manifest: {
         name: "Quiz Master Pro",
         short_name: "QuizMaster",
         description: "A premium multi-subject quiz application",
         theme_color: "#4f46e5",
+        background_color: "#ffffff",
+        display: "standalone",
+        orientation: "portrait",
         icons: [
           {
             src: "pwa-192x192.png",
             sizes: "192x192",
             type: "image/png",
+            purpose: "any",
           },
           {
             src: "pwa-512x512.png",
             sizes: "512x512",
             type: "image/png",
+            purpose: "any",
           },
           {
             src: "pwa-512x512.png",
