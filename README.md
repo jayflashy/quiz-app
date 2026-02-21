@@ -1,38 +1,63 @@
-# vue-project
+# Multi-Subject Quiz Application
 
-This template should help get you started developing with Vue 3 in Vite.
+A premium, feature-rich quiz platform built with Vue 3, featuring dynamic subject loading, persistent history tracking, and a sleek dark mode interface.
 
-## Recommended IDE Setup
+## 🚀 Features
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Multi-Subject Support**: Dynamically loads quiz questions from JSON files.
+- **Persistent Progress**: Scores and exam history are saved to `localStorage`.
+- **Detailed Results**: Immediate feedback with score breakdown and percentage.
+- **Review Mode**: Review missed and unattempted questions with correct answers highlighted.
+- **Testing History**: Dedicated history dashboard with search and filtering capabilities.
+- **Dark Mode**: Built-in dark mode support with a floating toggle.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Lucide Icons**: Integrated professional iconography for a premium feel.
 
-## Recommended Browser Setup
+## 🛠️ Tech Stack
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- **Framework**: [Vue 3](https://vuejs.org/) (Composition API)
+- **Routing**: [Vue Router 4](https://router.vuejs.org/)
+- **State Management**: [Pinia](https://pinia.vuejs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Icons**: [Lucide Vue Next](https://lucide.dev/guide/packages/lucide-vue-next)
+- **Tooling**: [Vite](https://vitejs.dev/)
 
-## Customize configuration
+## 📁 Project Structure
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+```text
+src/
+├── assets/         # CSS and static assets
+├── data/           # Subject-specific JSON data (e.g., economics.json)
+├── router/         # Vue Router configuration
+├── stores/         # Pinia state stores
+├── views/          # Page components (Home, Subjects, Quiz, Results, History)
+└── App.vue         # Main layout wrapper
+```
 
-## Project Setup
+## ⚙️ Project Setup
+
+### Installation
 
 ```sh
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+### Development
 
 ```sh
 pnpm dev
 ```
 
-### Compile and Minify for Production
+### Production Build
 
 ```sh
 pnpm build
 ```
+
+## 📝 Adding New Subjects
+
+To add a new subject to the app:
+
+1. Create a `[subjectId].json` file in `src/data/`.
+2. Follow the existing schema in `economics.json`.
+3. Add the subject to the `subjects` array in `src/views/SubjectsView.vue`.
