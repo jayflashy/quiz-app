@@ -16,7 +16,7 @@ const userName = ref('')
 
 // Define components manually instead of strings so Vue can render them
 const subjects = [
-    { id: 'economics', name: 'Economics', icon: TrendingUp, description: 'Test your knowledge on micro and macro economics.' },
+    { id: 'economics', name: 'AEC 303', icon: TrendingUp, description: 'Test your knowledge on micro and macro economics.' },
     { id: 'history', name: 'History', icon: Landmark, description: 'Coming Soon.', disabled: true },
     { id: 'mathematics', name: 'Mathematics', icon: Calculator, description: 'Coming Soon.', disabled: true }
 ]
@@ -53,7 +53,7 @@ const startQuiz = (subjectId) => {
             class="text-center mb-12 w-full bg-indigo-600 dark:bg-indigo-900/50 rounded-3xl p-10 text-white shadow-lg overflow-hidden relative">
             <div class="absolute top-0 right-0 -mr-10 -mt-20 w-64 h-64 bg-white/10 rounded-full blur-3xl"></div>
             <h2 class="text-4xl font-extrabold mb-3 relative z-10">Welcome, <span class="text-yellow-300">{{ userName
-                    }}</span>!</h2>
+            }}</span>!</h2>
             <p class="text-indigo-100 text-lg relative z-10">Choose a subject below to start your exam.</p>
         </div>
 
